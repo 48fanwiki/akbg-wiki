@@ -43,8 +43,11 @@ python -m http.server 8000 -d site
 3. 修改 `.github/workflows/deploy.yml` 中的 `--project-name=akbg-wiki` 为你的 Cloudflare Pages 项目名称。
 4. 推送代码到 `main` 分支后，GitHub Actions 将自动完成编译、Pagefind 中文索引与上线部署。
 
-## 贡献与版权
+## 贡献与编辑文档
 
-欢迎同好通过 Pull Request 修正错别字、补充遗漏场次或更新有效链接。提交前请阅读 [CONTRIBUTING.md](CONTRIBUTING.md)。
+欢迎同好通过 Pull Request 修正错别字、补充遗漏场次或更新有效链接：
 
-本站仅提供纯文本资料与互联网公开链接索引，不存储任何音视频媒体文件。
+- **贡献流程与提交规范**：请先阅读 [CONTRIBUTING.md](CONTRIBUTING.md)
+- **Markdown 词条编写与表格规范**：请参考 [MD_EDITING_GUIDE.md](MD_EDITING_GUIDE.md)
+
+> **声明与致谢**：本网站由 Gemini 4 自动转换并完成静态架构与前端检索优化。本站仅提供纯文本资料与互联网公开链接索引，不存储任何音视频媒体文件。
