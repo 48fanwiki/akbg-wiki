@@ -62,6 +62,11 @@
   font-weight: 700;
 }
 
+/* 隐藏移动端抽屉内的仓库角标，仓库入口统一收口到「免责声明与共建指南」 */
+.md-nav__source {
+  display: none !important;
+}
+
 /* 中文正文排版舒适度优化 */
 .md-typeset {
   font-size: 0.78rem;

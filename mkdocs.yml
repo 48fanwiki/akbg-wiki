@@ -3,9 +3,9 @@ site_description: AKB48 Group 历代演唱会、剧场公演、音乐与娱乐�
 site_author: 管理员
 copyright: 本站为非营利粉丝资料归档站，不存储任何音视频文件，所有外部链接均来自互联网公开平台。
 
-# 推送到 GitHub 后，取消下方两行注释并替换成你的仓库地址，即可自动开启右上角「编辑此页」按钮
-# repo_url: https://github.com/你的用户名/akbg-wiki
-# edit_uri: edit/main/docs/
+repo_url: https://github.com/48fanwiki/akbg-wiki
+repo_name: 48fanwiki/akbg-wiki
+edit_uri: edit/main/docs/
 
 theme:
   name: material
