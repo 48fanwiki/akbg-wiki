@@ -1,0 +1,68 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  <link rel="stylesheet" href="{{ 'pagefind/pagefind-ui.css' | url }}">
+{% endblock %}
+
+{% block content %}
+  <div data-pagefind-body>
+    {{ super() }}
+  </div>
+
+  {% if config.extra.giscus and config.extra.giscus.enabled %}
+    <section class="akb-comments" data-pagefind-ignore>
+      <hr />
+      <h2>💬 词条纠错与补链反馈</h2>
+      <p class="akb-comments__hint">发现失效 B 站链接或遗漏场次？欢迎使用 GitHub 账号在下方留言补充。</p>
+      <script src="https://giscus.app/client.js"
+        data-repo="{{ config.extra.giscus.repo }}"
+        data-repo-id="{{ config.extra.giscus.repo_id }}"
+        data-category="{{ config.extra.giscus.category | d('General') }}"
+        data-category-id="{{ config.extra.giscus.category_id }}"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+      </script>
+    </section>
+  {% endif %}
+{% endblock %}
+
+{% block scripts %}
+  <div
+    id="akb-search-modal"
+    class="akb-search-modal"
+    role="dialog"
+    aria-modal="true"
+    aria-label="全站中文检索"
+    hidden
+    data-pagefind-base="{{ 'pagefind/' | url }}"
+  >
+    <div class="akb-search-modal__backdrop" data-close-search></div>
+    <div class="akb-search-modal__panel">
+      <div class="akb-search-modal__header">
+        <span class="akb-search-modal__title">🔍 全站词条搜索（支持中文分词与标题定位）</span>
+        <button
+          type="button"
+          class="akb-search-modal__close"
+          data-close-search
+          aria-label="关闭搜索"
+          title="关闭 (Esc)"
+        >✕</button>
+      </div>
+      <div id="akb-pagefind-container" class="akb-search-modal__body"></div>
+      <div class="akb-search-modal__footer">
+        <span>快捷键：<code>Ctrl + K</code> 或 <code>/</code> 打开 · <code>Esc</code> 关闭</span>
+      </div>
+    </div>
+  </div>
+
+  <script src="{{ 'pagefind/pagefind-ui.js' | url }}" defer></script>
+  {{ super() }}
+{% endblock %}

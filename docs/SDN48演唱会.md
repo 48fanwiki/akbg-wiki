@@ -1,0 +1,2 @@
+- SDN48 解散毕业演唱会“NEXT ENCORE”（2012年3月31日、NHKホール）
+  - http://www.bilibili.com/video/av24926011/

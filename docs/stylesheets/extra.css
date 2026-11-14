@@ -1,0 +1,435 @@
+/* ==========================================================================
+   AKBGwiki 前端美化与体验增强样式表
+   ========================================================================== */
+
+:root {
+  --md-text-font: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB",
+    "Microsoft YaHei", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+}
+
+/* 宽屏全屏自适应：释放桌面显示器两侧留白，大幅拓宽宽表格可读区域 */
+.md-grid {
+  max-width: min(96vw, 1800px);
+}
+
+/* 确保 flex 主内容列严格收缩不溢出到右侧目录 */
+.md-content {
+  min-width: 0;
+}
+
+/* AKB48 官方主色调：AKB粉 #f576a3（日间模式） */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #f576a3;
+  --md-primary-fg-color--light: #f898ba;
+  --md-primary-fg-color--dark: #df5486;
+  --md-primary-bg-color: #ffffff;
+  --md-primary-bg-color--light: rgba(255, 255, 255, 0.85);
+  --md-accent-fg-color: #e04f84;
+  --md-typeset-a-color: #df4d82;
+  --akb-table-head-bg: #fdf1f6;
+  --akb-table-head-fg: #880e4f;
+  --akb-table-stripe: rgba(245, 118, 163, 0.05);
+  --akb-table-hover: rgba(245, 118, 163, 0.12);
+  --akb-card-border: rgba(245, 118, 163, 0.42);
+}
+
+/* 护眼 AKB 樱花粉配色（夜间模式） */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #c95d85;
+  --md-primary-fg-color--light: #f576a3;
+  --md-primary-fg-color--dark: #9e3d62;
+  --md-primary-bg-color: #ffffff;
+  --md-primary-bg-color--light: rgba(255, 255, 255, 0.78);
+  --md-accent-fg-color: #f576a3;
+  --md-typeset-a-color: #f48fb1;
+  --akb-table-head-bg: #2a2129;
+  --akb-table-head-fg: #f8bbd0;
+  --akb-table-stripe: rgba(245, 118, 163, 0.04);
+  --akb-table-hover: rgba(245, 118, 163, 0.1);
+  --akb-card-border: rgba(245, 118, 163, 0.28);
+}
+
+.md-header,
+.md-tabs {
+  text-shadow: 0 1px 2px rgba(136, 14, 79, 0.18);
+}
+
+.md-tabs {
+  border-top: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+.md-tabs__link--active {
+  font-weight: 700;
+}
+
+/* 中文正文排版舒适度优化 */
+.md-typeset {
+  font-size: 0.78rem;
+  line-height: 1.72;
+}
+
+.md-typeset h1 {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.md-typeset h2 {
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  padding-bottom: 0.3rem;
+}
+
+/* --------------------------------------------------------------------------
+   顶部导航栏 Pagefind 搜索按钮
+   -------------------------------------------------------------------------- */
+.akb-search-trigger {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  height: 1.8rem;
+  padding: 0 0.65rem;
+  margin-left: 0.4rem;
+  border: 1px solid rgba(255, 255, 255, 0.34);
+  border-radius: 0.25rem;
+  background: rgba(0, 0, 0, 0.14);
+  color: var(--md-primary-bg-color);
+  cursor: pointer;
+  font-size: 0.68rem;
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+.akb-search-trigger:hover {
+  background: rgba(0, 0, 0, 0.24);
+  border-color: rgba(255, 255, 255, 0.55);
+}
+
+.akb-search-trigger__icon {
+  display: inline-flex;
+  align-items: center;
+}
+
+.akb-search-trigger__icon svg {
+  width: 0.95rem;
+  height: 0.95rem;
+  fill: currentColor;
+}
+
+.akb-search-trigger__text {
+  opacity: 0.92;
+  white-space: nowrap;
+}
+
+.akb-search-trigger__kbd {
+  padding: 0.08rem 0.32rem;
+  border-radius: 0.18rem;
+  background: rgba(255, 255, 255, 0.22);
+  font-size: 0.56rem;
+  font-family: inherit;
+  line-height: 1.3;
+  white-space: nowrap;
+}
+
+@media screen and (max-width: 59.9375em) {
+  .akb-search-trigger {
+    background: transparent;
+    border-color: transparent;
+    padding: 0.4rem;
+    margin-left: 0;
+  }
+  .akb-search-trigger__text,
+  .akb-search-trigger__kbd {
+    display: none;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Pagefind 全文搜索弹窗（适配 Material 日间 / 夜间模式）
+   -------------------------------------------------------------------------- */
+.akb-search-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 6vh 1rem 1rem;
+}
+
+.akb-search-modal[hidden] {
+  display: none !important;
+}
+
+.akb-search-modal__backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.54);
+  backdrop-filter: blur(3px);
+}
+
+.akb-search-modal__panel {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  max-width: 760px;
+  max-height: 82vh;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.5rem;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.35);
+  overflow: hidden;
+}
+
+.akb-search-modal__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.65rem 1rem;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  background: var(--akb-table-head-bg);
+}
+
+.akb-search-modal__title {
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--akb-table-head-fg);
+}
+
+.akb-search-modal__close {
+  border: none;
+  background: transparent;
+  color: var(--md-default-fg-color--light);
+  font-size: 0.85rem;
+  cursor: pointer;
+  padding: 0.15rem 0.4rem;
+  border-radius: 0.25rem;
+}
+
+.akb-search-modal__close:hover {
+  background: var(--md-default-fg-color--lightest);
+  color: var(--md-default-fg-color);
+}
+
+.akb-search-modal__body {
+  padding: 0.9rem 1rem;
+  overflow-y: auto;
+  flex: 1;
+  --pagefind-ui-scale: 0.85;
+  --pagefind-ui-primary: var(--md-typeset-a-color);
+  --pagefind-ui-text: var(--md-default-fg-color);
+  --pagefind-ui-background: var(--md-default-bg-color);
+  --pagefind-ui-border: var(--md-default-fg-color--lightest);
+  --pagefind-ui-tag: var(--md-code-bg-color);
+  --pagefind-ui-border-width: 1px;
+  --pagefind-ui-border-radius: 6px;
+  --pagefind-ui-font: var(--md-text-font);
+}
+
+.akb-search-modal__body .pagefind-ui__search-input {
+  color: var(--md-default-fg-color);
+  background-color: var(--md-code-bg-color);
+}
+
+.akb-search-modal__body .pagefind-ui__result-link {
+  color: var(--md-accent-fg-color);
+}
+
+.akb-search-modal__body mark {
+  background: rgba(233, 30, 99, 0.22);
+  color: inherit;
+  padding: 0 2px;
+  border-radius: 2px;
+}
+
+.akb-search-modal__footer {
+  padding: 0.45rem 1rem;
+  font-size: 0.62rem;
+  color: var(--md-default-fg-color--light);
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+  background: var(--md-code-bg-color);
+}
+
+.akb-search-modal__footer code {
+  padding: 0.05rem 0.3rem;
+  border-radius: 0.2rem;
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+}
+
+/* --------------------------------------------------------------------------
+   表格全屏自适应、防裁切滚动容器与长表格内部吸顶
+   -------------------------------------------------------------------------- */
+.md-typeset .md-typeset__scrollwrap {
+  margin: 1rem 0;
+  max-width: 100%;
+  overflow-x: auto !important;
+  overflow-y: visible;
+  -webkit-overflow-scrolling: touch;
+}
+
+.md-typeset .md-typeset__table {
+  display: block;
+  width: 100%;
+  padding: 0;
+  margin-bottom: 0;
+}
+
+/* 超长表格（>= 15 行）启用独立的纵向+横向滚动画布，表头固定在容器顶部 */
+.md-typeset .md-typeset__scrollwrap.akb-tall-table {
+  max-height: 76vh;
+  overflow: auto !important;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.35rem;
+}
+
+.md-typeset .md-typeset__scrollwrap.akb-tall-table table:not([class]) {
+  border-top: 0 !important;
+  border-left: 0 !important;
+}
+
+.md-typeset .md-typeset__scrollwrap.akb-tall-table table:not([class]) thead th {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
+}
+
+/* 重置原维基导出遗留的不合理 colgroup 百分比宽度，交给浏览器智能自适应列宽 */
+.md-typeset table:not([class]) colgroup,
+.md-typeset table:not([class]) col {
+  width: auto !important;
+}
+
+/* 强制 display: table 覆盖 Material 的 inline-block，彻底消灭表格右侧空白间隙 */
+.md-typeset .md-typeset__table table:not([class]),
+.md-typeset table:not([class]) {
+  display: table !important;
+  width: 100% !important;
+  max-width: none !important;
+  overflow: visible !important;
+  border: 0 !important;
+  border-collapse: separate;
+  border-spacing: 0;
+  border-top: 1px solid var(--md-default-fg-color--lightest) !important;
+  border-left: 1px solid var(--md-default-fg-color--lightest) !important;
+  border-radius: 0.3rem;
+  font-size: 0.68rem;
+  line-height: 1.55;
+}
+
+.md-typeset table:not([class]) thead th {
+  background-color: var(--akb-table-head-bg);
+  color: var(--akb-table-head-fg);
+  font-weight: 700;
+  border-bottom: 2px solid var(--akb-card-border);
+  white-space: nowrap;
+}
+
+.md-typeset table:not([class]) tbody tr:nth-child(even) {
+  background-color: var(--akb-table-stripe);
+}
+
+.md-typeset table:not([class]) tbody tr:hover {
+  background-color: var(--akb-table-hover);
+  transition: background-color 0.15s ease;
+}
+
+.md-typeset table:not([class]) td,
+.md-typeset table:not([class]) th {
+  padding: 0.46rem 0.6rem;
+  vertical-align: middle;
+  border-right: 1px solid var(--md-default-fg-color--lightest);
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+/* 表格内的长 URL 自动优雅换行 */
+.md-typeset table:not([class]) td a {
+  word-break: break-all;
+}
+
+/* 表格内的有序/无序列表紧凑排版（如《EP 曲目》列） */
+.md-typeset table:not([class]) td ol,
+.md-typeset table:not([class]) td ul {
+  margin: 0.2rem 0 0.2rem 1rem;
+  padding-left: 0.4rem;
+}
+
+.md-typeset table:not([class]) td p {
+  margin: 0.2rem 0;
+}
+
+/* 将「回到页面顶部」按钮移至右下角，避免遮挡正文标题与表头 */
+.md-top {
+  top: auto !important;
+  bottom: 1.5rem !important;
+  right: 1.5rem !important;
+  left: auto !important;
+  margin-left: 0 !important;
+  transform: none !important;
+}
+
+/* --------------------------------------------------------------------------
+   外部链接与 B站链接视觉标识
+   -------------------------------------------------------------------------- */
+.md-typeset a[href*="bilibili.com"]::before {
+  content: "▶ ";
+  font-size: 0.82em;
+  color: #fb7299;
+  font-weight: 700;
+}
+
+.md-typeset a.akb-external-link::after {
+  content: " ↗";
+  font-size: 0.78em;
+  opacity: 0.65;
+}
+
+/* --------------------------------------------------------------------------
+   首页门户卡片（Grid Cards）宽屏对称排列与增强
+   -------------------------------------------------------------------------- */
+.md-typeset .grid.cards > ul {
+  grid-template-columns: repeat(auto-fit, minmax(13.5rem, 1fr));
+}
+
+.md-typeset .grid.cards > ul > li {
+  border-color: var(--akb-card-border);
+  border-radius: 0.45rem;
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+}
+
+.md-typeset .grid.cards > ul > li:hover {
+  transform: translateY(-2px);
+  border-color: var(--md-accent-fg-color);
+  box-shadow: 0 6px 18px rgba(216, 27, 96, 0.12);
+}
+
+/* --------------------------------------------------------------------------
+   评论区与免责声明容器
+   -------------------------------------------------------------------------- */
+.akb-comments {
+  margin-top: 2rem;
+}
+
+.akb-comments__hint {
+  font-size: 0.7rem;
+  color: var(--md-default-fg-color--light);
+}
+
+/* --------------------------------------------------------------------------
+   全站樱花飘落画布（不遮挡导航与交互点击）
+   -------------------------------------------------------------------------- */
+#akb-sakura-canvas {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 2;
+}
+
+@media print, (prefers-reduced-motion: reduce) {
+  #akb-sakura-canvas {
+    display: none !important;
+  }
+}

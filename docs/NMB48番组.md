@@ -1,0 +1,53 @@
+# NMB48番组
+
+- **系外不再编列无中文字幕的视频**
+- **NMB48 连载中番组**
+  - YNN“NMB48 CHANNEL”（YNN）→ 新YNN NMB48 CHANNEL（YNN→Niconico Channel）
+  - 夕方NMB48 (Kawaiian TV)→ 夕方NMB48+ (大阪channel/Niconico Channel→Line Live)
+  - 漫步百景吃货旅 (Kawaiian TV)→ 新漫步百景吃货旅(Niconico Channel)
+  - NMB48の＃エモスト
+  - NMB48官方YOUTUBE频道
+  - NMB48官方OPENREC频道
+  - 昼方NMB48＋(Niconico Channel→Line Live)
+  - NMB NEWS48 (Line Live)
+  - かまいたちの机上の空论城 (渋谷凪咲；NMB成员)
+
+- **NMB48 已完结+不定期更新**
+  - YouTube频道 / NICONICO / Abema TV / Line Live / Showroom / Instagram / 17Live / 其他sns相关 (社群或直播平台为主)
+  - NMB48艺人（主打番组）
+  - NMB和学习君（学习类）
+  - NMB48のナイショで限界突破!（挑战类）
+  - NMB48总之先浪费一小时TV (Kawaiian TV)
+  - NMB的非常打工（打工类）
+  - Docking48（挑战48，成员们进行各种挑战）
+  - 姬太郎
+  - 攻克东京23区
+  - NMB48の课外授业
+  - NMB48特大独家爆料
+  - NMB48青春白皮书
+  - NMB48 才不像偶像
+  - NMB48的真格钓鱼
+  - 第一话 EPISODE1
+  - NMB48 五期生密着2016 夏 ～战斗从这里开始～ (Kawaiian TV)
+  - NMB48 研究生密着2017 ～新的战斗轨迹～ (Kawaiian TV)
+  - NMB48 选秀3期生&6期生密着2018 ～创造新历史的是我们～ (Kawaiian TV)
+  - NMB48 研究生密着2019 ～争取美好的未来～ (Kawaiian TV)
+  - NMB48七期生密着2020
+  - 夜方NMB48 (Kawaiian TV)
+  - 外景方NMB48 (Kawaiian TV)
+  - 天竺鼠のNAMBAかっ! (Kawaiian TV)
+  - NMB48祐衣碰纱英P咨询室 (高野祐衣 村瀬纱英)
+  - 3年2班废柴之歌 (近藤里奈 木下百花)
+  - Aruaru YY电视 (HKT48 / NMB48)
+  - 迷路姬 迈向大人 (渡边美优纪)
+  - M姐（山本彩）
+  - 山田菜々の美神革命（山田菜々)
+  - 须藤凛凛花的麻将ガチバトル!→NMB48村瀬纱英の麻雀ガチバトル！さえぴぃのトップ目とったんで！(须藤凛凛花→村瀬纱英，麻将番)
+  - NMB48周二整起来 (Kawaiian TV)
+  - NMB48的想要能变得○○(Kawaiian TV×# SKYPerfecTV！)
+  - 发掘宝藏！？闪闪发光的钻石 (矢仓枫子)(Kawaiian TV)
+  - 冲击头条NMB48 (Kawaiian TV)
+  - NMB的想看!想了解!大阪府议会→NMB的告诉我!大阪府议会(小短番)
+  - 4方8方美人 (NMB & SKE双冠名番组,在SKE分类可见同名编列)(大阪channel)
+  - 涩谷凪咲の世界で一番热いネコ（涩谷凪咲）(大阪channel)
+  - NMB48特番 (包含山田菜菜24小时毕业纪念活动)

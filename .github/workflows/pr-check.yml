@@ -1,0 +1,48 @@
+name: PR Quality Check
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check for oversized or disallowed media files (> 5MB)
+        run: |
+          python -c "
+          import os, sys
+          bad = []
+          for root, _, files in os.walk('docs'):
+              for f in files:
+                  p = os.path.join(root, f)
+                  size = os.path.getsize(p)
+                  if size > 5 * 1024 * 1024:
+                      bad.append((p, size))
+                  if f.lower().endswith(('.mp4', '.mkv', '.avi', '.flv', '.mp3', '.flac', '.wav', '.torrent')):
+                      bad.append((p, size))
+          if bad:
+              print('ERROR: Disallowed or oversized media files detected:', bad)
+              sys.exit(1)
+          print('Media & file-size check passed.')
+          "
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Test MkDocs build
+        env:
+          SKIP_PAGEFIND_HOOK: "1"
+        run: mkdocs build --clean

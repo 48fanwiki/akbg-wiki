@@ -1,0 +1,30 @@
+# MkDocs & Build Outputs
+site/
+.cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Node / Pagefind cache
+node_modules/
+
+# Legacy one-time migration scripts in root
+/clean.py
+/clean_extra_col.py
+/fix_final.py
+/fix_html_urls.py
+/fix_leftovers.py
+/fix_links.py
+/fix_tables.py
+/generate_missing.py
+/simplify.py
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,7 @@
+# Cloudflare Pages 301 重定向规则
+# 可将旧版 MediaWiki 地址无损引导至新页面（按需补充）
+
+/index.php / 301
+/wiki/* /:splat 301
+/帮助.html /帮助/ 301
+/演唱会.html /演唱会/ 301
