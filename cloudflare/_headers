@@ -9,6 +9,13 @@
 /assets/*
   Cache-Control: public, max-age=31536000, immutable
 
+# 自定义样式与交互脚本：1小时新鲜期 + 24小时后台静默更新，兼顾秒开与改版生效
+/stylesheets/*
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/javascripts/*
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
 # Pagefind 索引碎片与入口：短缓存 + 后台异步更新，保证词条更新后能及时搜到
 /pagefind/*
   Cache-Control: public, max-age=300, stale-while-revalidate=86400

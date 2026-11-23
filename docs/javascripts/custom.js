@@ -8,6 +8,7 @@
 
 (function () {
   var pagefindInitialized = false;
+  var pagefindLoadPromise = null;
   var fixedBundlePath = null;
 
   function resolveBundlePath() {
@@ -72,20 +73,73 @@
     });
   }
 
+  function loadPagefindAssets() {
+    if (typeof window.PagefindUI === "function") {
+      return Promise.resolve();
+    }
+    if (pagefindLoadPromise) return pagefindLoadPromise;
+
+    var base = resolveBundlePath();
+    if (!document.getElementById("akb-pagefind-css")) {
+      var link = document.createElement("link");
+      link.id = "akb-pagefind-css";
+      link.rel = "stylesheet";
+      link.href = base + "pagefind-ui.css";
+      document.head.appendChild(link);
+    }
+
+    pagefindLoadPromise = new Promise(function (resolve, reject) {
+      var existing = document.getElementById("akb-pagefind-js");
+      if (existing) {
+        if (typeof window.PagefindUI === "function") {
+          resolve();
+          return;
+        }
+        existing.addEventListener("load", function () { resolve(); }, { once: true });
+        existing.addEventListener("error", function () {
+          pagefindLoadPromise = null;
+          reject(new Error("PagefindUI failed to load"));
+        }, { once: true });
+        return;
+      }
+
+      var script = document.createElement("script");
+      script.id = "akb-pagefind-js";
+      script.src = base + "pagefind-ui.js";
+      script.async = true;
+      script.onload = function () {
+        resolve();
+      };
+      script.onerror = function () {
+        script.remove();
+        pagefindLoadPromise = null;
+        reject(new Error("PagefindUI failed to load"));
+      };
+      document.head.appendChild(script);
+    });
+
+    return pagefindLoadPromise;
+  }
+
+  function showPagefindUnavailable(container) {
+    container.innerHTML =
+      '<p style="padding:1rem;font-size:0.75rem;opacity:0.8;">' +
+      "当前处于未索引的预览状态（<code>pagefind-ui.js</code> 尚未加载）。" +
+      "请使用 <code>mkdocs build</code> 或启动脚本构建后体验完整中文分词检索。" +
+      "</p>";
+  }
+
   function initPagefindUI() {
     if (pagefindInitialized) return;
     var container = document.getElementById("akb-pagefind-container");
     if (!container) return;
 
     if (typeof window.PagefindUI !== "function") {
-      container.innerHTML =
-        '<p style="padding:1rem;font-size:0.75rem;opacity:0.8;">' +
-        "当前处于未索引的预览状态（<code>pagefind-ui.js</code> 尚未加载）。" +
-        "请使用 <code>mkdocs build</code> 或启动脚本构建后体验完整中文分词检索。" +
-        "</p>";
+      showPagefindUnavailable(container);
       return;
     }
 
+    container.innerHTML = "";
     new window.PagefindUI({
       element: "#akb-pagefind-container",
       bundlePath: resolveBundlePath(),
@@ -107,16 +161,38 @@
     pagefindInitialized = true;
   }
 
+  function focusSearchInput(modal) {
+    window.setTimeout(function () {
+      var input = modal.querySelector(".pagefind-ui__search-input");
+      if (input) input.focus();
+    }, 30);
+  }
+
   function openSearchModal() {
     var modal = document.getElementById("akb-search-modal");
     if (!modal) return;
     modal.hidden = false;
     document.body.style.overflow = "hidden";
-    initPagefindUI();
-    window.setTimeout(function () {
-      var input = modal.querySelector(".pagefind-ui__search-input");
-      if (input) input.focus();
-    }, 30);
+
+    if (pagefindInitialized) {
+      focusSearchInput(modal);
+      return;
+    }
+
+    var container = document.getElementById("akb-pagefind-container");
+    if (container && typeof window.PagefindUI !== "function") {
+      container.innerHTML =
+        '<p style="padding:1rem;font-size:0.75rem;opacity:0.75;">正在加载中文搜索引擎...</p>';
+    }
+
+    loadPagefindAssets()
+      .then(function () {
+        initPagefindUI();
+        if (!modal.hidden) focusSearchInput(modal);
+      })
+      .catch(function () {
+        if (container) showPagefindUnavailable(container);
+      });
   }
 
   function closeSearchModal() {
@@ -131,6 +207,19 @@
     window.__akbSearchEventsBound = true;
 
     resolveBundlePath();
+
+    // 鼠标悬停或聚焦搜索框时提前在后台预加载 Pagefind 资源，点击即秒开
+    document.addEventListener("pointerenter", function (e) {
+      if (e.target && e.target.closest && e.target.closest("#akb-search-trigger")) {
+        loadPagefindAssets().catch(function () {});
+      }
+    }, true);
+
+    document.addEventListener("focusin", function (e) {
+      if (e.target && e.target.closest && e.target.closest("#akb-search-trigger")) {
+        loadPagefindAssets().catch(function () {});
+      }
+    });
 
     document.addEventListener("click", function (e) {
       if (e.target.closest("#akb-search-trigger")) {

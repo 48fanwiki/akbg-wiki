@@ -1,10 +1,5 @@
 {% extends "base.html" %}
 
-{% block extrahead %}
-  {{ super() }}
-  <link rel="stylesheet" href="{{ 'pagefind/pagefind-ui.css' | url }}">
-{% endblock %}
-
 {% block content %}
   <div data-pagefind-body>
     {{ super() }}
@@ -63,6 +58,5 @@
     </div>
   </div>
 
-  <script src="{{ 'pagefind/pagefind-ui.js' | url }}" defer></script>
   {{ super() }}
 {% endblock %}
