@@ -1,7 +1,7 @@
 # AKBG 资源归档维基
 
 !!! tip "欢迎光临 AKBG 资源俱乐部静态归档站"
-    本站收录 AKB48 Group 历代演唱会、剧场公演、音乐番组、娱乐综艺与影视纪录片索引。资源链接均整理自互联网公开平台，仅供交流与学习参考（详见 [免责声明](免责声明.md)）。
+    本站收录 AKB48 Group 历代演唱会、剧场公演、音乐番组、娱乐综艺与影视纪录片索引。资源链接均整理自互联网公开平台，仅供交流与学习参考（详见 [免责声明](关于/免责声明.md)）。
     按下 ++ctrl+k++ 或 ++slash++ 可随时呼出**全站中文秒搜**！
 
 ## 快速入口
@@ -14,7 +14,7 @@
 
     AKB48、SKE48、NMB48、HKT48、NGT48、STU48 及 Request Hour 历届演唱会索引
 
-    [:octicons-arrow-right-24: 进入演唱会专区](演唱会.md)
+    [:octicons-arrow-right-24: 进入演唱会专区](演唱会/演唱会.md)
 
 -   :material-theater:{ .lg .middle } **剧场公演**
 
@@ -22,7 +22,7 @@
 
     各团剧场公演熟肉合辑、生肉归档区与特别纪念公演汇总
 
-    [:octicons-arrow-right-24: 浏览 AKB48 公演](AKB48剧场公演合辑.md)
+    [:octicons-arrow-right-24: 浏览 AKB48 公演](剧场公演/AKB48剧场公演合辑.md)
 
 -   :material-music-box-multiple:{ .lg .middle } **音乐番组**
 
@@ -30,7 +30,7 @@
 
     Music Station、CDTV、红白歌合战、FNS 歌谣祭等历年音番现场记录
 
-    [:octicons-arrow-right-24: 进入音乐番组](音乐番组.md)
+    [:octicons-arrow-right-24: 进入音乐番组](音乐番组/音乐番组.md)
 
 -   :material-television-classic:{ .lg .middle } **娱乐综艺番组**
 
@@ -38,7 +38,7 @@
 
     AKBINGO!、神 TV、毛利桑及各大姐妹团冠名综艺节目汇总
 
-    [:octicons-arrow-right-24: 进入 AKB48 番组](AKB48番组.md)
+    [:octicons-arrow-right-24: 进入 AKB48 番组](娱乐番组/AKB48/AKB48番组.md)
 
 -   :material-trophy:{ .lg .middle } **大型与特殊活动**
 
@@ -46,7 +46,7 @@
 
     选拔总选举、AKB 红白歌合战、猜拳大会、大运动会、组阁与选秀合辑
 
-    [:octicons-arrow-right-24: 查看大型活动](大型_特殊活动.md)
+    [:octicons-arrow-right-24: 查看大型活动](影视与活动/大型_特殊活动.md)
 
 -   :material-filmstrip:{ .lg .middle } **纪录片 / 影视 / 活动**
 
@@ -54,7 +54,7 @@
 
     AKB GROUP 纪录片、总选举合辑、日剧、舞台剧及动画 AKB0048
 
-    [:octicons-arrow-right-24: 进入影视与活动](纪录片、影视相关、舞台剧、动画.md)
+    [:octicons-arrow-right-24: 进入影视与活动](影视与活动/纪录片、影视相关、舞台剧、动画.md)
 
 -   :material-star-circle:{ .lg .middle } **MV / PV 与专题**
 
@@ -62,15 +62,15 @@
 
     AKB48 PV 合集、SKE48 日常公演全记录与官方历史专题汇总
 
-    [:octicons-arrow-right-24: 查看 AKB48 PV 合集](AKB48 PV合集.md)
+    [:octicons-arrow-right-24: 查看 AKB48 PV 合集](影视与活动/AKB48 PV合集.md)
 
--   :material-panda:{ .lg .middle } **AKB48 Team SH**
+-   :material-panda:{ .lg .middle } **TSH48 专区**
 
     ---
 
     成员介绍、音乐作品、周年演唱会、剧场公演与总选记录全档
 
-    [:octicons-arrow-right-24: 进入 Team SH 专区](TSH成员介绍.md)
+    [:octicons-arrow-right-24: 进入 TSH48 专区](分团与专区/TSH/TSH成员介绍.md)
 
 </div>
 
@@ -78,59 +78,59 @@
 
 # 完整分类目录
 
-## **[演唱会](演唱会.md "演唱会")**
+## **[演唱会](演唱会/演唱会.md "演唱会")**
 
-### 《[AKB48演唱会合辑](AKB48演唱会合辑 "AKB48演唱会合辑")》(本区收录以AKB48系内开催为主)(其他分团则无分系内系外) 注:AKB红白收录于大型活动
+### 《[AKB48演唱会合辑](演唱会/AKB48演唱会合辑.md "AKB48演唱会合辑")》(本区收录以AKB48系内开催为主)(其他分团则无分系内系外) 注:AKB红白收录于大型活动
 
-### 《[TOYOTA presents AKB48 Team8 全国巡演～前往47个美丽城市～](TOYOTA_presents_AKB48_Team8_全国巡演～前往47个美丽城市～ "TOYOTA presents AKB48 Team8 全国巡演～前往47个美丽城市～")》（AKB48 Team8）
+### 《[TOYOTA presents AKB48 Team8 全国巡演～前往47个美丽城市～](演唱会/TOYOTA_presents_AKB48_Team8_全国巡演～前往47个美丽城市～.md "TOYOTA presents AKB48 Team8 全国巡演～前往47个美丽城市～")》（AKB48 Team8）
 
-### 《[AKB48特别演出合辑](AKB48特别演出合辑 "AKB48特别演出合辑")》（本区收录以AKB48系外开催为主，尾木祭、台场合众国、小指祭、海外特别公演、各类音乐节大型演出等）
+### 《[AKB48特别演出合辑](演唱会/AKB48特别演出合辑.md "AKB48特别演出合辑")》（本区收录以AKB48系外开催为主，尾木祭、台场合众国、小指祭、海外特别公演、各类音乐节大型演出等）
 
 ### 《[AKBGroup重温时间 最佳曲目(Request Hour)合辑](AKBGroup重温时间_最佳曲目(Request_Hour)合辑 "AKBGroup重温时间 最佳曲目(Request Hour)合辑")》（AKB48、SKE48、NMB48、HKT48、STU48）
 
-### 《[SKE48演唱会合辑](SKE48演唱会合辑 "SKE48演唱会合辑")》
+### 《[SKE48演唱会合辑](演唱会/SKE48演唱会合辑.md "SKE48演唱会合辑")》
 
-### 《[NMB48演唱会合辑](NMB48演唱会合辑 "NMB48演唱会合辑")》
+### 《[NMB48演唱会合辑](演唱会/NMB48演唱会合辑.md "NMB48演唱会合辑")》
 
-### 《[HKT48演唱会合辑](HKT48演唱会合辑 "HKT48演唱会合辑")》
+### 《[HKT48演唱会合辑](演唱会/HKT48演唱会合辑.md "HKT48演唱会合辑")》
 
-### 《[NGT48演唱会合辑](NGT48演唱会合辑 "NGT48演唱会合辑")》
+### 《[NGT48演唱会合辑](演唱会/NGT48演唱会合辑.md "NGT48演唱会合辑")》
 
-### 《[STU48演唱会合辑](STU48演唱会合辑 "STU48演唱会合辑")》
+### 《[STU48演唱会合辑](演唱会/STU48演唱会合辑.md "STU48演唱会合辑")》
 
-### 《[48系SOLO、UNIT演唱会合辑](48系SOLO、UNIT演唱会合辑 "48系SOLO、UNIT演唱会合辑")》
+### 《[48系SOLO、UNIT演唱会合辑](演唱会/48系SOLO、UNIT演唱会合辑.md "48系SOLO、UNIT演唱会合辑")》
 
-### 《[SDN48演唱会](SDN48演唱会 "SDN48演唱会")》
+### 《[SDN48演唱会](演唱会/SDN48演唱会.md "SDN48演唱会")》
 
-## **[48系剧场公演](48系剧场公演 "48系剧场公演")**
+## **[48系剧场公演](剧场公演/48系剧场公演.md "48系剧场公演")**
 
 温馨提示:剧场公演熟肉区的收录,只要是有编列于表格内的场次,不论还有无链接,影片皆曾有做过中文字幕,当然还能不能找到字幕源是另一回事了
 
-### [《AKB48剧场公演合辑》](AKB48剧场公演合辑 "《AKB48剧场公演合辑》")
+### [《AKB48剧场公演合辑》](剧场公演/AKB48剧场公演合辑.md "《AKB48剧场公演合辑》")
 
-### [《SKE48剧场公演合辑》](SKE48剧场公演合辑 "《SKE48剧场公演合辑》")
+### [《SKE48剧场公演合辑》](剧场公演/SKE48剧场公演合辑.md "《SKE48剧场公演合辑》")
 
-### [《NMB48剧场公演合辑》](NMB48剧场公演合辑 "《NMB48剧场公演合辑》")
+### [《NMB48剧场公演合辑》](剧场公演/NMB48剧场公演合辑.md "《NMB48剧场公演合辑》")
 
-### [《HKT48剧场公演合辑》](HKT48剧场公演合辑 "《HKT48剧场公演合辑》")
+### [《HKT48剧场公演合辑》](剧场公演/HKT48剧场公演合辑.md "《HKT48剧场公演合辑》")
 
-### [《NGT48剧场公演合辑》](NGT48剧场公演合辑 "《NGT48剧场公演合辑》")
+### [《NGT48剧场公演合辑》](剧场公演/NGT48剧场公演合辑.md "《NGT48剧场公演合辑》")
 
-### [《STU48剧场公演合辑》](STU48剧场公演合辑 "《STU48剧场公演合辑》")
+### [《STU48剧场公演合辑》](剧场公演/STU48剧场公演合辑.md "《STU48剧场公演合辑》")
 
-### [《剧场公演生肉区》](剧场公演生肉区 "《剧场公演生肉区》")(除特别公演外所有无字幕公演皆收录于此)
+### [《剧场公演生肉区》](剧场公演/剧场公演生肉区.md "《剧场公演生肉区》")(除特别公演外所有无字幕公演皆收录于此)
 
-### 《[AKB Group特别剧场公演合辑](AKB_Group特别剧场公演合辑 "AKB Group特别剧场公演合辑")》（献给错过的你们/见逃した君たち～1、2 / 献给追忆的你们/思い出せる君たち～/Theatre G-Rosso公演）
+### 《[AKB Group特别剧场公演合辑](剧场公演/AKB_Group特别剧场公演合辑.md "AKB Group特别剧场公演合辑")》（献给错过的你们/见逃した君たち～1、2 / 献给追忆的你们/思い出せる君たち～/Theatre G-Rosso公演）
 
-## **[纪录片、影视相关、舞台剧、动画](纪录片、影视相关、舞台剧、动画 "纪录片、影视相关、舞台剧、动画")**
+## **[纪录片、影视相关、舞台剧、动画](影视与活动/纪录片、影视相关、舞台剧、动画.md "纪录片、影视相关、舞台剧、动画")**
 
-**[AKB GROUP纪录片合集](AKB_GROUP纪录片合集 "AKB GROUP纪录片合集")**
+**[AKB GROUP纪录片合集](影视与活动/AKB GROUP纪录片合集.md "AKB GROUP纪录片合集")**
 
-**[影视相关](影视相关 "影视相关")**
+**[影视相关](影视与活动/影视相关.md "影视相关")**
 
 **[AKB GROUP成员出演舞台剧/歌舞剧合辑](AKB_GROUP成员出演舞台剧/歌舞剧合辑 "AKB GROUP成员出演舞台剧/歌舞剧合辑")**
 
-**[AKB0048](AKB0048 "AKB0048")**
+**[AKB0048](影视与活动/AKB0048.md "AKB0048")**
 
 ## **[大型/特殊活动](大型/特殊活动 "大型/特殊活动")(总选、红白、猜拳、运动会、歌唱大赛、选秀、典、组阁等)**
 
@@ -174,56 +174,56 @@
 - **组阁**
   - **《AKB GROUP组阁合辑》**（AKB48、SKE48、NMB48）
 
-## [音乐番组](音乐番组 "音乐番组")
+## [音乐番组](音乐番组/音乐番组.md "音乐番组")
 
 - **音番2018年开始系内成员若小部分出演则不再收录全场(除非没有CUT版视频)**
 
 <!-- -->
 
 - 正在播出音番
-  - [Music Station（包括Super Live）](Music_Station（包括Super_Live） "Music Station（包括Super Live）")
-  - [CDTV（包括跨年、毕业季、万圣节、圣诞节等SP Live）](CDTV（包括跨年、毕业季、万圣节、圣诞节等SP_Live） "CDTV（包括跨年、毕业季、万圣节、圣诞节等SP Live）")
-  - [Music Fair](Music_Fair "Music Fair")
-  - [Utacon](Utacon "Utacon")
-  - [Buzz Rhythm](Buzz_Rhythm "Buzz Rhythm")
-  - [BOMBER-E](BOMBER-E "BOMBER-E")
-  - [JAPAN COUNTDOWN](JAPAN_COUNTDOWN "JAPAN COUNTDOWN")
-  - [MUSIC ON! TV](MUSIC_ON!_TV "MUSIC ON! TV")
+  - [Music Station（包括Super Live）](音乐番组/Music Station（包括Super Live）.md "Music Station（包括Super Live）")
+  - [CDTV（包括跨年、毕业季、万圣节、圣诞节等SP Live）](音乐番组/CDTV（包括跨年、毕业季、万圣节、圣诞节等SP Live）.md "CDTV（包括跨年、毕业季、万圣节、圣诞节等SP Live）")
+  - [Music Fair](音乐番组/Music Fair.md "Music Fair")
+  - [Utacon](音乐番组/Utacon.md "Utacon")
+  - [Buzz Rhythm](音乐番组/Buzz Rhythm.md "Buzz Rhythm")
+  - [BOMBER-E](音乐番组/BOMBER-E.md "BOMBER-E")
+  - [JAPAN COUNTDOWN](音乐番组/JAPAN COUNTDOWN.md "JAPAN COUNTDOWN")
+  - [MUSIC ON! TV](音乐番组/MUSIC ON! TV.md "MUSIC ON! TV")
   - [SPACE SHOWER TV(SSTV)](SPACE_SHOWER_TV(SSTV) "SPACE SHOWER TV(SSTV)")
-  - [MelodiX!](MelodiX! "MelodiX!")
-  - [涉谷之音](涉谷之音 "涉谷之音")
-  - [Uta-Tube](Uta-Tube "Uta-Tube")
-  - [Love music](Love_music "Love music")
+  - [MelodiX!](音乐番组/MelodiX!.md "MelodiX!")
+  - [涉谷之音](音乐番组/涉谷之音.md "涉谷之音")
+  - [Uta-Tube](音乐番组/Uta-Tube.md "Uta-Tube")
+  - [Love music](音乐番组/Love music.md "Love music")
   - [DAM CHANNEL TV（高桥みなみ）](DAM_CHANNEL_TV（高桥みなみ） "DAM CHANNEL TV（高桥みなみ）")
-  - [周一～周五午间Song Show（岩佐美咲）](周一～周五午间Song_Show（岩佐美咲） "周一～周五午间Song Show（岩佐美咲）")
+  - [周一～周五午间Song Show（岩佐美咲）](音乐番组/周一～周五午间Song Show（岩佐美咲）.md "周一～周五午间Song Show（岩佐美咲）")
   - [音知故问Pops（梅田彩佳，增田有华）](音知故问Pops（梅田彩佳，增田有华） "音知故问Pops（梅田彩佳，增田有华）")
   - [开运音楽堂 （卫藤美彩，藤江れいな）](开运音楽堂_（卫藤美彩，藤江れいな） "开运音楽堂 （卫藤美彩，藤江れいな）")
-  - [音いたち（NMB专属音乐番组）](音いたち（NMB专属音乐番组） "音いたち（NMB专属音乐番组）")
+  - [音いたち（NMB专属音乐番组）](音乐番组/音いたち（NMB专属音乐番组）.md "音いたち（NMB专属音乐番组）")
   - [legato〜旅行音乐studio〜（长滨ねる）](legato〜旅行音乐studio〜（长滨ねる） "legato〜旅行音乐studio〜（长滨ねる）")
   - [其他音乐番组汇总 (未开设条目或不定期各种音乐现场以及音乐颁奖典礼等)](其他音乐番组汇总_(未开设条目或不定期各种音乐现场以及音乐颁奖典礼等) "其他音乐番组汇总 (未开设条目或不定期各种音乐现场以及音乐颁奖典礼等)")
 
 <!-- -->
 
 - 已完结音番
-  - [火曜曲!（AKB专属音乐番组）](火曜曲!（AKB专属音乐番组） "火曜曲!（AKB专属音乐番组）")
-  - [UTAGE!（渡边麻友）](UTAGE!（渡边麻友） "UTAGE!（渡边麻友）")
-  - [Momm！！](Momm！！ "Momm！！")
-  - [HEY!HEY!HEY!→HEY!HEY!NEO!](HEY!HEY!HEY!→HEY!HEY!NEO! "HEY!HEY!HEY!→HEY!HEY!NEO!")
-  - [EXILE魂](EXILE魂 "EXILE魂")
-  - [Music Japan](Music_Japan "Music Japan")
-  - [Music Dragon](Music_Dragon "Music Dragon")
-  - [Happy Music](Happy_Music "Happy Music")
-  - [Sound Room](Sound_Room "Sound Room")
+  - [火曜曲!（AKB专属音乐番组）](音乐番组/火曜曲!（AKB专属音乐番组）.md "火曜曲!（AKB专属音乐番组）")
+  - [UTAGE!（渡边麻友）](音乐番组/UTAGE!（渡边麻友）.md "UTAGE!（渡边麻友）")
+  - [Momm！！](音乐番组/Momm！！.md "Momm！！")
+  - [HEY!HEY!HEY!→HEY!HEY!NEO!](音乐番组/HEY!HEY!HEY!→HEY!HEY!NEO!.md "HEY!HEY!HEY!→HEY!HEY!NEO!")
+  - [EXILE魂](音乐番组/EXILE魂.md "EXILE魂")
+  - [Music Japan](音乐番组/Music Japan.md "Music Japan")
+  - [Music Dragon](音乐番组/Music Dragon.md "Music Dragon")
+  - [Happy Music](音乐番组/Happy Music.md "Happy Music")
+  - [Sound Room](音乐番组/Sound Room.md "Sound Room")
   - [香蕉零音乐](香蕉零音乐 "香蕉零音乐")
-  - [OTOSEN（柏木由纪）](OTOSEN（柏木由纪） "OTOSEN（柏木由纪）")
+  - [OTOSEN（柏木由纪）](音乐番组/OTOSEN（柏木由纪）.md "OTOSEN（柏木由纪）")
   - [其他已完结音番](其他已完结音番 "其他已完结音番")
 
 <!-- -->
 
 - 大型音番(非周播型或年度型)
-  - [NHK红白歌合战（NHK新年红白歌会）](NHK红白歌合战（NHK新年红白歌会） "NHK红白歌合战（NHK新年红白歌会）")
+  - [NHK红白歌合战（NHK新年红白歌会）](音乐番组/NHK红白歌合战（NHK新年红白歌会）.md "NHK红白歌合战（NHK新年红白歌会）")
   - [FNS歌谣祭（年末、春祭、夏祭）](FNS歌谣祭（年末、春祭、夏祭） "FNS歌谣祭（年末、春祭、夏祭）")
-  - [Tokyo Idol Festival （东京偶像节，简称TIF）](Tokyo_Idol_Festival_（东京偶像节，简称TIF） "Tokyo Idol Festival （东京偶像节，简称TIF）")
+  - [Tokyo Idol Festival （东京偶像节，简称TIF）](音乐番组/Tokyo Idol Festival （东京偶像节，简称TIF）.md "Tokyo Idol Festival （东京偶像节，简称TIF）")
   - [其他大型音乐节目（Best Hits、Best Artist、日本有线大赏、日本唱片大赏、音乐之日等）](其他大型音乐节目（Best_Hits、Best_Artist、日本有线大赏、日本唱片大赏、音乐之日等） "其他大型音乐节目（Best Hits、Best Artist、日本有线大赏、日本唱片大赏、音乐之日等）")
 
 ## 娱乐节目
@@ -232,23 +232,23 @@
 
 - **正在播出番组**
   - **集体出演**
-    - [AKB48神TV](AKB48神TV "AKB48神TV") (AKB专属挑战类)
-    - [AKB48 再见了毛利桑](AKB48_再见了毛利桑 "AKB48 再见了毛利桑") (“[AKBINGO](AKBINGO "AKBINGO")!”后续番组)
-    - [AKB48、最近应该听了吧](AKB48、最近应该听了吧 "AKB48、最近应该听了吧")… (“[AKB48、最近可能听了吗](AKB48、最近可能听了吗 "AKB48、最近可能听了吗")？”后续番组)
-    - [Team 8的你ㄚ外景](Team_8的你ㄚ外景 "Team 8的你ㄚ外景") (“[AKB的你丫谁](AKB的你丫谁 "AKB的你丫谁")?”姐妹番,Team8初冠名番组)
-    - [パチパチ88チーム8](パチパチ88チーム8 "パチパチ88チーム8")
+    - [AKB48神TV](娱乐番组/AKB48/AKB48神TV.md "AKB48神TV") (AKB专属挑战类)
+    - [AKB48 再见了毛利桑](娱乐番组/AKB48/AKB48 再见了毛利桑.md "AKB48 再见了毛利桑") (“[AKBINGO](娱乐番组/AKB48/AKBINGO.md "AKBINGO")!”后续番组)
+    - [AKB48、最近应该听了吧](娱乐番组/AKB48/AKB48、最近应该听了吧.md "AKB48、最近应该听了吧")… (“[AKB48、最近可能听了吗](娱乐番组/AKB48/AKB48、最近可能听了吗.md "AKB48、最近可能听了吗")？”后续番组)
+    - [Team 8的你ㄚ外景](娱乐番组/AKB48/Team 8的你ㄚ外景.md "Team 8的你ㄚ外景") (“[AKB的你丫谁](娱乐番组/AKB48/AKB的你丫谁.md "AKB的你丫谁")?”姐妹番,Team8初冠名番组)
+    - [パチパチ88チーム8](娱乐番组/AKB48/パチパチ88チーム8.md "パチパチ88チーム8")
     - [AKB48官方YOUTUBE频道](AKB48官方YOUTUBE频道 "AKB48官方YOUTUBE频道")
-    - [AKB48Group映像仓库](AKB48Group映像仓库 "AKB48Group映像仓库") (官方App)
+    - [AKB48Group映像仓库](娱乐番组/AKB48/AKB48Group映像仓库.md "AKB48Group映像仓库") (官方App)
   - **UNIT/个人出演**
-    - [未来☆怪物](未来☆怪物 "未来☆怪物") (Team8，高桥朱里→矢作萌夏→冈部麟，高桥みなみ→横山由依→冈田奈奈)
+    - [未来☆怪物](娱乐番组/AKB48/未来☆怪物.md "未来☆怪物") (Team8，高桥朱里→矢作萌夏→冈部麟，高桥みなみ→横山由依→冈田奈奈)
     - [小嶋阳菜HarunaKojima](小嶋阳菜HarunaKojima "小嶋阳菜HarunaKojima") (小嶋阳菜B站官方频道
       - **已完结番组**
         - **集体出演**
           - YouTube频道 / NICONICO / Abema TV / Line Live / Showroom / Instagram / 17Live / 其他sns相关 (社群或直播平台为主)
-          - [AKB48特番](AKB48特番 "AKB48特番") (系内为主)
-          - [AKBINGO](AKBINGO "AKBINGO")! （AKB主力番组）←[AKB0时59分!](AKB0时59分! "AKB0时59分!") (“AKB1じ59ふん!”的改版番组)←[AKB1时59分!](AKB1时59分! "AKB1时59分!") (AKB首个番组)
-          - [AKB48 SHOW!](AKB48_SHOW! "AKB48 SHOW!")（NHK放送AKB集团专属番组/含坂道系同名番组）
-          - [AKB调查](AKB调查 "AKB调查")（指原莉乃MC，接档”恋爱总选举”）
+          - [AKB48特番](娱乐番组/AKB48/AKB48特番.md "AKB48特番") (系内为主)
+          - [AKBINGO](娱乐番组/AKB48/AKBINGO.md "AKBINGO")! （AKB主力番组）←[AKB0时59分!](娱乐番组/AKB48/AKB0时59分!.md "AKB0时59分!") (“AKB1じ59ふん!”的改版番组)←[AKB1时59分!](娱乐番组/AKB48/AKB1时59分!.md "AKB1时59分!") (AKB首个番组)
+          - [AKB48 SHOW!](娱乐番组/AKB48/AKB48 SHOW!.md "AKB48 SHOW!")（NHK放送AKB集团专属番组/含坂道系同名番组）
+          - [AKB调查](娱乐番组/AKB48/AKB调查.md "AKB调查")（指原莉乃MC，接档”恋爱总选举”）
           - 周刊AKB（AKB综艺补档必看节目）→ 周刊AKB特辑+特典 (大运动会、水泳大会等）
           - AKB子兔道场（接档"周刊AKB"的番组）
           - 有吉AKB共和国 （有吉弘行x小嶋阳菜MC）
@@ -336,9 +336,9 @@
 <!-- -->
 
 - **SKE48 连载中番组**
-  - [SKE48 ZERO POSITION（对决类）](SKE48_ZERO_POSITION（对决类） "SKE48 ZERO POSITION（对决类）")
-  - [SKE48学园（月番）](SKE48学园（月番） "SKE48学园（月番）")
-  - [SKE48的平均值](SKE48的平均值 "SKE48的平均值")
+  - [SKE48 ZERO POSITION（对决类）](娱乐番组/SKE48/SKE48 ZERO POSITION（对决类）.md "SKE48 ZERO POSITION（对决类）")
+  - [SKE48学园（月番）](娱乐番组/SKE48/SKE48学园（月番）.md "SKE48学园（月番）")
+  - [SKE48的平均值](娱乐番组/SKE48/SKE48的平均值.md "SKE48的平均值")
   - [SKE48享受一间澡堂 (短番)](SKE48享受一间澡堂_(短番) "SKE48享受一间澡堂 (短番)")
   - [SKE48要和你一起歌唱 (短番)](SKE48要和你一起歌唱_(短番) "SKE48要和你一起歌唱 (短番)")
   - [Doki Doki！NHK World JAPAN (松井玲奈 系外短番)](Doki_Doki！NHK_World_JAPAN_(松井玲奈_系外短番) "Doki Doki！NHK World JAPAN (松井玲奈 系外短番)")
@@ -347,35 +347,35 @@
 
 - **SKE48 已完结+不定期更新**
   - YouTube频道 / NICONICO / Abema TV / Line Live / Showroom / Instagram / 17Live / 其他sns相关 (社群或直播平台为主)
-  - [SKE48 炸虾周五夜（炸虾第一季）](SKE48_炸虾周五夜（炸虾第一季） "SKE48 炸虾周五夜（炸虾第一季）")→[SKE48 炸虾商（炸虾第二季）](SKE48_炸虾商（炸虾第二季） "SKE48 炸虾商（炸虾第二季）")→[SKE48 炸虾赌场（炸虾第三季）](SKE48_炸虾赌场（炸虾第三季） "SKE48 炸虾赌场（炸虾第三季）")
-  - [SKE48魔法广播（第一季-第三季）](SKE48魔法广播（第一季-第三季） "SKE48魔法广播（第一季-第三季）")
+  - [SKE48 炸虾周五夜（炸虾第一季）](娱乐番组/SKE48/SKE48 炸虾周五夜（炸虾第一季）.md "SKE48 炸虾周五夜（炸虾第一季）")→[SKE48 炸虾商（炸虾第二季）](娱乐番组/SKE48/SKE48 炸虾商（炸虾第二季）.md "SKE48 炸虾商（炸虾第二季）")→[SKE48 炸虾赌场（炸虾第三季）](娱乐番组/SKE48/SKE48 炸虾赌场（炸虾第三季）.md "SKE48 炸虾赌场（炸虾第三季）")
+  - [SKE48魔法广播（第一季-第三季）](娱乐番组/SKE48/SKE48魔法广播（第一季-第三季）.md "SKE48魔法广播（第一季-第三季）")
   - [SKEBINGO！(AKBINGO!姐妹番)](SKEBINGO！(AKBINGO!姐妹番) "SKEBINGO！(AKBINGO!姐妹番)")
-  - [SKE48 星期二打工剧场（打工类）](SKE48_星期二打工剧场（打工类） "SKE48 星期二打工剧场（打工类）")
+  - [SKE48 星期二打工剧场（打工类）](娱乐番组/SKE48/SKE48 星期二打工剧场（打工类）.md "SKE48 星期二打工剧场（打工类）")
   - [让SKE48走进科学 (Discovery频道，英语旁白，幕后揭秘类)](让SKE48走进科学_(Discovery频道，英语旁白，幕后揭秘类) "让SKE48走进科学 (Discovery频道，英语旁白，幕后揭秘类)")
-  - [SKE48初恋饭团（佐藤実絵子带领成员捏饭团，短番）](SKE48初恋饭团（佐藤実絵子带领成员捏饭团，短番） "SKE48初恋饭团（佐藤実絵子带领成员捏饭团，短番）")
+  - [SKE48初恋饭团（佐藤実絵子带领成员捏饭团，短番）](娱乐番组/SKE48/SKE48初恋饭团（佐藤実絵子带领成员捏饭团，短番）.md "SKE48初恋饭团（佐藤実絵子带领成员捏饭团，短番）")
   - [SKE48的Fun!Fun!兜风 (观光短番)](SKE48的Fun!Fun!兜风_(观光短番) "SKE48的Fun!Fun!兜风 (观光短番)")
   - [SKE48 松村香织&谷真理佳的搭车之旅](SKE48_松村香织&谷真理佳的搭车之旅 "SKE48 松村香织&谷真理佳的搭车之旅")（北海道至名古屋的顺风车之旅）→[SKE48 松村香织&谷真理佳的悬赏生活](SKE48_松村香织&谷真理佳的悬赏生活 "SKE48 松村香织&谷真理佳的悬赏生活")（从零开始，目指10万元）
-  - [SKE48 DANCE KINGDOM](SKE48_DANCE_KINGDOM "SKE48 DANCE KINGDOM")（子兔道场舞蹈偶像之路企划后续番组）
-  - [SKE48のおやすみ名言道场](SKE48のおやすみ名言道场 "SKE48のおやすみ名言道场")（在道场里向名言警句发出挑战）
-  - [SKE48 ムスメにいかが！？](SKE48_ムスメにいかが！？ "SKE48 ムスメにいかが！？")（SKE48成员到你家当女儿）
-  - [SKE48のよくばり课外授业！](SKE48のよくばり课外授业！ "SKE48のよくばり课外授业！")（外景）
-  - [世界征服女子](世界征服女子 "世界征服女子")（第一季+第二季）
-  - [非常SKE 黎明前的国盗48番胜负(短番）](非常SKE_黎明前的国盗48番胜负(短番） "非常SKE 黎明前的国盗48番胜负(短番）")
+  - [SKE48 DANCE KINGDOM](娱乐番组/SKE48/SKE48 DANCE KINGDOM.md "SKE48 DANCE KINGDOM")（子兔道场舞蹈偶像之路企划后续番组）
+  - [SKE48のおやすみ名言道场](娱乐番组/SKE48/SKE48のおやすみ名言道场.md "SKE48のおやすみ名言道场")（在道场里向名言警句发出挑战）
+  - [SKE48 ムスメにいかが！？](娱乐番组/SKE48/SKE48 ムスメにいかが！？.md "SKE48 ムスメにいかが！？")（SKE48成员到你家当女儿）
+  - [SKE48のよくばり课外授业！](娱乐番组/SKE48/SKE48のよくばり课外授业！.md "SKE48のよくばり课外授业！")（外景）
+  - [世界征服女子](娱乐番组/SKE48/世界征服女子.md "世界征服女子")（第一季+第二季）
+  - [非常SKE 黎明前的国盗48番胜负(短番）](娱乐番组/SKE48/非常SKE 黎明前的国盗48番胜负(短番）.md "非常SKE 黎明前的国盗48番胜负(短番）")
   - [收获KISS (短番)](收获KISS_(短番) "收获KISS (短番)")
   - [SKE48的爱知TERU (情报短番)](SKE48的爱知TERU_(情报短番) "SKE48的爱知TERU (情报短番)")
-  - [去吧，恋！（挑战类）](去吧，恋！（挑战类） "去吧，恋！（挑战类）")
-  - [高柳明音の翼をください（第一季+第二季）](高柳明音の翼をください（第一季+第二季） "高柳明音の翼をください（第一季+第二季）")
-  - [SKE48のはつのり!（柴田阿弥主持的网络直播番组）](SKE48のはつのり!（柴田阿弥主持的网络直播番组） "SKE48のはつのり!（柴田阿弥主持的网络直播番组）")
+  - [去吧，恋！（挑战类）](娱乐番组/SKE48/去吧，恋！（挑战类）.md "去吧，恋！（挑战类）")
+  - [高柳明音の翼をください（第一季+第二季）](娱乐番组/SKE48/高柳明音の翼をください（第一季+第二季）.md "高柳明音の翼をください（第一季+第二季）")
+  - [SKE48のはつのり!（柴田阿弥主持的网络直播番组）](娱乐番组/SKE48/SKE48のはつのり!（柴田阿弥主持的网络直播番组）.md "SKE48のはつのり!（柴田阿弥主持的网络直播番组）")
   - [SKE48 × 东海Walker （媒体合作番组）](SKE48_×_东海Walker_（媒体合作番组） "SKE48 × 东海Walker （媒体合作番组）")
   - [SKE48熊崎晴香的Haru Car club (爱知丰田)](SKE48熊崎晴香的Haru_Car_club_(爱知丰田) "SKE48熊崎晴香的Haru Car club (爱知丰田)")
   - [Magi&SKE48的流连忘返 (江笼裕奈 小畑优奈 菅原茉椰，外景情报)](Magi&SKE48的流连忘返_(江笼裕奈_小畑优奈_菅原茉椰，外景情报) "Magi&SKE48的流连忘返 (江笼裕奈 小畑优奈 菅原茉椰，外景情报)")
   - [SKE48一并逮捕！假偶像扑灭大作战!! (美浜海游祭)](SKE48一并逮捕！假偶像扑灭大作战!!_(美浜海游祭) "SKE48一并逮捕！假偶像扑灭大作战!! (美浜海游祭)")
   - [SKE48 结缘饭团一级棒 (外景直播)](SKE48_结缘饭团一级棒_(外景直播) "SKE48 结缘饭团一级棒 (外景直播)")
-  - [SKE48的网红教室（接档SKE48 结缘饭团一级棒）](SKE48的网红教室（接档SKE48_结缘饭团一级棒） "SKE48的网红教室（接档SKE48 结缘饭团一级棒）")
+  - [SKE48的网红教室（接档SKE48 结缘饭团一级棒）](娱乐番组/SKE48/SKE48的网红教室（接档SKE48 结缘饭团一级棒）.md "SKE48的网红教室（接档SKE48 结缘饭团一级棒）")
   - [4方8方美人 (NMB & SKE双冠名番组,在NMB分类可见同名编列)(大阪channel)](4方8方美人_(NMB_&_SKE双冠名番组,在NMB分类可见同名编列)(大阪channel) "4方8方美人 (NMB & SKE双冠名番组,在NMB分类可见同名编列)(大阪channel)")
   - [Fun x Fun Japan！ (SKE48 x BNK48 旅游番)](Fun_x_Fun_Japan！_(SKE48_x_BNK48_旅游番) "Fun x Fun Japan！ (SKE48 x BNK48 旅游番)")
   - [松井珠理奈的INS美照100张挑战之旅 (中京TV)](松井珠理奈的INS美照100张挑战之旅_(中京TV) "松井珠理奈的INS美照100张挑战之旅 (中京TV)")
-  - [Line Live SKE48 コレカケルアレ（line番组）](Line_Live_SKE48_コレカケルアレ（line番组） "Line Live SKE48 コレカケルアレ（line番组）")
+  - [Line Live SKE48 コレカケルアレ（line番组）](娱乐番组/SKE48/Line Live SKE48 コレカケルアレ（line番组）.md "Line Live SKE48 コレカケルアレ（line番组）")
   - [松井玲奈和西川贵教突然开始介绍动画、漫画、游戏的番组 (系外游戏番)](松井玲奈和西川贵教突然开始介绍动画、漫画、游戏的番组_(系外游戏番) "松井玲奈和西川贵教突然开始介绍动画、漫画、游戏的番组 (系外游戏番)")
   - [须田亚香里-official (须田亚香里B站官方频道)](须田亚香里-official_(须田亚香里B站官方频道) "须田亚香里-official (须田亚香里B站官方频道)")
   - [SKE特别番组](SKE特别番组 "SKE特别番组")
@@ -444,7 +444,7 @@
 
 - **系外不再编列无中文字幕的视频**
 - **HKT48 连载中番组**
-  - [HKT青春体育部!](HKT青春体育部! "HKT青春体育部!")（接档HKT综艺48）
+  - [HKT青春体育部!](娱乐番组/HKT48/HKT青春体育部!.md "HKT青春体育部!")（接档HKT综艺48）
   - HKT的精准点单48
   - OKEHAZAMA是什么？（运上弘菜，渡部爱加里，坂本爱玲菜）
   - 指原维基(百科)→指旅 (指原莉乃)
@@ -505,49 +505,49 @@
 
 - **系外不再编列无中文字幕的视频**
 - **STU48 连载中番组**
-  - [STU48伸TV](STU48伸TV "STU48伸TV") (挑战番组)
-  - [濑户挑战! STU48](濑户挑战!_STU48 "濑户挑战! STU48")
-  - [STU48と行く尾道ぶらり旅](STU48と行く尾道ぶらり旅 "STU48と行く尾道ぶらり旅")
-  - [STU48の行ってきまSU！](STU48の行ってきまSU！ "STU48の行ってきまSU！")
+  - [STU48伸TV](娱乐番组/STU48/STU48伸TV.md "STU48伸TV") (挑战番组)
+  - [濑户挑战! STU48](娱乐番组/STU48/濑户挑战! STU48.md "濑户挑战! STU48")
+  - [STU48と行く尾道ぶらり旅](娱乐番组/STU48/STU48と行く尾道ぶらり旅.md "STU48と行く尾道ぶらり旅")
+  - [STU48の行ってきまSU！](娱乐番组/STU48/STU48の行ってきまSU！.md "STU48の行ってきまSU！")
   - [STU発⇒东京](STU発⇒东京 "STU発⇒东京")
-  - [STU↗︎でんつ！](STU↗︎でんつ！ "STU↗︎でんつ！")
-  - [STU48的更多STU!](STU48的更多STU! "STU48的更多STU!")
+  - [STU↗︎でんつ！](娱乐番组/STU48/STU↗︎でんつ！.md "STU↗︎でんつ！")
+  - [STU48的更多STU!](娱乐番组/STU48/STU48的更多STU!.md "STU48的更多STU!")
   - [虹色濑户之旅](虹色濑户之旅 "虹色濑户之旅")
-  - [STU48的LINE LIVE也要加油SU!](STU48的LINE_LIVE也要加油SU! "STU48的LINE LIVE也要加油SU!") （LINE LIVE）
-  - [STU48的山口囤铁道之旅](STU48的山口囤铁道之旅 "STU48的山口囤铁道之旅") (热血テレビ)
-  - [STU48 CHANNEL](STU48_CHANNEL "STU48 CHANNEL")（Niconico Channel）
+  - [STU48的LINE LIVE也要加油SU!](娱乐番组/STU48/STU48的LINE LIVE也要加油SU!.md "STU48的LINE LIVE也要加油SU!") （LINE LIVE）
+  - [STU48的山口囤铁道之旅](娱乐番组/STU48/STU48的山口囤铁道之旅.md "STU48的山口囤铁道之旅") (热血テレビ)
+  - [STU48 CHANNEL](娱乐番组/STU48/STU48 CHANNEL.md "STU48 CHANNEL")（Niconico Channel）
   - [STU48官方YOUTUBE频道](STU48官方YOUTUBE频道 "STU48官方YOUTUBE频道")
 
 <!-- -->
 
 - **STU48 已完结+不定期更新番组**
   - YouTube频道 / NICONICO / Abema TV / Line Live / Showroom / Instagram / 17Live / 其他sns相关 (社群或直播平台为主)
-  - [STU48的SU!](STU48的SU! "STU48的SU!") （STU初冠番，广岛甄选出的9位成员个人介绍）
-  - [STU48的江田岛发现之旅](STU48的江田岛发现之旅 "STU48的江田岛发现之旅")(网络配信番组)
+  - [STU48的SU!](娱乐番组/STU48/STU48的SU!.md "STU48的SU!") （STU初冠番，广岛甄选出的9位成员个人介绍）
+  - [STU48的江田岛发现之旅](娱乐番组/STU48/STU48的江田岛发现之旅.md "STU48的江田岛发现之旅")(网络配信番组)
   - [STU48×千鸟 瀬戸内少女応援団](STU48×千鸟_瀬戸内少女応援団 "STU48×千鸟 瀬戸内少女応援団")
-  - [STU48 ふるさと宣伝LABO](STU48_ふるさと宣伝LABO "STU48 ふるさと宣伝LABO") （日本印尼建交60周年纪念番组）
-  - [STU48的加油SU!](STU48的加油SU! "STU48的加油SU!")
-  - [SETOBINGO!](SETOBINGO! "SETOBINGO!") (AKBINGO!姐妹番)→[STU48的濑户内会](STU48的濑户内会 "STU48的濑户内会") (SETOBINGO!附属节目)
-  - [STU48的SetoLike](STU48的SetoLike "STU48的SetoLike")(短番)
-  - [SETOUCHI ISLAND](SETOUCHI_ISLAND "SETOUCHI ISLAND")
-  - [STU48石田千穗的工作石田千穗](STU48石田千穗的工作石田千穗 "STU48石田千穗的工作石田千穗") (Hulu)
-  - [STU48 特番](STU48_特番 "STU48 特番")
+  - [STU48 ふるさと宣伝LABO](娱乐番组/STU48/STU48 ふるさと宣伝LABO.md "STU48 ふるさと宣伝LABO") （日本印尼建交60周年纪念番组）
+  - [STU48的加油SU!](娱乐番组/STU48/STU48的加油SU!.md "STU48的加油SU!")
+  - [SETOBINGO!](娱乐番组/STU48/SETOBINGO!.md "SETOBINGO!") (AKBINGO!姐妹番)→[STU48的濑户内会](STU48的濑户内会 "STU48的濑户内会") (SETOBINGO!附属节目)
+  - [STU48的SetoLike](娱乐番组/STU48/STU48的SetoLike.md "STU48的SetoLike")(短番)
+  - [SETOUCHI ISLAND](娱乐番组/STU48/SETOUCHI ISLAND.md "SETOUCHI ISLAND")
+  - [STU48石田千穗的工作石田千穗](娱乐番组/STU48/STU48石田千穗的工作石田千穗.md "STU48石田千穗的工作石田千穗") (Hulu)
+  - [STU48 特番](娱乐番组/STU48/STU48 特番.md "STU48 特番")
 
 ------------------------------------------------------------------------
 
-## **[SKE48专区](SKE48专区.md "SKE48专区")**
+## **[SKE48专区](分团与专区/SKE48/SKE48专区.md "SKE48专区")**
 
-## AKB48 TeamSH资源
+## TSH48 专区
 
-### [1、成员介绍](TSH成员介绍.md "TSH成员介绍")
+### [1、成员介绍](分团与专区/TSH/TSH成员介绍.md "TSH成员介绍")
 
-### [2、作品](2、作品 "2、作品")
+### [2、作品](分团与专区/TSH/2、作品.md "2、作品")
 
-### [3、演唱会](3、演唱会 "3、演唱会")
+### [3、演唱会](分团与专区/TSH/3、演唱会.md "3、演唱会")
 
-### [4、剧场公演](4、剧场公演 "4、剧场公演")
+### [4、剧场公演](分团与专区/TSH/4、剧场公演.md "4、剧场公演")
 
-### [5、总选](5、总选 "5、总选")
+### [5、总选](分团与专区/TSH/5、总选.md "5、总选")
 
 ## 其它内容
 
@@ -558,7 +558,7 @@
 <!-- -->
 
 - **AKB48** / **AKB48小分队**
-  - 《[AKB48 PV合集](AKB48_PV合集 "AKB48 PV合集")》《[AKB48 PV特典](AKB48_PV特典 "AKB48 PV特典")》
+  - 《[AKB48 PV合集](影视与活动/AKB48 PV合集.md "AKB48 PV合集")》《[AKB48 PV特典](AKB48_PV特典 "AKB48 PV特典")》
   - 《[AKB48小分队 PV合集](AKB48小分队_PV合集 "AKB48小分队 PV合集")》《[AKB48小分队 PV特典](AKB48小分队_PV特典 "AKB48小分队 PV特典")》
 
 <!-- -->
@@ -632,4 +632,4 @@
 
 ------------------------------------------------------------------------
 
-## [帮助](帮助 "帮助")
+## [帮助](关于/帮助.md "帮助")

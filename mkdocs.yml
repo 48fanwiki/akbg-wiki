@@ -72,203 +72,203 @@ nav:
   - 🏠 首页: index.md
 
   - 🎤 演唱会:
-      - 📍 演唱会总目录: 演唱会.md
-      - AKB48 演唱会合辑: AKB48演唱会合辑.md
-      - AKB48 Team8 全国巡演: TOYOTA_presents_AKB48_Team8_全国巡演～前往47个美丽城市～.md
-      - AKB48 特别演出 (系外): AKB48特别演出合辑.md
-      - Request Hour 重温时间: AKBGroup重温时间_最佳曲目_Request_Hour_合辑.md
-      - SKE48 演唱会合辑: SKE48演唱会合辑.md
-      - NMB48 演唱会合辑: NMB48演唱会合辑.md
-      - HKT48 演唱会合辑: HKT48演唱会合辑.md
-      - NGT48 演唱会合辑: NGT48演唱会合辑.md
-      - STU48 演唱会合辑: STU48演唱会合辑.md
-      - 48系 SOLO 与 UNIT 演唱会: 48系SOLO、UNIT演唱会合辑.md
-      - SDN48 演唱会: SDN48演唱会.md
+      - 📍 演唱会总目录: 演唱会/演唱会.md
+      - AKB48 演唱会合辑: 演唱会/AKB48演唱会合辑.md
+      - AKB48 Team8 全国巡演: 演唱会/TOYOTA_presents_AKB48_Team8_全国巡演～前往47个美丽城市～.md
+      - AKB48 特别演出 (系外): 演唱会/AKB48特别演出合辑.md
+      - Request Hour 重温时间: 演唱会/AKBGroup重温时间_最佳曲目_Request_Hour_合辑.md
+      - SKE48 演唱会合辑: 演唱会/SKE48演唱会合辑.md
+      - NMB48 演唱会合辑: 演唱会/NMB48演唱会合辑.md
+      - HKT48 演唱会合辑: 演唱会/HKT48演唱会合辑.md
+      - NGT48 演唱会合辑: 演唱会/NGT48演唱会合辑.md
+      - STU48 演唱会合辑: 演唱会/STU48演唱会合辑.md
+      - 48系 SOLO 与 UNIT 演唱会: 演唱会/48系SOLO、UNIT演唱会合辑.md
+      - SDN48 演唱会: 演唱会/SDN48演唱会.md
 
   - 🎭 剧场公演:
-      - 📍 剧场公演总览: 48系剧场公演.md
-      - AKB48 剧场公演合辑: AKB48剧场公演合辑.md
-      - SKE48 剧场公演合辑: SKE48剧场公演合辑.md
-      - SKE48 日常公演全记录: SKE48日常公演.md
-      - NMB48 剧场公演合辑: NMB48剧场公演合辑.md
-      - HKT48 剧场公演合辑: HKT48剧场公演合辑.md
-      - NGT48 剧场公演合辑: NGT48剧场公演合辑.md
-      - STU48 剧场公演合辑: STU48剧场公演合辑.md
-      - 特别剧场公演合辑: AKB_Group特别剧场公演合辑.md
-      - 剧场公演生肉区: 剧场公演生肉区.md
+      - 📍 剧场公演总览: 剧场公演/48系剧场公演.md
+      - AKB48 剧场公演合辑: 剧场公演/AKB48剧场公演合辑.md
+      - SKE48 剧场公演合辑: 剧场公演/SKE48剧场公演合辑.md
+      - SKE48 日常公演全记录: 剧场公演/SKE48日常公演.md
+      - NMB48 剧场公演合辑: 剧场公演/NMB48剧场公演合辑.md
+      - HKT48 剧场公演合辑: 剧场公演/HKT48剧场公演合辑.md
+      - NGT48 剧场公演合辑: 剧场公演/NGT48剧场公演合辑.md
+      - STU48 剧场公演合辑: 剧场公演/STU48剧场公演合辑.md
+      - 特别剧场公演合辑: 剧场公演/AKB_Group特别剧场公演合辑.md
+      - 剧场公演生肉区: 剧场公演/剧场公演生肉区.md
 
   - 🎵 音乐番组:
-      - 📍 音乐番组总目录: 音乐番组.md
+      - 📍 音乐番组总目录: 音乐番组/音乐番组.md
       - 大型音乐祭与年度特番:
-          - NHK 红白歌合战: NHK红白歌合战（NHK新年红白歌会）.md
-          - FNS 歌谣祭: FNS歌謡祭（年末、春祭、夏祭）.md
-          - Tokyo Idol Festival (TIF): Tokyo Idol Festival （东京偶像节，简称TIF）.md
-          - 其他大型音乐节目: 其他大型音乐节目（Best Hits、Best Artist、日本有线大赏、日本唱片大賞、音乐之日等）.md
+          - NHK 红白歌合战: 音乐番组/NHK红白歌合战（NHK新年红白歌会）.md
+          - FNS 歌谣祭: 音乐番组/FNS歌謡祭（年末、春祭、夏祭）.md
+          - Tokyo Idol Festival (TIF): 音乐番组/Tokyo Idol Festival （东京偶像节，简称TIF）.md
+          - 其他大型音乐节目: 音乐番组/其他大型音乐节目（Best Hits、Best Artist、日本有线大赏、日本唱片大賞、音乐之日等）.md
       - 常规与播出中音番:
-          - Music Station (含 Super Live): Music Station（包括Super Live）.md
-          - CDTV (含 CDTVLL / SP): CDTV（包括跨年、毕业季、万圣节、圣诞节等SP Live）.md
-          - Music Fair: Music Fair.md
-          - Utacon (うたコン): Utacon.md
-          - Buzz Rhythm: Buzz Rhythm.md
-          - Love music: Love music.md
-          - 涉谷之音 (シブヤノオト): 涉谷之音.md
-          - MelodiX!: MelodiX!.md
-          - BOMBER-E: BOMBER-E.md
-          - Uta-Tube: Uta-Tube.md
-          - JAPAN COUNTDOWN: JAPAN COUNTDOWN.md
-          - MUSIC ON! TV: MUSIC ON! TV.md
-          - SPACE SHOWER TV (SSTV): SPACE SHOWER TV(SSTV).md
-          - 音いたち (NMB48 专属): 音いたち（NMB专属音乐番组）.md
-          - 开运音乐堂: 開運音楽堂 （衛藤美彩，藤江れいな）.md
-          - DAM CHANNEL TV (高桥南): DAM CHANNEL TV（高橋みなみ）.md
-          - 周一～周五午间 Song Show (岩佐美咲): 周一～周五午间Song Show（岩佐美咲）.md
-          - 音知故问 Pops (梅田/增田): 音知故問Pops（梅田彩佳，增田有华）.md
-          - legato〜旅行音乐studio〜 (长滨祢留): Legato〜旅行音乐studio〜（長濱ねる）.md
-          - 其他音乐番组汇总: 其他音樂番組匯總 (未開設條目或不定期各種音樂現場以及音樂頒獎典禮等).md
+          - Music Station (含 Super Live): 音乐番组/Music Station（包括Super Live）.md
+          - CDTV (含 CDTVLL / SP): 音乐番组/CDTV（包括跨年、毕业季、万圣节、圣诞节等SP Live）.md
+          - Music Fair: 音乐番组/Music Fair.md
+          - Utacon (うたコン): 音乐番组/Utacon.md
+          - Buzz Rhythm: 音乐番组/Buzz Rhythm.md
+          - Love music: 音乐番组/Love music.md
+          - 涉谷之音 (シブヤノオト): 音乐番组/涉谷之音.md
+          - MelodiX!: 音乐番组/MelodiX!.md
+          - BOMBER-E: 音乐番组/BOMBER-E.md
+          - Uta-Tube: 音乐番组/Uta-Tube.md
+          - JAPAN COUNTDOWN: 音乐番组/JAPAN COUNTDOWN.md
+          - MUSIC ON! TV: 音乐番组/MUSIC ON! TV.md
+          - SPACE SHOWER TV (SSTV): 音乐番组/SPACE SHOWER TV(SSTV).md
+          - 音いたち (NMB48 专属): 音乐番组/音いたち（NMB专属音乐番组）.md
+          - 开运音乐堂: 音乐番组/開運音楽堂 （衛藤美彩，藤江れいな）.md
+          - DAM CHANNEL TV (高桥南): 音乐番组/DAM CHANNEL TV（高橋みなみ）.md
+          - 周一～周五午间 Song Show (岩佐美咲): 音乐番组/周一～周五午间Song Show（岩佐美咲）.md
+          - 音知故问 Pops (梅田/增田): 音乐番组/音知故問Pops（梅田彩佳，增田有华）.md
+          - legato〜旅行音乐studio〜 (长滨祢留): 音乐番组/Legato〜旅行音乐studio〜（長濱ねる）.md
+          - 其他音乐番组汇总: 音乐番组/其他音樂番組匯總 (未開設條目或不定期各種音樂現場以及音樂頒獎典禮等).md
       - 已完结经典音番:
-          - 火曜曲! (AKB48 专属): 火曜曲!（AKB专属音乐番组）.md
-          - UTAGE! (渡边麻友): UTAGE!（渡边麻友）.md
-          - Music Japan (MJ): Music Japan.md
-          - HEY!HEY!HEY! → HEY!HEY!NEO!: HEY!HEY!HEY!→HEY!HEY!NEO!.md
-          - Momm!!: Momm！！.md
-          - Music Dragon: Music Dragon.md
-          - Happy Music: Happy Music.md
-          - Sound Room: Sound Room.md
-          - EXILE 魂: EXILE魂.md
-          - OTOSEN (柏木由纪): OTOSEN（柏木由纪）.md
-          - 其他已完结音番: 其他已完結音番.md
+          - 火曜曲! (AKB48 专属): 音乐番组/火曜曲!（AKB专属音乐番组）.md
+          - UTAGE! (渡边麻友): 音乐番组/UTAGE!（渡边麻友）.md
+          - Music Japan (MJ): 音乐番组/Music Japan.md
+          - HEY!HEY!HEY! → HEY!HEY!NEO!: 音乐番组/HEY!HEY!HEY!→HEY!HEY!NEO!.md
+          - Momm!!: 音乐番组/Momm！！.md
+          - Music Dragon: 音乐番组/Music Dragon.md
+          - Happy Music: 音乐番组/Happy Music.md
+          - Sound Room: 音乐番组/Sound Room.md
+          - EXILE 魂: 音乐番组/EXILE魂.md
+          - OTOSEN (柏木由纪): 音乐番组/OTOSEN（柏木由纪）.md
+          - 其他已完结音番: 音乐番组/其他已完結音番.md
 
   - 📺 娱乐番组:
       - AKB48 番组:
-          - 📍 AKB48 番组总目录: AKB48番组.md
-          - AKBINGO!: AKBINGO.md
-          - AKB48 神TV: AKB48神TV.md
-          - AKB48 SHOW!: AKB48 SHOW!.md
-          - AKB48 再见了毛利桑: AKB48 再见了毛利桑.md
-          - AKB0时59分!: AKB0时59分!.md
-          - AKB1时59分!: AKB1时59分!.md
-          - AKB 的你丫谁?: AKB的你丫谁.md
-          - Team 8 的你ㄚ外景: Team 8的你ㄚ外景.md
-          - 未来☆怪物: 未来☆怪物.md
-          - パチパチ88チーム8: パチパチ88チーム8.md
-          - AKB 调查: AKB调查.md
-          - AKB48、最近应该听了吧: AKB48、最近应该听了吧.md
-          - AKB48、最近可能听了吗: AKB48、最近可能听了吗.md
-          - AKB48 特番: AKB48特番.md
-          - AKB48 官方 YouTube 频道: AKB48官方YOUTUBE頻道.md
-          - AKB48Group 映像仓库: AKB48Group映像仓库.md
+          - 📍 AKB48 番组总目录: 娱乐番组/AKB48/AKB48番组.md
+          - AKBINGO!: 娱乐番组/AKB48/AKBINGO.md
+          - AKB48 神TV: 娱乐番组/AKB48/AKB48神TV.md
+          - AKB48 SHOW!: 娱乐番组/AKB48/AKB48 SHOW!.md
+          - AKB48 再见了毛利桑: 娱乐番组/AKB48/AKB48 再见了毛利桑.md
+          - AKB0时59分!: 娱乐番组/AKB48/AKB0时59分!.md
+          - AKB1时59分!: 娱乐番组/AKB48/AKB1时59分!.md
+          - AKB 的你丫谁?: 娱乐番组/AKB48/AKB的你丫谁.md
+          - Team 8 的你ㄚ外景: 娱乐番组/AKB48/Team 8的你ㄚ外景.md
+          - 未来☆怪物: 娱乐番组/AKB48/未来☆怪物.md
+          - パチパチ88チーム8: 娱乐番组/AKB48/パチパチ88チーム8.md
+          - AKB 调查: 娱乐番组/AKB48/AKB调查.md
+          - AKB48、最近应该听了吧: 娱乐番组/AKB48/AKB48、最近应该听了吧.md
+          - AKB48、最近可能听了吗: 娱乐番组/AKB48/AKB48、最近可能听了吗.md
+          - AKB48 特番: 娱乐番组/AKB48/AKB48特番.md
+          - AKB48 官方 YouTube 频道: 娱乐番组/AKB48/AKB48官方YOUTUBE頻道.md
+          - AKB48Group 映像仓库: 娱乐番组/AKB48/AKB48Group映像仓库.md
       - SKE48 番组:
-          - 📍 SKE48 番组总目录: SKE48番组.md
-          - SKE48 ZERO POSITION: SKE48 ZERO POSITION（对决类）.md
-          - SKE48 学园: SKE48学园（月番）.md
-          - SKE48 魔法广播 (1-3季): SKE48魔法广播（第一季-第三季）.md
-          - SKE48 炸虾周五夜 (第1季): SKE48 炸虾周五夜（炸虾第一季）.md
-          - SKE48 炸虾商 (第2季): SKE48 炸虾商（炸虾第二季）.md
-          - SKE48 炸虾赌场 (第3季): SKE48 炸虾赌场（炸虾第三季）.md
-          - SKEBINGO!: SKEBINGO！(AKBINGO!姐妹番).md
-          - 世界征服女子: 世界征服女子.md
-          - SKE48 星期二打工剧场: SKE48 星期二打工剧场（打工类）.md
-          - SKE48 结缘饭团一级棒: SKE48 结缘饭团一级棒 (外景直播).md
-          - SKE48 的网红教室: SKE48的网红教室（接档SKE48 结缘饭团一级棒）.md
-          - SKE48 初恋饭团: SKE48初恋饭团（佐藤実絵子带领成员捏饭团，短番）.md
-          - SKE48 晚安名言道场: SKE48のおやすみ名言道场.md
-          - SKE48 DANCE KINGDOM: SKE48 DANCE KINGDOM.md
-          - SKE48 享受一间澡堂: SKE48享受一間澡堂 (短番).md
-          - SKE48 的 Fun!Fun!兜风: SKE48的Fun!Fun!兜风 (觀光短番).md
-          - SKE48 想要女儿吗!?: SKE48 ムスメにいかが！？.md
-          - SKE48 贪心课外授业: SKE48のよくばり课外授业！.md
-          - SKE48 的平均值: SKE48的平均值.md
-          - SKE48 的爱知 TERU: SKE48的爱知TERU (情報短番).md
-          - SKE48 要和你一起歌唱: SKE48要和你一起歌唱 (短番).md
-          - SKE48 × 东海Walker: SKE48 × 東海Walker （媒体合作番组）.md
-          - SKE48 一并逮捕! 假偶像扑灭大作战: SKE48一併逮捕！假偶像撲滅大作戰!! (美浜海遊祭).md
-          - 非常 SKE 黎明前的国盗48番胜负: 非常SKE 黎明前的国盗48番胜负(短番）.md
-          - 收获 KISS: 收穫KISS (短番).md
-          - 去吧，恋！: 去吧，恋！（挑战类）.md
-          - 让 SKE48 走进科学 (Discovery): 让SKE48走进科学 (Discovery频道，英语旁白，幕后揭秘類).md
-          - Line Live SKE48 コレカケルアレ: Line Live SKE48 コレカケルアレ（line番组）.md
-          - SKE48 のはつのり! (柴田阿弥): SKE48のはつのり!（柴田阿弥主持的网络直播番组）.md
-          - 松村香织 & 谷真理佳 搭车之旅: SKE48 松村香織&谷真理佳的搭车之旅.md
-          - 松村香织 & 谷真理佳 悬赏生活: SKE48 松村香織&谷真理佳的悬赏生活.md
-          - 高柳明音 给我翅膀 (1-2季): 高柳明音の翼をください（第一季+第二季）.md
-          - 松井珠理奈 INS 美照 100 张挑战: 松井珠理奈的INS美照100张挑战之旅 (中京TV).md
-          - Magi & SKE48 的流连忘返: Magi&SKE48的流连忘返 (江笼裕奈 小畑優奈 菅原茉椰，外景情報).md
-          - 熊崎晴香 Haru Car Club: SKE48熊崎晴香的Haru Car club (愛知豐田).md
-          - 松井玲奈×西川贵教 动画漫画游戏番: 松井玲奈和西川貴教突然開始介紹動畫、漫畫、遊戲的番組 (系外遊戲番).md
-          - Doki Doki! NHK World JAPAN (松井玲奈): Doki Doki！NHK World JAPAN (松井玲奈 系外短番).md
-          - 须田亚香里 B站官方频道: 须田亚香里-official (须田亚香里B站官方頻道).md
-          - Fun x Fun Japan! (SKE × BNK): Fun x Fun Japan！ (SKE48 x BNK48 旅游番).md
-          - SKE 特别番组: SKE特別番組.md
+          - 📍 SKE48 番组总目录: 娱乐番组/SKE48/SKE48番组.md
+          - SKE48 ZERO POSITION: 娱乐番组/SKE48/SKE48 ZERO POSITION（对决类）.md
+          - SKE48 学园: 娱乐番组/SKE48/SKE48学园（月番）.md
+          - SKE48 魔法广播 (1-3季): 娱乐番组/SKE48/SKE48魔法广播（第一季-第三季）.md
+          - SKE48 炸虾周五夜 (第1季): 娱乐番组/SKE48/SKE48 炸虾周五夜（炸虾第一季）.md
+          - SKE48 炸虾商 (第2季): 娱乐番组/SKE48/SKE48 炸虾商（炸虾第二季）.md
+          - SKE48 炸虾赌场 (第3季): 娱乐番组/SKE48/SKE48 炸虾赌场（炸虾第三季）.md
+          - SKEBINGO!: 娱乐番组/SKE48/SKEBINGO！(AKBINGO!姐妹番).md
+          - 世界征服女子: 娱乐番组/SKE48/世界征服女子.md
+          - SKE48 星期二打工剧场: 娱乐番组/SKE48/SKE48 星期二打工剧场（打工类）.md
+          - SKE48 结缘饭团一级棒: 娱乐番组/SKE48/SKE48 结缘饭团一级棒 (外景直播).md
+          - SKE48 的网红教室: 娱乐番组/SKE48/SKE48的网红教室（接档SKE48 结缘饭团一级棒）.md
+          - SKE48 初恋饭团: 娱乐番组/SKE48/SKE48初恋饭团（佐藤実絵子带领成员捏饭团，短番）.md
+          - SKE48 晚安名言道场: 娱乐番组/SKE48/SKE48のおやすみ名言道场.md
+          - SKE48 DANCE KINGDOM: 娱乐番组/SKE48/SKE48 DANCE KINGDOM.md
+          - SKE48 享受一间澡堂: 娱乐番组/SKE48/SKE48享受一間澡堂 (短番).md
+          - SKE48 的 Fun!Fun!兜风: 娱乐番组/SKE48/SKE48的Fun!Fun!兜风 (觀光短番).md
+          - SKE48 想要女儿吗!?: 娱乐番组/SKE48/SKE48 ムスメにいかが！？.md
+          - SKE48 贪心课外授业: 娱乐番组/SKE48/SKE48のよくばり课外授业！.md
+          - SKE48 的平均值: 娱乐番组/SKE48/SKE48的平均值.md
+          - SKE48 的爱知 TERU: 娱乐番组/SKE48/SKE48的爱知TERU (情報短番).md
+          - SKE48 要和你一起歌唱: 娱乐番组/SKE48/SKE48要和你一起歌唱 (短番).md
+          - SKE48 × 东海Walker: 娱乐番组/SKE48/SKE48 × 東海Walker （媒体合作番组）.md
+          - SKE48 一并逮捕! 假偶像扑灭大作战: 娱乐番组/SKE48/SKE48一併逮捕！假偶像撲滅大作戰!! (美浜海遊祭).md
+          - 非常 SKE 黎明前的国盗48番胜负: 娱乐番组/SKE48/非常SKE 黎明前的国盗48番胜负(短番）.md
+          - 收获 KISS: 娱乐番组/SKE48/收穫KISS (短番).md
+          - 去吧，恋！: 娱乐番组/SKE48/去吧，恋！（挑战类）.md
+          - 让 SKE48 走进科学 (Discovery): 娱乐番组/SKE48/让SKE48走进科学 (Discovery频道，英语旁白，幕后揭秘類).md
+          - Line Live SKE48 コレカケルアレ: 娱乐番组/SKE48/Line Live SKE48 コレカケルアレ（line番组）.md
+          - SKE48 のはつのり! (柴田阿弥): 娱乐番组/SKE48/SKE48のはつのり!（柴田阿弥主持的网络直播番组）.md
+          - 松村香织 & 谷真理佳 搭车之旅: 娱乐番组/SKE48/SKE48 松村香織&谷真理佳的搭车之旅.md
+          - 松村香织 & 谷真理佳 悬赏生活: 娱乐番组/SKE48/SKE48 松村香織&谷真理佳的悬赏生活.md
+          - 高柳明音 给我翅膀 (1-2季): 娱乐番组/SKE48/高柳明音の翼をください（第一季+第二季）.md
+          - 松井珠理奈 INS 美照 100 张挑战: 娱乐番组/SKE48/松井珠理奈的INS美照100张挑战之旅 (中京TV).md
+          - Magi & SKE48 的流连忘返: 娱乐番组/SKE48/Magi&SKE48的流连忘返 (江笼裕奈 小畑優奈 菅原茉椰，外景情報).md
+          - 熊崎晴香 Haru Car Club: 娱乐番组/SKE48/SKE48熊崎晴香的Haru Car club (愛知豐田).md
+          - 松井玲奈×西川贵教 动画漫画游戏番: 娱乐番组/SKE48/松井玲奈和西川貴教突然開始介紹動畫、漫畫、遊戲的番組 (系外遊戲番).md
+          - Doki Doki! NHK World JAPAN (松井玲奈): 娱乐番组/SKE48/Doki Doki！NHK World JAPAN (松井玲奈 系外短番).md
+          - 须田亚香里 B站官方频道: 娱乐番组/SKE48/须田亚香里-official (须田亚香里B站官方頻道).md
+          - Fun x Fun Japan! (SKE × BNK): 娱乐番组/SKE48/Fun x Fun Japan！ (SKE48 x BNK48 旅游番).md
+          - SKE 特别番组: 娱乐番组/SKE48/SKE特別番組.md
       - NMB48 番组:
-          - 📍 NMB48 番组总目录: NMB48番组.md
-          - 4方8方美人 (NMB & SKE 双冠名): 4方8方美人 (NMB & SKE雙冠名番組,在NMB分類可見同名編列)(大阪channel).md
+          - 📍 NMB48 番组总目录: 娱乐番组/NMB48/NMB48番组.md
+          - 4方8方美人 (NMB & SKE 双冠名): 娱乐番组/NMB48/4方8方美人 (NMB & SKE雙冠名番組,在NMB分類可見同名編列)(大阪channel).md
       - HKT48 番组:
-          - 📍 HKT48 番组总目录: HKT48番组.md
-          - HKT 青春体育部!: HKT青春体育部!.md
+          - 📍 HKT48 番组总目录: 娱乐番组/HKT48/HKT48番组.md
+          - HKT 青春体育部!: 娱乐番组/HKT48/HKT青春体育部!.md
       - NGT48 番组:
-          - 📍 NGT48 番组总目录: NGT48番组.md
+          - 📍 NGT48 番组总目录: 娱乐番组/NGT48/NGT48番组.md
       - STU48 番组:
-          - 📍 STU48 番组总目录: STU48番组.md
-          - STU↗︎でんつ！: STU↗︎でんつ！.md
-          - STU48 伸 TV: STU48伸TV.md
-          - 虹色濑户之旅: 虹色瀨戶之旅.md
-          - 濑户挑战! STU48: 濑户挑战! STU48.md
-          - SETOBINGO!: SETOBINGO!.md
-          - STU48 的濑户内会: STU48的瀨戶內會.md
-          - STU48 的 SU!: STU48的SU!.md
-          - STU48 的加油 SU!: STU48的加油SU!.md
-          - STU48 的更多 STU!: STU48的更多STU!.md
-          - STU48 的 SetoLike: STU48的SetoLike.md
-          - SETOUCHI ISLAND: SETOUCHI ISLAND.md
-          - STU48 の行ってきまSU！: STU48の行ってきまSU！.md
-          - STU48 と行く尾道ぶらり旅: STU48と行く尾道ぶらり旅.md
-          - STU 発⇒东京: STU発⇒東京.md
-          - STU48 的江田岛发现之旅: STU48的江田岛发现之旅.md
-          - STU48 的山口囤铁道之旅: STU48的山口囤铁道之旅.md
-          - STU48 × 千鸟 濑户内少女应援团: STU48×千鳥 瀬戸内少女応援団.md
-          - STU48 ふるさと宣伝LABO: STU48 ふるさと宣伝LABO.md
-          - STU48 石田千穗的工作石田千穗: STU48石田千穗的工作石田千穗.md
-          - STU48 的 LINE LIVE 也要加油 SU!: STU48的LINE LIVE也要加油SU!.md
-          - STU48 CHANNEL (Niconico): STU48 CHANNEL.md
-          - STU48 官方 YouTube 频道: STU48官方YOUTUBE頻道.md
-          - STU48 特番: STU48 特番.md
+          - 📍 STU48 番组总目录: 娱乐番组/STU48/STU48番组.md
+          - STU↗︎でんつ！: 娱乐番组/STU48/STU↗︎でんつ！.md
+          - STU48 伸 TV: 娱乐番组/STU48/STU48伸TV.md
+          - 虹色濑户之旅: 娱乐番组/STU48/虹色瀨戶之旅.md
+          - 濑户挑战! STU48: 娱乐番组/STU48/濑户挑战! STU48.md
+          - SETOBINGO!: 娱乐番组/STU48/SETOBINGO!.md
+          - STU48 的濑户内会: 娱乐番组/STU48/STU48的瀨戶內會.md
+          - STU48 的 SU!: 娱乐番组/STU48/STU48的SU!.md
+          - STU48 的加油 SU!: 娱乐番组/STU48/STU48的加油SU!.md
+          - STU48 的更多 STU!: 娱乐番组/STU48/STU48的更多STU!.md
+          - STU48 的 SetoLike: 娱乐番组/STU48/STU48的SetoLike.md
+          - SETOUCHI ISLAND: 娱乐番组/STU48/SETOUCHI ISLAND.md
+          - STU48 の行ってきまSU！: 娱乐番组/STU48/STU48の行ってきまSU！.md
+          - STU48 と行く尾道ぶらり旅: 娱乐番组/STU48/STU48と行く尾道ぶらり旅.md
+          - STU 発⇒东京: 娱乐番组/STU48/STU発⇒東京.md
+          - STU48 的江田岛发现之旅: 娱乐番组/STU48/STU48的江田岛发现之旅.md
+          - STU48 的山口囤铁道之旅: 娱乐番组/STU48/STU48的山口囤铁道之旅.md
+          - STU48 × 千鸟 濑户内少女应援团: 娱乐番组/STU48/STU48×千鳥 瀬戸内少女応援団.md
+          - STU48 ふるさと宣伝LABO: 娱乐番组/STU48/STU48 ふるさと宣伝LABO.md
+          - STU48 石田千穗的工作石田千穗: 娱乐番组/STU48/STU48石田千穗的工作石田千穗.md
+          - STU48 的 LINE LIVE 也要加油 SU!: 娱乐番组/STU48/STU48的LINE LIVE也要加油SU!.md
+          - STU48 CHANNEL (Niconico): 娱乐番组/STU48/STU48 CHANNEL.md
+          - STU48 官方 YouTube 频道: 娱乐番组/STU48/STU48官方YOUTUBE頻道.md
+          - STU48 特番: 娱乐番组/STU48/STU48 特番.md
 
   - 🎬 影视与活动:
       - 纪录片与大型活动:
-          - 📍 纪录片 / 影视 / 舞台剧 / 动画总览: 纪录片、影视相关、舞台剧、动画.md
-          - AKB GROUP 纪录片合集: AKB GROUP纪录片合集.md
-          - 📍 大型 / 特殊活动总览 (红白/猜拳/运动会/组阁): 大型_特殊活动.md
-          - AKB GROUP 选拔总选举合辑: 《AKB GROUP选拔总选举合輯》.md
-          - AKB48 总选举丑闻 秋叶原文书: AKB48總選舉醜聞 秋葉原文書.md
+          - 📍 纪录片 / 影视 / 舞台剧 / 动画总览: 影视与活动/纪录片、影视相关、舞台剧、动画.md
+          - AKB GROUP 纪录片合集: 影视与活动/AKB GROUP纪录片合集.md
+          - 📍 大型 / 特殊活动总览 (红白/猜拳/运动会/组阁): 影视与活动/大型_特殊活动.md
+          - AKB GROUP 选拔总选举合辑: 影视与活动/《AKB GROUP选拔总选举合輯》.md
+          - AKB48 总选举丑闻 秋叶原文书: 影视与活动/AKB48總選舉醜聞 秋葉原文書.md
       - 电视剧、舞台剧与动画:
-          - 📍 影视相关总览: 影视相关.md
-          - 舞台剧与歌舞剧合辑: AKB GROUP成员出演舞台劇_歌舞劇合輯.md
-          - 豆腐职业摔角: 豆腐職業摔角.md
-          - 马路须加 / 真假学园 (マジムリ学园): マジムリ學園.md
-          - AKB 恐怖夜 肾上腺素之夜: AKB恐怖夜 腎上腺素之夜.md
-          - AKB 爱之夜 恋工场: AKB愛之夜戀工場.md
-          - 欺诈偶像 (渡边麻友): 欺詐偶像.md
-          - 水手服僵尸: 水手服僵尸.md
-          - 言灵女 (No3b): 言霊の女たち.md
-          - 动画《AKB0048》: AKB0048.md
+          - 📍 影视相关总览: 影视与活动/影视相关.md
+          - 舞台剧与歌舞剧合辑: 影视与活动/AKB GROUP成员出演舞台劇_歌舞劇合輯.md
+          - 豆腐职业摔角: 影视与活动/豆腐職業摔角.md
+          - 马路须加 / 真假学园 (マジムリ学园): 影视与活动/マジムリ學園.md
+          - AKB 恐怖夜 肾上腺素之夜: 影视与活动/AKB恐怖夜 腎上腺素之夜.md
+          - AKB 爱之夜 恋工场: 影视与活动/AKB愛之夜戀工場.md
+          - 欺诈偶像 (渡边麻友): 影视与活动/欺詐偶像.md
+          - 水手服僵尸: 影视与活动/水手服僵尸.md
+          - 言灵女 (No3b): 影视与活动/言霊の女たち.md
+          - 动画《AKB0048》: 影视与活动/AKB0048.md
       - MV / PV 与其它:
-          - AKB48 PV 合集: AKB48 PV合集.md
-          - 其它内容汇总: 其它内容.md
+          - AKB48 PV 合集: 影视与活动/AKB48 PV合集.md
+          - 其它内容汇总: 影视与活动/其它内容.md
 
   - 🌟 分团与专区:
-      - AKB48 Team SH 资源:
-          - 成员介绍: TSH成员介绍.md
-          - 音乐作品: 2、作品.md
-          - 演唱会: 3、演唱会.md
-          - 剧场公演: 4、剧场公演.md
-          - 总选记录: 5、总选.md
+      - TSH48 专区:
+          - 成员介绍: 分团与专区/TSH/TSH成员介绍.md
+          - 音乐作品: 分团与专区/TSH/2、作品.md
+          - 演唱会: 分团与专区/TSH/3、演唱会.md
+          - 剧场公演: 分团与专区/TSH/4、剧场公演.md
+          - 总选记录: 分团与专区/TSH/5、总选.md
       - SKE48 专区:
-          - SKE48 专区总览: SKE48专区.md
-          - SKE48 日程安排 & 新闻: SKE48 日程安排&新闻.md
+          - SKE48 专区总览: 分团与专区/SKE48/SKE48专区.md
+          - SKE48 日程安排 & 新闻: 分团与专区/SKE48/SKE48 日程安排&新闻.md
 
   - ❓ 帮助与说明:
-      - 使用帮助: 帮助.md
-      - 免责声明与共建指南: 免责声明.md
+      - 使用帮助: 关于/帮助.md
+      - 免责声明与共建指南: 关于/免责声明.md
 
 extra_css:
   - stylesheets/extra.css
