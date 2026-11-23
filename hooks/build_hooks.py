@@ -1,9 +1,43 @@
+import hashlib
 import logging
 import os
+import re
 import shutil
 import subprocess
 
 log = logging.getLogger("mkdocs.hooks.build_hooks")
+
+_ASSET_HASHES = {}
+
+
+def _file_hash(path: str) -> str:
+    h = hashlib.sha256()
+    with open(path, "rb") as f:
+        for chunk in iter(lambda: f.read(65536), b""):
+            h.update(chunk)
+    return h.hexdigest()[:8]
+
+
+def on_config(config):
+    """Compute content hashes for custom CSS/JS to bust stale browser/CDN cache."""
+    docs_dir = config["docs_dir"]
+    _ASSET_HASHES.clear()
+    for rel in ("stylesheets/extra.css", "javascripts/custom.js"):
+        full = os.path.join(docs_dir, *rel.split("/"))
+        if os.path.isfile(full):
+            _ASSET_HASHES[rel] = _file_hash(full)
+    return config
+
+
+def on_post_page(output, page, config):
+    """Append ?v=<hash> to custom CSS/JS references so HTML and JS never mismatch."""
+    for rel, digest in _ASSET_HASHES.items():
+        output = re.sub(
+            rf'((?:href|src)="[^"]*{re.escape(rel)})(")',
+            rf"\1?v={digest}\2",
+            output,
+        )
+    return output
 
 
 def _find_pagefind_cmd():
