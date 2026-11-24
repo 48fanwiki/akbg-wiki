@@ -381,3 +381,24 @@
 </tr>
 </tbody>
 </table>
+
+## 初代存档补遗（Wayback Machine 增量核对）
+
+> 以下条目经自动比对确认存在初代资源站快照中且未收录于上方正文，按“只增不覆盖”原则增量补入，上方原正文保持不变。
+
+<table>
+  <thead>
+    <tr>
+      <th>来源小节</th>
+      <th>节目 / 场次信息</th>
+      <th>初代归档链接</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>简介</td>
+      <td>富士电视台主办（ 日文维基 ）( 夏祭维基 )</td>
+      <td><a href="http://t.cn/RzcKVbQ">http://t.cn/RzcKVbQ</a><br><a href="http://t.cn/Rzc0qVR">http://t.cn/Rzc0qVR</a></td>
+    </tr>
+  </tbody>
+</table>

@@ -338,3 +338,174 @@
 
 - 200918 Online Live～今夜は寝かさない～
   - http://www.bilibili.com/video/BV1wD4y1Z7bi/ (生肉）
+
+## 初代存档补遗（Wayback Machine 增量核对）
+
+> 以下条目经自动比对确认存在初代资源站快照中且未收录于上方正文，按“只增不覆盖”原则增量补入，上方原正文保持不变。
+
+<table>
+  <thead>
+    <tr>
+      <th>来源小节</th>
+      <th>节目 / 场次信息</th>
+      <th>初代归档链接</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>柏木由纪</td>
+      <td>210418 「CAN YOU WALK WITH ME」发售纪念Premium Live</td>
+      <td><a href="http://www.bilibili.com/video/BV1yq4y1s7hj/">http://www.bilibili.com/video/BV1yq4y1s7hj/</a></td>
+    </tr>
+    <tr>
+      <td>柏木由纪</td>
+      <td>211126 寝ても覚めてもゆきりんワールド～まだまだ夢中にさせちゃうぞっ～</td>
+      <td><a href="http://www.bilibili.com/video/BV1134y1R7R7/">http://www.bilibili.com/video/BV1134y1R7R7/</a></td>
+    </tr>
+    <tr>
+      <td>柏木由纪</td>
+      <td>211129 寝ても覚めてもゆきりんワールド～これからも夢中にさせちゃうぞっ～</td>
+      <td><a href="http://www.bilibili.com/video/BV1HZ4y1978A/">http://www.bilibili.com/video/BV1HZ4y1978A/</a></td>
+    </tr>
+    <tr>
+      <td>柏木由纪</td>
+      <td>211227 柏木由紀なりのWACK EXHiBiTiON and SELECT 7  （CUT）</td>
+      <td><a href="http://www.bilibili.com/video/BV1Ci4y1R7zf/">http://www.bilibili.com/video/BV1Ci4y1R7zf/</a></td>
+    </tr>
+    <tr>
+      <td>柏木由纪</td>
+      <td>230616 AYAKARNIVAL2023 Day1</td>
+      <td><a href="http://www.bilibili.com/video/BV1CW4y1D7DM/">http://www.bilibili.com/video/BV1CW4y1D7DM/</a></td>
+    </tr>
+    <tr>
+      <td>柏木由纪</td>
+      <td>231216-240127 3rd Live Tour 寝ても覚めてもゆきりんワールド～ソロデビュー10周年も夢中にさせちゃうぞっ～ 240127东京场：</td>
+      <td><a href="http://www.bilibili.com/video/BV15m411X7dM/">http://www.bilibili.com/video/BV15m411X7dM/</a></td>
+    </tr>
+    <tr>
+      <td>山本彩</td>
+      <td>SAYAKA YAMAMOTO SPECIAL LIVE STREAMING 220815  (生肉)</td>
+      <td><a href="https://www.bilibili.com/video/BV1KN4y1V7aR/">https://www.bilibili.com/video/BV1KN4y1V7aR/</a></td>
+    </tr>
+    <tr>
+      <td>山本彩</td>
+      <td>SAYAKA YAMAMOTO LIVE 2022 now 221227  (生肉)</td>
+      <td><a href="https://www.bilibili.com/video/BV1e8411J746/">https://www.bilibili.com/video/BV1e8411J746/</a></td>
+    </tr>
+    <tr>
+      <td>山本彩</td>
+      <td>「Sayaka Yamamoto Cure 2023 -Billboard Live Tour-」東京公演 230221  (生肉)</td>
+      <td><a href="https://www.bilibili.com/video/BV1PY411e7UP/">https://www.bilibili.com/video/BV1PY411e7UP/</a></td>
+    </tr>
+    <tr>
+      <td>河西智美</td>
+      <td>201114 29th Birthday Live 2020 午场：  夜场：</td>
+      <td><a href="http://www.bilibili.com/video/BV1Nr4y1k7ZQ/">http://www.bilibili.com/video/BV1Nr4y1k7ZQ/</a><br><a href="http://www.bilibili.com/video/BV1h341187Zt/">http://www.bilibili.com/video/BV1h341187Zt/</a></td>
+    </tr>
+    <tr>
+      <td>河西智美</td>
+      <td>220212 30th ANNIVERSARY LIVE 午场：  （生肉） 夜场：  （生肉）</td>
+      <td><a href="http://www.bilibili.com/video/BV1wL4y1j7rR/">http://www.bilibili.com/video/BV1wL4y1j7rR/</a><br><a href="http://www.bilibili.com/video/BV1gY4y1W74U/">http://www.bilibili.com/video/BV1gY4y1W74U/</a></td>
+    </tr>
+    <tr>
+      <td>向井地美音</td>
+      <td>本篇:</td>
+      <td><a href="https://m.bilibili.com/video/BV1nK4y147WG?p=1">https://m.bilibili.com/video/BV1nK4y147WG?p=1</a></td>
+    </tr>
+    <tr>
+      <td>生田绘梨花</td>
+      <td>211212 MTV Unplugged Nogizaka46 2021年アンプラグド公演（生田絵梨花 樋口日奈 久保史緒里 遠藤さくら 贺喜遥香） 本篇：  Making：</td>
+      <td><a href="http://www.bilibili.com/video/BV1jS4y1j7nn/">http://www.bilibili.com/video/BV1jS4y1j7nn/</a><br><a href="http://www.bilibili.com/video/BV1eF411s7Kq/">http://www.bilibili.com/video/BV1eF411s7Kq/</a></td>
+    </tr>
+    <tr>
+      <td>生田绘梨花</td>
+      <td>220806 Erika Ikuta 2022 summer fun 大阪夜公演</td>
+      <td><a href="http://www.bilibili.com/video/BV1tj411c7Pi/">http://www.bilibili.com/video/BV1tj411c7Pi/</a></td>
+    </tr>
+    <tr>
+      <td>生田绘梨花</td>
+      <td>221211 Erika Ikuta 2022 winter fun</td>
+      <td><a href="http://www.bilibili.com/video/BV1NM4y1y7Qv/">http://www.bilibili.com/video/BV1NM4y1y7Qv/</a></td>
+    </tr>
+    <tr>
+      <td>中井りか</td>
+      <td>180115 中井りか ソロコンサート ～中井りかキャンペーン中～ @TDC 本篇：  花絮： (生肉)</td>
+      <td><a href="https://www.bilibili.com/video/BV1ct411L78L?p=8">https://www.bilibili.com/video/BV1ct411L78L?p=8</a></td>
+    </tr>
+    <tr>
+      <td>岡田奈々</td>
+      <td>220703&amp;220710 岡田奈々 10th Anniversaryコンサート ～Starting Over～</td>
+      <td><a href="http://www.bilibili.com/video/BV1Vd4y1Q7i9/">http://www.bilibili.com/video/BV1Vd4y1Q7i9/</a></td>
+    </tr>
+    <tr>
+      <td>岡田奈々</td>
+      <td>230226 岡田奈々 1st LIVE TOUR 2023～TIMELESS FLAG～</td>
+      <td><a href="http://www.bilibili.com/video/BV1y54y1T7QT/">http://www.bilibili.com/video/BV1y54y1T7QT/</a></td>
+    </tr>
+    <tr>
+      <td>久保怜音</td>
+      <td>200126 AKB48久保怜音ソロコンサート ～わたあめランドへようこそ～ @TDC 本篇:  （生肉）</td>
+      <td><a href="https://www.bilibili.com/video/BV1rY4y1p7B5">https://www.bilibili.com/video/BV1rY4y1p7B5</a></td>
+    </tr>
+    <tr>
+      <td>山内瑞葵</td>
+      <td>200126 AKB48山内瑞葵ソロコンサート ～“MY” Revolution～ @TDC 本篇:  Making:收录于 AKB48Group映像仓库</td>
+      <td><a href="http://www.bilibili.com/video/BV1wY411b7s6/">http://www.bilibili.com/video/BV1wY411b7s6/</a></td>
+    </tr>
+    <tr>
+      <td>江籠裕奈</td>
+      <td>210313 江籠裕奈ソロLIVE くぎづけたいむ! 本篇:  （生肉）</td>
+      <td><a href="http://www.bilibili.com/video/BV1Wh411Q7Kc/">http://www.bilibili.com/video/BV1Wh411Q7Kc/</a></td>
+    </tr>
+    <tr>
+      <td>江籠裕奈</td>
+      <td>230526 江籠裕奈4th Solo Live 〜恋、なんか わかんないコ〜 预热:  本篇:</td>
+      <td><a href="http://www.bilibili.com/video/BV1Au411t7kw/">http://www.bilibili.com/video/BV1Au411t7kw/</a></td>
+    </tr>
+    <tr>
+      <td>野島樺乃</td>
+      <td>210313 野島樺乃ソロLIVE 希望とは… 本篇:  （生肉）</td>
+      <td><a href="http://www.bilibili.com/video/BV17y4y187XY/">http://www.bilibili.com/video/BV17y4y187XY/</a></td>
+    </tr>
+    <tr>
+      <td>白间美瑠</td>
+      <td>210709 白間美瑠ソロコンサート 2021 ～Zeppでも!みるみる♡～ 本篇:  （生肉）</td>
+      <td><a href="http://www.bilibili.com/video/BV1Nh411a7B5/">http://www.bilibili.com/video/BV1Nh411a7B5/</a></td>
+    </tr>
+    <tr>
+      <td>小田えりな</td>
+      <td>211216 小田えりな 1stソロLIVE オダエリサイタル vol.1 往古来今 本篇:  （生肉）</td>
+      <td><a href="http://www.bilibili.com/video/BV1wR4y1W7Un/">http://www.bilibili.com/video/BV1wR4y1W7Un/</a></td>
+    </tr>
+    <tr>
+      <td>小田えりな</td>
+      <td>211216 小田えりな 1stソロLIVE オダエリサイタル vol.1 冬夏青青 本篇:  （生肉）</td>
+      <td><a href="http://www.bilibili.com/video/BV1ga411k7u8/">http://www.bilibili.com/video/BV1ga411k7u8/</a></td>
+    </tr>
+    <tr>
+      <td>小田えりな</td>
+      <td>220419 小田えりな 2ndソロLIVEオダエリサイタル vol.2 无我梦中 本篇:  （生肉）</td>
+      <td><a href="http://www.bilibili.com/video/BV1Gi4y1S7oa/">http://www.bilibili.com/video/BV1Gi4y1S7oa/</a></td>
+    </tr>
+    <tr>
+      <td>小田えりな</td>
+      <td>220419 小田えりな 2ndソロLIVEオダエリサイタル vol.2 梦幻泡影 本篇:  （生肉）</td>
+      <td><a href="http://www.bilibili.com/video/BV1gZ4y117Gu/">http://www.bilibili.com/video/BV1gZ4y117Gu/</a></td>
+    </tr>
+    <tr>
+      <td>矢作萌夏</td>
+      <td>240121 主流出道纪念LIVE『 spilt milk 』@赤坂BLITZ Studio 本篇:  （生肉）</td>
+      <td><a href="http://www.bilibili.com/video/BV1H2421w7z5/">http://www.bilibili.com/video/BV1H2421w7z5/</a></td>
+    </tr>
+    <tr>
+      <td>ノースリーブス（No3b）</td>
+      <td>231125 ノースリーブス 15th ANNIVERSARY～NICE TO SEE YOU～ 本篇全场：  （生肉） 本篇MC：  After Talk：</td>
+      <td><a href="http://www.bilibili.com/video/BV1X94y1J7r5/">http://www.bilibili.com/video/BV1X94y1J7r5/</a><br><a href="http://www.bilibili.com/video/BV1Rp4y197zY/">http://www.bilibili.com/video/BV1Rp4y197zY/</a><br><a href="http://www.bilibili.com/video/BV1jc411B7V6/">http://www.bilibili.com/video/BV1jc411B7V6/</a></td>
+    </tr>
+    <tr>
+      <td>カミングフーレバー</td>
+      <td>211216 カミングフーレバー 振替公演 2021 かみふれ！Tour Final ～1年前の私たちへ～  （生肉）</td>
+      <td><a href="https://www.bilibili.com/video/BV1Ki4y1R7QL/">https://www.bilibili.com/video/BV1Ki4y1R7QL/</a></td>
+    </tr>
+  </tbody>
+</table>

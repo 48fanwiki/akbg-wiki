@@ -34,3 +34,119 @@
 | 210129 | 乃木坂46 | 26单+堀未央奈最后演出 | http://www.bilibili.com/video/BV1uh411C7Lw/ |  |
 | 210305 | 柏木由纪 | 3单 | http://www.bilibili.com/video/BV1vb4y197pw/ |  |
 | 210417 | 樱坂46 | 2单 | http://www.bilibili.com/video/BV1JA411L7KY/ |  |
+
+## 初代存档补遗（Wayback Machine 增量核对）
+
+> 以下条目经自动比对确认存在初代资源站快照中且未收录于上方正文，按“只增不覆盖”原则增量补入，上方原正文保持不变。
+
+<table>
+  <thead>
+    <tr>
+      <th>来源小节</th>
+      <th>节目 / 场次信息</th>
+      <th>初代归档链接</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>播放地址</td>
+      <td>210528 · 日向坂46 · 三周跟拍+一专&amp;五单Live</td>
+      <td><a href="http://www.bilibili.com/video/BV1Sb4y1o7KE/">http://www.bilibili.com/video/BV1Sb4y1o7KE/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>210604 · 乃木坂46 · 27單</td>
+      <td><a href="http://www.bilibili.com/video/BV1L5411M7BM/">http://www.bilibili.com/video/BV1L5411M7BM/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>210702 · 乃木坂46 日向坂46 · 未公开</td>
+      <td><a href="http://www.bilibili.com/video/BV1xK4y1g7Na/">http://www.bilibili.com/video/BV1xK4y1g7Na/</a><br><a href="http://www.bilibili.com/video/BV1K54y1n7h4/">http://www.bilibili.com/video/BV1K54y1n7h4/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>210917 · 指原莉乃 · =LOVE 9单</td>
+      <td><a href="http://www.bilibili.com/video/BV1QL411x7iY/">http://www.bilibili.com/video/BV1QL411x7iY/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>210925 · 乃木坂46 · 28單</td>
+      <td><a href="https://www.bilibili.com/video/BV1A64y187pi/">https://www.bilibili.com/video/BV1A64y187pi/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>211002 · AKB48 · 58單</td>
+      <td><a href="http://www.bilibili.com/video/BV1QQ4y1Q7CM/">http://www.bilibili.com/video/BV1QQ4y1Q7CM/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>211016 · 櫻坂46 · 3单</td>
+      <td><a href="http://www.bilibili.com/video/BV1tT4y1o7mt/">http://www.bilibili.com/video/BV1tT4y1o7mt/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>211029 · 日向坂46 · 6单</td>
+      <td><a href="http://www.bilibili.com/video/BV1Vg411K7Cf/">http://www.bilibili.com/video/BV1Vg411K7Cf/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>211211 · 西野七濑 · 最想和别人一起听的歌曲</td>
+      <td><a href="http://www.bilibili.com/video/BV1444y1E7QW/">http://www.bilibili.com/video/BV1444y1E7QW/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>211225 · 乃木坂46 · 精选辑</td>
+      <td><a href="http://www.bilibili.com/video/BV15Y411p744/">http://www.bilibili.com/video/BV15Y411p744/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>220205 · 白石麻衣 · 一个人喝酒时想听的歌曲</td>
+      <td><a href="http://www.bilibili.com/video/BV1Gr4y1h7ie/">http://www.bilibili.com/video/BV1Gr4y1h7ie/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>220212 · 白石麻衣 · 蒸桑拿时想听的歌曲</td>
+      <td><a href="http://www.bilibili.com/video/BV1mS4y1C73X/">http://www.bilibili.com/video/BV1mS4y1C73X/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>220325 · 乃木坂46 · 29單</td>
+      <td><a href="https://www.bilibili.com/video/BV1rP4y1T7Bg/">https://www.bilibili.com/video/BV1rP4y1T7Bg/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>220408 · 櫻坂46 · 4单</td>
+      <td><a href="http://www.bilibili.com/video/BV1A94y1d7CK/">http://www.bilibili.com/video/BV1A94y1d7CK/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>220430 · STU48 · 7单</td>
+      <td><a href="http://www.bilibili.com/video/BV1rY411w7gG/">http://www.bilibili.com/video/BV1rY411w7gG/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>220521 · AKB48 · 59單</td>
+      <td><a href="http://www.bilibili.com/video/BV1oZ4y1t7Kk/">http://www.bilibili.com/video/BV1oZ4y1t7Kk/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>220603 · 日向坂46 · 7单</td>
+      <td><a href="http://www.bilibili.com/video/BV1LZ4y1t7pN/">http://www.bilibili.com/video/BV1LZ4y1t7pN/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>220902 · 櫻坂46 · 一专</td>
+      <td><a href="http://www.bilibili.com/video/BV1WT411M7H7/">http://www.bilibili.com/video/BV1WT411M7H7/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>221014 · AKB48 · 60單+Live铁板曲medley+24小時跟拍</td>
+      <td><a href="http://www.bilibili.com/video/BV1DP411P7bx/">http://www.bilibili.com/video/BV1DP411P7bx/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>221028 · 日向坂46 · 8单</td>
+      <td><a href="http://www.bilibili.com/video/BV19g411z7yc/">http://www.bilibili.com/video/BV19g411z7yc/</a></td>
+    </tr>
+  </tbody>
+</table>

@@ -245,3 +245,104 @@
 </tr>
 </tbody>
 </table>
+
+## 初代存档补遗（Wayback Machine 增量核对）
+
+> 以下条目经自动比对确认存在初代资源站快照中且未收录于上方正文，按“只增不覆盖”原则增量补入，上方原正文保持不变。
+
+<table>
+  <thead>
+    <tr>
+      <th>来源小节</th>
+      <th>节目 / 场次信息</th>
+      <th>初代归档链接</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>本篇</td>
+      <td>日向坂46</td>
+      <td><a href="http://www.bilibili.com/video/BV17J41177r9/">http://www.bilibili.com/video/BV17J41177r9/</a></td>
+    </tr>
+    <tr>
+      <td>本篇</td>
+      <td>2021年 · 乃木坂46</td>
+      <td><a href="http://www.bilibili.com/video/BV1kL4y1E7uo/">http://www.bilibili.com/video/BV1kL4y1E7uo/</a></td>
+    </tr>
+    <tr>
+      <td>本篇</td>
+      <td>樱坂46</td>
+      <td><a href="http://www.bilibili.com/video/BV1si4y1X7Ds/">http://www.bilibili.com/video/BV1si4y1X7Ds/</a></td>
+    </tr>
+    <tr>
+      <td>本篇</td>
+      <td>日向坂46</td>
+      <td><a href="http://www.bilibili.com/video/BV1rL4y1E76m/">http://www.bilibili.com/video/BV1rL4y1E76m/</a></td>
+    </tr>
+    <tr>
+      <td>本篇</td>
+      <td>2022年 · 乃木坂46</td>
+      <td><a href="http://www.bilibili.com/video/BV1j44y1d7xa/">http://www.bilibili.com/video/BV1j44y1d7xa/</a></td>
+    </tr>
+    <tr>
+      <td>本篇</td>
+      <td>日向坂46</td>
+      <td><a href="http://www.bilibili.com/video/BV1gg4y1E7FG/">http://www.bilibili.com/video/BV1gg4y1E7FG/</a></td>
+    </tr>
+    <tr>
+      <td>本篇</td>
+      <td>樱坂46</td>
+      <td><a href="http://www.bilibili.com/video/BV1Ca4y1q7w6/">http://www.bilibili.com/video/BV1Ca4y1q7w6/</a><br><a href="http://www.bilibili.com/video/BV13w411V7jr/">http://www.bilibili.com/video/BV13w411V7jr/</a></td>
+    </tr>
+    <tr>
+      <td>本篇</td>
+      <td>宫胁咲良</td>
+      <td><a href="http://www.bilibili.com/video/BV1Ue411S7SG/">http://www.bilibili.com/video/BV1Ue411S7SG/</a></td>
+    </tr>
+    <tr>
+      <td>本篇</td>
+      <td>生田绘梨花 · 生肉</td>
+      <td><a href="http://www.bilibili.com/video/BV18K41147be/">http://www.bilibili.com/video/BV18K41147be/</a><br><a href="http://www.bilibili.com/video/BV1fi4y1B7DN/">http://www.bilibili.com/video/BV1fi4y1B7DN/</a></td>
+    </tr>
+    <tr>
+      <td>特番</td>
+      <td>日向坂46</td>
+      <td><a href="http://www.bilibili.com/video/BV19J411h7fX/">http://www.bilibili.com/video/BV19J411h7fX/</a></td>
+    </tr>
+    <tr>
+      <td>特番</td>
+      <td>211229 · 红白即将到来!今年也很棒哦特辑「第1夜 看点篇」 · 日向坂46</td>
+      <td><a href="http://www.bilibili.com/video/BV1ub4y1i7p9/">http://www.bilibili.com/video/BV1ub4y1i7p9/</a></td>
+    </tr>
+    <tr>
+      <td>特番</td>
+      <td>211231 · 红白即将到来!今年也很棒哦特辑「第2夜 即将带来篇」 · 日向坂46</td>
+      <td><a href="http://www.bilibili.com/video/BV1FF411q7Uo/">http://www.bilibili.com/video/BV1FF411q7Uo/</a></td>
+    </tr>
+    <tr>
+      <td>特番</td>
+      <td>乃木坂46</td>
+      <td><a href="http://www.bilibili.com/video/BV1U3411Y7Zs/">http://www.bilibili.com/video/BV1U3411Y7Zs/</a></td>
+    </tr>
+    <tr>
+      <td>特番</td>
+      <td>221231 · 马上紅白!直前SP · 乃木坂46</td>
+      <td><a href="http://www.bilibili.com/video/BV16D4y157ns/">http://www.bilibili.com/video/BV16D4y157ns/</a></td>
+    </tr>
+    <tr>
+      <td>特番</td>
+      <td>221231 · 红白即将到来! · 日向坂46</td>
+      <td><a href="http://www.bilibili.com/video/BV1jv4y1h7Vz/">http://www.bilibili.com/video/BV1jv4y1h7Vz/</a></td>
+    </tr>
+    <tr>
+      <td>特番</td>
+      <td>221231 · 红白后台 · 影山优佳</td>
+      <td><a href="http://www.bilibili.com/video/BV1JR4y1m7aG/">http://www.bilibili.com/video/BV1JR4y1m7aG/</a></td>
+    </tr>
+    <tr>
+      <td>特番</td>
+      <td>231231 · 幕后talk · 井上和 梅泽美波 与田祐希 田村真佑</td>
+      <td><a href="https://www.bilibili.com/video/BV1jc411k7Jj/">https://www.bilibili.com/video/BV1jc411k7Jj/</a></td>
+    </tr>
+  </tbody>
+</table>

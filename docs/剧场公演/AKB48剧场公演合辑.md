@@ -4248,3 +4248,24 @@
 | 2025/3/29 | 周六 | 休馆日 |  |  |  |  |
 | 2025/3/30 | 周日 | 休馆日 |  |  |  |  |
 | 2025/3/31 | 周一 | 1场 | “ここからだ”公演 向 | 井地美音 生诞祭 佐 | 藤绮星・下尾みう・铃木くるみ・髙桥彩音・田口爱佳・千叶恵里・永野芹佳・福冈圣菜・水岛美结・向井地美音・武藤小麟・山﨑空・秋山由奈・八木爱月・伊藤百花・花田蓝衣 |  |
+
+## 初代存档补遗（Wayback Machine 增量核对）
+
+> 以下条目经自动比对确认存在初代资源站快照中且未收录于上方正文，按“只增不覆盖”原则增量补入，上方原正文保持不变。
+
+<table>
+  <thead>
+    <tr>
+      <th>来源小节</th>
+      <th>节目 / 场次信息</th>
+      <th>初代归档链接</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>简介</td>
+      <td>全年AKB48劇場公演演出成员详细名单（需要翻墙），免翻墙戳这里→→→ 公演成员表格下载版 ）： 2005年 、 2006年 、 2007年 、 2008年 、 2009年 、 2010年 、 2011年 、 2012年 、 2013年 、 2014年 、 2015年 、 2016年 、 2017年 、 2018年</td>
+      <td><a href="http://pan.baidu.com/s/1xXXYu">http://pan.baidu.com/s/1xXXYu</a><br><a href="http://akiha176.web.fc2.com/akb48_2005.html">http://akiha176.web.fc2.com/akb48_2005.html</a><br><a href="http://akiha176.web.fc2.com/akb48_2006.html">http://akiha176.web.fc2.com/akb48_2006.html</a><br><a href="http://akiha176.web.fc2.com/akb48_2007.html">http://akiha176.web.fc2.com/akb48_2007.html</a><br><a href="http://akiha176.web.fc2.com/akb48_2008.html">http://akiha176.web.fc2.com/akb48_2008.html</a><br><a href="http://akiha176.web.fc2.com/akb48_2009.html">http://akiha176.web.fc2.com/akb48_2009.html</a><br><a href="http://akiha176.web.fc2.com/akb48_2010.html">http://akiha176.web.fc2.com/akb48_2010.html</a><br><a href="http://akiha176.web.fc2.com/akb48_2011.html">http://akiha176.web.fc2.com/akb48_2011.html</a><br><a href="http://akiha176.web.fc2.com/akb48_2012.html">http://akiha176.web.fc2.com/akb48_2012.html</a><br><a href="http://akiha176.web.fc2.com/akb48_2013.html">http://akiha176.web.fc2.com/akb48_2013.html</a><br><a href="http://akiha176.web.fc2.com/akb48_2014.html">http://akiha176.web.fc2.com/akb48_2014.html</a><br><a href="http://akiha176.web.fc2.com/akb48_2015.html">http://akiha176.web.fc2.com/akb48_2015.html</a><br><a href="http://akiha176.web.fc2.com/akb48_2016.html">http://akiha176.web.fc2.com/akb48_2016.html</a><br><a href="http://akiha176.web.fc2.com/akb48_2017.html">http://akiha176.web.fc2.com/akb48_2017.html</a><br><a href="http://akiha176.web.fc2.com/akb48_2018.html">http://akiha176.web.fc2.com/akb48_2018.html</a></td>
+    </tr>
+  </tbody>
+</table>

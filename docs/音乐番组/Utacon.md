@@ -481,3 +481,94 @@
 </tr>
 </tbody>
 </table>
+
+## 初代存档补遗（Wayback Machine 增量核对）
+
+> 以下条目经自动比对确认存在初代资源站快照中且未收录于上方正文，按“只增不覆盖”原则增量补入，上方原正文保持不变。
+
+<table>
+  <thead>
+    <tr>
+      <th>来源小节</th>
+      <th>节目 / 场次信息</th>
+      <th>初代归档链接</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>播放</td>
+      <td>170207 · 山本彩 柏木由纪 渡边麻友 · 过错 UFO 左手投手</td>
+      <td><a href="https://www.bilibili.com/video/BV1Rx41117CE">https://www.bilibili.com/video/BV1Rx41117CE</a></td>
+    </tr>
+    <tr>
+      <td>播放</td>
+      <td>170404 · 山本彩 井上小百合 衛藤美彩 齋藤飛鳥 新内眞衣 高山一実 · 出演CUT · ?</td>
+      <td><a href="https://www.bilibili.com/video/BV19x411S7qV">https://www.bilibili.com/video/BV19x411S7qV</a></td>
+    </tr>
+    <tr>
+      <td>播放</td>
+      <td>190604 · 乃木坂46 · ムーンライト伝説 sing out!</td>
+      <td><a href="http://www.bilibili.com/video/BV1ns4y1C7o9/">http://www.bilibili.com/video/BV1ns4y1C7o9/</a></td>
+    </tr>
+    <tr>
+      <td>播放</td>
+      <td>210608 · 日向坂46 · 5单Live+Talk</td>
+      <td><a href="http://www.bilibili.com/video/BV1EB4y1g7Vr/">http://www.bilibili.com/video/BV1EB4y1g7Vr/</a></td>
+    </tr>
+    <tr>
+      <td>播放</td>
+      <td>211109 · 日向坂46 · 6单Live+Talk</td>
+      <td><a href="http://www.bilibili.com/video/BV1Aq4y137KW/">http://www.bilibili.com/video/BV1Aq4y137KW/</a></td>
+    </tr>
+    <tr>
+      <td>播放</td>
+      <td>220517 · AKB48 · 59单Live+Talk</td>
+      <td><a href="http://www.bilibili.com/video/BV1H54y1Z7Vi/">http://www.bilibili.com/video/BV1H54y1Z7Vi/</a></td>
+    </tr>
+    <tr>
+      <td>播放</td>
+      <td>220607 · 日向坂46 · 7单Live+Talk 30秒介绍接力 播出前留言</td>
+      <td><a href="http://www.bilibili.com/video/BV1c94y1U7Cz/">http://www.bilibili.com/video/BV1c94y1U7Cz/</a><br><a href="http://www.bilibili.com/video/BV1AB4y1Q7Aa/">http://www.bilibili.com/video/BV1AB4y1Q7Aa/</a></td>
+    </tr>
+    <tr>
+      <td>播放</td>
+      <td>221011 · SKE48 · 30单Live+Talk · 生肉</td>
+      <td><a href="http://www.bilibili.com/video/BV1H14y177na/">http://www.bilibili.com/video/BV1H14y177na/</a></td>
+    </tr>
+    <tr>
+      <td>播放</td>
+      <td>230314 · NMB48 · 青春のラップタイム 2023</td>
+      <td><a href="http://www.bilibili.com/video/BV1tL411o7S9/">http://www.bilibili.com/video/BV1tL411o7S9/</a></td>
+    </tr>
+    <tr>
+      <td>播放</td>
+      <td>230425 · AKB48 · 好想见到你+61单</td>
+      <td><a href="http://www.bilibili.com/video/BV1Qh411F7Bm/">http://www.bilibili.com/video/BV1Qh411F7Bm/</a></td>
+    </tr>
+    <tr>
+      <td>播放</td>
+      <td>230711 · 樱坂46 生田绘梨花 · 6单Live+Talk secret base</td>
+      <td><a href="http://www.bilibili.com/video/BV17x4y1o7MM/">http://www.bilibili.com/video/BV17x4y1o7MM/</a><br><a href="http://www.bilibili.com/video/BV1Hz4y1J7ni/">http://www.bilibili.com/video/BV1Hz4y1J7ni/</a></td>
+    </tr>
+    <tr>
+      <td>播放</td>
+      <td>230718 · 日向坂46 · 10单Live+Talk 合作伴舞部分 小视频合集</td>
+      <td><a href="http://www.bilibili.com/video/BV1pX4y1Y7Uk/">http://www.bilibili.com/video/BV1pX4y1Y7Uk/</a><br><a href="http://www.bilibili.com/video/BV1gV4y1874D/">http://www.bilibili.com/video/BV1gV4y1874D/</a><br><a href="http://www.bilibili.com/video/BV1tW4y1d7jM/">http://www.bilibili.com/video/BV1tW4y1d7jM/</a></td>
+    </tr>
+    <tr>
+      <td>播放</td>
+      <td>230926 · AKB48 · 泪之惊喜+62单</td>
+      <td><a href="http://www.bilibili.com/video/BV1m94y1a7pH/">http://www.bilibili.com/video/BV1m94y1a7pH/</a></td>
+    </tr>
+    <tr>
+      <td>播放</td>
+      <td>231024 · 樱坂46 · 7单Live+Talk</td>
+      <td><a href="http://www.bilibili.com/video/BV1e94y1G7zN/">http://www.bilibili.com/video/BV1e94y1G7zN/</a></td>
+    </tr>
+    <tr>
+      <td>播放</td>
+      <td>240220 · 樱坂46 · 8单Live+Talk</td>
+      <td><a href="http://www.bilibili.com/video/BV1r6421M7XP/">http://www.bilibili.com/video/BV1r6421M7XP/</a></td>
+    </tr>
+  </tbody>
+</table>

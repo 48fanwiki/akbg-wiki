@@ -243,3 +243,174 @@
 
 - 宗像フェスオンライン ～Seven Fukuocarat～
   - https://www.bilibili.com/video/BV1T64y117rC/
+
+## 初代存档补遗（Wayback Machine 增量核对）
+
+> 以下条目经自动比对确认存在初代资源站快照中且未收录于上方正文，按“只增不覆盖”原则增量补入，上方原正文保持不变。
+
+<table>
+  <thead>
+    <tr>
+      <th>来源小节</th>
+      <th>节目 / 场次信息</th>
+      <th>初代归档链接</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>指原莉乃11年來謝謝你!大感謝祭（2019年5月28日、マリンメッセ福岡）</td>
+      <td>本篇</td>
+      <td><a href="https://www.bilibili.com/video/BV1q5411u7vH/">https://www.bilibili.com/video/BV1q5411u7vH/</a></td>
+    </tr>
+    <tr>
+      <td>「8周年啦!HKT48的令和与昭和歌合戦～大家一起笑吧 哈哈哈哈哈哈哈哈(笑)～」HKT48 8周年前夜祭演唱会（2019年11月25日、博多座)</td>
+      <td>「8周年だよ!HKT48の令和に昭和な歌合戦～みんなで笑おう 八っ八っ八っ八っ八っ八っ八っ八っ(笑)～」HKT48 8周年前夜祭コンサート</td>
+      <td><a href="http://www.bilibili.com/video/BV1E44y1H7L7/">http://www.bilibili.com/video/BV1E44y1H7L7/</a></td>
+    </tr>
+    <tr>
+      <td>HKT48选拔成员演唱会～NEWYEAR也要、认真去做“无聊的事”!请多关照!～（2020年1月18日、TOKYO DOME CITY HALL）</td>
+      <td>HKT48選抜メンバーコンサート～NEWYEARも、“しょうもないこと”本気でやろうぜ!ヨロシクどうぞ!～  （生肉）</td>
+      <td><a href="https://www.acfun.cn/v/ac35282956">https://www.acfun.cn/v/ac35282956</a></td>
+    </tr>
+    <tr>
+      <td>HKT48 THE LIVE～STUDIO LIVE SONG～（2020年7月-）</td>
+      <td>VOL.1 200705  (CUT)</td>
+      <td><a href="https://www.bilibili.com/video/BV1uN411q7fz/">https://www.bilibili.com/video/BV1uN411q7fz/</a></td>
+    </tr>
+    <tr>
+      <td>HKT48 THE LIVE～STUDIO LIVE SONG～（2020年7月-）</td>
+      <td>VOL.13 200905  (CUT)</td>
+      <td><a href="https://www.bilibili.com/video/BV1nN4y1R7Qj/">https://www.bilibili.com/video/BV1nN4y1R7Qj/</a></td>
+    </tr>
+    <tr>
+      <td>HKT48 THE LIVE～STUDIO LIVE SONG～（2020年7月-）</td>
+      <td>Making  (生肉)</td>
+      <td><a href="https://www.bilibili.com/video/BV1vA411E79r/">https://www.bilibili.com/video/BV1vA411E79r/</a></td>
+    </tr>
+    <tr>
+      <td>HKT48演唱会 大家还好吗？（2021年5月29日、北九州ソレイユホール）</td>
+      <td>HKT48コンサート みんな 元気にしとった? 昼场：  夜场（森保まどか毕业演唱会）：</td>
+      <td><a href="http://www.bilibili.com/video/BV1vP4y1Y7pq/">http://www.bilibili.com/video/BV1vP4y1Y7pq/</a><br><a href="http://www.bilibili.com/video/BV1ry4y1T72Q/">http://www.bilibili.com/video/BV1ry4y1T72Q/</a></td>
+    </tr>
+    <tr>
+      <td>宮脇咲良 HKT48 卒業演唱会 ～Bouquet～（2021年6月19日、マリンメッセ福岡 A館）</td>
+      <td>宮脇咲良 HKT48 卒業コンサート ～Bouquet～ 直播版（本篇&amp;单推镜头）：  公开采访：  BD版：  BD特典（花絮&amp;个人纪录片）：</td>
+      <td><a href="http://www.bilibili.com/video/BV1Wh411Y73P/">http://www.bilibili.com/video/BV1Wh411Y73P/</a><br><a href="http://www.bilibili.com/video/BV1eV411s7HN/">http://www.bilibili.com/video/BV1eV411s7HN/</a><br><a href="http://www.bilibili.com/video/BV1cP4y177Ey/">http://www.bilibili.com/video/BV1cP4y177Ey/</a><br><a href="http://www.bilibili.com/video/BV1x34y1279X/">http://www.bilibili.com/video/BV1x34y1279X/</a></td>
+    </tr>
+    <tr>
+      <td>@JAM EXPO 2021（2021年8月27日）</td>
+      <td>@JAM EXPO 2021（2021年8月27日）</td>
+      <td><a href="http://www.bilibili.com/video/BV1p44y187mM/">http://www.bilibili.com/video/BV1p44y187mM/</a></td>
+    </tr>
+    <tr>
+      <td>宗像Fes～ARTS for the future～（2021年11月7日）</td>
+      <td>宗像Fes～ARTS for the future～（2021年11月7日）</td>
+      <td><a href="http://www.bilibili.com/video/BV1cF411h7j1/">http://www.bilibili.com/video/BV1cF411h7j1/</a></td>
+    </tr>
+    <tr>
+      <td>AYAKARNIVAL（2021年11月17日、武道馆）</td>
+      <td>AYAKARNIVAL（2021年11月17日、武道馆）</td>
+      <td><a href="http://www.bilibili.com/video/BV1u34y1o7fx/">http://www.bilibili.com/video/BV1u34y1o7fx/</a></td>
+    </tr>
+    <tr>
+      <td>超喰MAX @JAM（2021年12月26日、代代木公园野外Stage）</td>
+      <td>超喰MAX @JAM（2021年12月26日、代代木公园野外Stage）</td>
+      <td><a href="http://www.bilibili.com/video/BV1Bu411S7a3/">http://www.bilibili.com/video/BV1Bu411S7a3/</a></td>
+    </tr>
+    <tr>
+      <td>豪斯登堡 Countdown 30th 向着希望的光 2021-2022 Countdown Live（2021年12月31日、豪斯登堡）</td>
+      <td>ハウステンボス カウントダウン 30th 〜希望の光へ2021-2022 カウントダウンライブ</td>
+      <td><a href="http://www.bilibili.com/video/BV1zL4y1E7q7/">http://www.bilibili.com/video/BV1zL4y1E7q7/</a></td>
+    </tr>
+    <tr>
+      <td>NEXT IDOL GRANDPRIX 2022（2022年3月11日）</td>
+      <td>NEXT IDOL GRANDPRIX 2022（2022年3月11日）</td>
+      <td><a href="http://www.bilibili.com/video/BV1jr4y1B7F5/">http://www.bilibili.com/video/BV1jr4y1B7F5/</a></td>
+    </tr>
+    <tr>
+      <td>HKT48 LIVE TOUR 2022 ～Under the Spotlight～（2022年4月8日-7月23日）</td>
+      <td>220410东京场（AKB48 Guest出演） 昼公演  (Part1)  (Part2) 夜公演  (Part1)  (Part2)</td>
+      <td><a href="http://www.bilibili.com/video/BV1e3411T7oo/">http://www.bilibili.com/video/BV1e3411T7oo/</a><br><a href="http://www.bilibili.com/video/BV1Li4y1S7RP/">http://www.bilibili.com/video/BV1Li4y1S7RP/</a><br><a href="http://www.bilibili.com/video/BV1y34y1e7kF/">http://www.bilibili.com/video/BV1y34y1e7kF/</a><br><a href="http://www.bilibili.com/video/BV16T4y1r7gF/">http://www.bilibili.com/video/BV16T4y1r7gF/</a></td>
+    </tr>
+    <tr>
+      <td>HKT48 LIVE TOUR 2022 ～Under the Spotlight～（2022年4月8日-7月23日）</td>
+      <td>220507熊本场（披露6期生及15单） 昼公演  (生肉) 夜公演  (生肉)</td>
+      <td><a href="http://www.bilibili.com/video/BV1H44y1u77Q/">http://www.bilibili.com/video/BV1H44y1u77Q/</a><br><a href="http://www.bilibili.com/video/BV1hr4y187Bd/">http://www.bilibili.com/video/BV1hr4y187Bd/</a></td>
+    </tr>
+    <tr>
+      <td>HKT48 LIVE TOUR 2022 ～Under the Spotlight～（2022年4月8日-7月23日）</td>
+      <td>220610大阪场 昼公演（NMB48 Team M Guest出演）  (生肉) 夜公演（STU48瀬戸内PR部隊Season2 Guest出演）  (生肉)</td>
+      <td><a href="http://www.bilibili.com/video/BV1mY411K78e/">http://www.bilibili.com/video/BV1mY411K78e/</a><br><a href="http://www.bilibili.com/video/BV1kU4y1R7w9/">http://www.bilibili.com/video/BV1kU4y1R7w9/</a></td>
+    </tr>
+    <tr>
+      <td>HKT48 LIVE TOUR 2022 ～Under the Spotlight～（2022年4月8日-7月23日）</td>
+      <td>220723福冈场 昼公演  (生肉) 夜公演  (生肉)</td>
+      <td><a href="http://www.bilibili.com/video/BV1hg411Z7T9/">http://www.bilibili.com/video/BV1hg411Z7T9/</a><br><a href="http://www.bilibili.com/video/BV1te4y1974i/">http://www.bilibili.com/video/BV1te4y1974i/</a></td>
+    </tr>
+    <tr>
+      <td>超！喰らいマックスｘJAM Collabo Stage 2022（2022年4月30日、东京日比谷公园）</td>
+      <td>超！喰らいマックスｘJAM Collabo Stage 2022（2022年4月30日、东京日比谷公园）</td>
+      <td><a href="http://www.bilibili.com/video/BV1fA4y1D75d/">http://www.bilibili.com/video/BV1fA4y1D75d/</a></td>
+    </tr>
+    <tr>
+      <td>SPARK 2022（2022年7月16日、山梨山中湖）</td>
+      <td>SPARK 2022（2022年7月16日、山梨山中湖）</td>
+      <td><a href="http://www.bilibili.com/video/BV1i34y1J7q7/">http://www.bilibili.com/video/BV1i34y1J7q7/</a></td>
+    </tr>
+    <tr>
+      <td>コカ・コーラ SUMMER STATION 音楽 LIVE（2022年8月14日）</td>
+      <td>コカ・コーラ SUMMER STATION 音楽 LIVE（2022年8月14日）</td>
+      <td><a href="http://www.bilibili.com/video/BV1SU4y1C7KY/">http://www.bilibili.com/video/BV1SU4y1C7KY/</a></td>
+    </tr>
+    <tr>
+      <td>JAM EXPO 2022（2022年8月26日）</td>
+      <td>JAM EXPO 2022（2022年8月26日）</td>
+      <td><a href="http://www.bilibili.com/video/BV11a411G7YK/">http://www.bilibili.com/video/BV11a411G7YK/</a></td>
+    </tr>
+    <tr>
+      <td>HKT48 11th anniversary LIVE 2022 ～给未来的Massage～（2022年10月16日-11月28日）</td>
+      <td>221016 幕張メッセ イベントホール 昼公演：  （生肉） 夜公演：</td>
+      <td><a href="http://www.bilibili.com/video/BV1214y1L7TZ/">http://www.bilibili.com/video/BV1214y1L7TZ/</a><br><a href="http://www.bilibili.com/video/BV1uV4y137kB/">http://www.bilibili.com/video/BV1uV4y137kB/</a></td>
+    </tr>
+    <tr>
+      <td>HKT48 11th anniversary LIVE 2022 ～给未来的Massage～（2022年10月16日-11月28日）</td>
+      <td>221126 福岡市民会館 昼公演：  （生肉） 夜公演：  （生肉）</td>
+      <td><a href="http://www.bilibili.com/video/BV1dK41197Tv/">http://www.bilibili.com/video/BV1dK41197Tv/</a><br><a href="http://www.bilibili.com/video/BV1TP4y1d7uk/">http://www.bilibili.com/video/BV1TP4y1d7uk/</a></td>
+    </tr>
+    <tr>
+      <td>HKT48 11th anniversary LIVE 2022 ～给未来的Massage～（2022年10月16日-11月28日）</td>
+      <td>221128 福岡サンパレス ホテル&amp;ホール 昼公演：  （生肉） 夜公演：  （生肉）</td>
+      <td><a href="http://www.bilibili.com/video/BV1N8411j7WN/">http://www.bilibili.com/video/BV1N8411j7WN/</a><br><a href="http://www.bilibili.com/video/BV1Me4y137Wv/">http://www.bilibili.com/video/BV1Me4y137Wv/</a></td>
+    </tr>
+    <tr>
+      <td>Hello Music Festival サンリオキャラクターズ×48 GROUP（2023年1月6日）</td>
+      <td>Hello Music Festival サンリオキャラクターズ×48 GROUP（2023年1月6日）</td>
+      <td><a href="http://www.bilibili.com/video/BV12D4y1V7HG/">http://www.bilibili.com/video/BV12D4y1V7HG/</a></td>
+    </tr>
+    <tr>
+      <td>HKT48 春季演唱会2023～我们现今所在之处～（2023年4月1日、パシフィコ横浜 国立大ホール）</td>
+      <td>HKT48 春のコンサート2023～私たちの現在地～</td>
+      <td><a href="http://www.bilibili.com/video/BV1E24y157vX/">http://www.bilibili.com/video/BV1E24y157vX/</a></td>
+    </tr>
+    <tr>
+      <td>矢吹奈子毕业演唱会～飞向未来的翅膀～（2023年4月1日、パシフィコ横浜 国立大ホール）</td>
+      <td>矢吹奈子 卒業コンサート～未来への翼～</td>
+      <td><a href="http://www.bilibili.com/video/BV1Ao4y1t7Je/">http://www.bilibili.com/video/BV1Ao4y1t7Je/</a></td>
+    </tr>
+    <tr>
+      <td>HKT48 夏季演唱会2023 ～喜欢和你在一起的夏天～（2023年7月17日、福岡サンパレス ホテル＆ホール）</td>
+      <td>HKT48 夏のコンサート2023 ～君といる夏が好き～</td>
+      <td><a href="http://www.bilibili.com/video/BV12j411X7Mu/">http://www.bilibili.com/video/BV12j411X7Mu/</a></td>
+    </tr>
+    <tr>
+      <td>本村碧唯毕业演唱会 ～唯一碧蓝闪耀的宝石～（2023年7月17日、福岡サンパレス ホテル＆ホール）</td>
+      <td>本村碧唯 卒業コンサート ～唯一碧く輝く宝石～</td>
+      <td><a href="http://www.bilibili.com/video/BV1D14y16739/">http://www.bilibili.com/video/BV1D14y16739/</a></td>
+    </tr>
+    <tr>
+      <td>運上弘菜毕业演唱会 ～WHITE～（2023年10月5日、Zepp DiverCity）</td>
+      <td>運上弘菜 卒業コンサート ～WHITE～</td>
+      <td><a href="http://www.bilibili.com/video/BV1hm4y1g7cG/">http://www.bilibili.com/video/BV1hm4y1g7cG/</a></td>
+    </tr>
+  </tbody>
+</table>

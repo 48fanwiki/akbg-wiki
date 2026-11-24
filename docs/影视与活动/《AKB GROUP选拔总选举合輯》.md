@@ -81,3 +81,124 @@
 </section>
 
 <references group="注" />
+
+## 初代存档补遗（Wayback Machine 增量核对）
+
+> 以下条目经自动比对确认存在初代资源站快照中且未收录于上方正文，按“只增不覆盖”原则增量补入，上方原正文保持不变。
+
+<table>
+  <thead>
+    <tr>
+      <th>来源小节</th>
+      <th>节目 / 场次信息</th>
+      <th>初代归档链接</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>播放地址</td>
+      <td>1st · 13th · 向神发誓，动真格 · 2009年7月8日 赤坂BLITZ · 全场</td>
+      <td><a href="http://www.bilibili.com/video/av24655878/">http://www.bilibili.com/video/av24655878/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>5th · 32nd · 一个人是见不到梦想的 · 2013年6月8日 日产体育馆 · 直前SP</td>
+      <td><a href="http://www.bilibili.com/video/av589602/">http://www.bilibili.com/video/av589602/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>全场</td>
+      <td><a href="http://www.bilibili.com/video/av2644288/">http://www.bilibili.com/video/av2644288/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>7th · 41st · 無法預測順位 大波瀾的一夜 · 2015年6月6日 福岡巨蛋 · 直前sp</td>
+      <td><a href="http://www.bilibili.com/video/av2395354/">http://www.bilibili.com/video/av2395354/</a><br><a href="http://www.bilibili.com/video/av2438574/">http://www.bilibili.com/video/av2438574/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>花絮 · 生肉</td>
+      <td><a href="http://www.bilibili.com/video/av41636947/">http://www.bilibili.com/video/av41636947/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>8th · 45th · 我們該追隨誰? · 2016年6月18日 新潟縣立棒球場 · 直前sp · 山本彩</td>
+      <td><a href="http://www.bilibili.com/video/av4977873/">http://www.bilibili.com/video/av4977873/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>渡辺麻友</td>
+      <td><a href="http://www.bilibili.com/video/av4979321/">http://www.bilibili.com/video/av4979321/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>指原莉乃</td>
+      <td><a href="http://www.bilibili.com/video/av5006343/">http://www.bilibili.com/video/av5006343/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>島崎遥香</td>
+      <td><a href="http://www.bilibili.com/video/av5033412/">http://www.bilibili.com/video/av5033412/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>小嶋陽菜</td>
+      <td><a href="http://www.bilibili.com/video/av5057453/">http://www.bilibili.com/video/av5057453/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>延長戰 · 陽菜cut</td>
+      <td><a href="http://www.bilibili.com/video/av5049566/">http://www.bilibili.com/video/av5049566/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>橫山cut</td>
+      <td><a href="http://www.bilibili.com/video/av5053836/">http://www.bilibili.com/video/av5053836/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>9th · 49th · 來戰鬥吧！ 故事由此開始 · 2017年6月17日 豐崎海濱公園 豐見城市立中央公民館 · 速报 · 生肉</td>
+      <td><a href="http://www.bilibili.com/video/av34858360">http://www.bilibili.com/video/av34858360</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>直前SP · 渡边 指原</td>
+      <td><a href="http://www.bilibili.com/video/av11388848/">http://www.bilibili.com/video/av11388848/</a><br><a href="http://www.bilibili.com/video/av11408691/">http://www.bilibili.com/video/av11408691/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>松村香織</td>
+      <td><a href="http://www.bilibili.com/video/av11463411/">http://www.bilibili.com/video/av11463411/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>本篇</td>
+      <td><a href="http://www.bilibili.com/video/av22628081/?p=2">http://www.bilibili.com/video/av22628081/?p=2</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>NGT部分</td>
+      <td><a href="http://www.bilibili.com/video/av40296583/">http://www.bilibili.com/video/av40296583/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>AKB部分</td>
+      <td><a href="http://www.bilibili.com/video/av23215073/">http://www.bilibili.com/video/av23215073/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>10th · 53rd · 誰是世界的Center? · 2018年6月16日 名古屋巨蛋 · 速报 · 生肉</td>
+      <td><a href="http://www.bilibili.com/video/av34496151">http://www.bilibili.com/video/av34496151</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>直前SP</td>
+      <td><a href="http://www.bilibili.com/video/av25220711/">http://www.bilibili.com/video/av25220711/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>本篇</td>
+      <td><a href="http://www.bilibili.com/video/av25063998/?p=2">http://www.bilibili.com/video/av25063998/?p=2</a></td>
+    </tr>
+  </tbody>
+</table>

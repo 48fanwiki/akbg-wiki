@@ -374,3 +374,114 @@ NMB春CON歌单及演出名单
 - 
 - 单推镜头
   - https://www.bilibili.com/video/BV1sK4y1T7vT
+
+## 初代存档补遗（Wayback Machine 增量核对）
+
+> 以下条目经自动比对确认存在初代资源站快照中且未收录于上方正文，按“只增不覆盖”原则增量补入，上方原正文保持不变。
+
+<table>
+  <thead>
+    <tr>
+      <th>来源小节</th>
+      <th>节目 / 场次信息</th>
+      <th>初代归档链接</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>NMB48 渡辺美優紀畢業演唱會 抱歉啦直到最後都是壞路姬(2016年7月3日-7月4日、神戶紀念館)</td>
+      <td>NMB48 渡辺美優紀卒業コンサート 最後までわるきーでゴメンなさい  Day1(光碟版)  Day1(直播版)  Day2(光碟版)  Day2(直播版)</td>
+      <td><a href="http://www.bilibili.com/video/BV1oT4y1D7td/">http://www.bilibili.com/video/BV1oT4y1D7td/</a><br><a href="http://www.bilibili.com/video/BV1Xb4y1s7qq/">http://www.bilibili.com/video/BV1Xb4y1s7qq/</a></td>
+    </tr>
+    <tr>
+      <td>NMB48「为了谁」企划 in 京瓷巨蛋  (2017年3月11日、京セラドーム)</td>
+      <td>NMB48「誰かのために」プロジェクト in 京セラドーム  （生肉）</td>
+      <td><a href="https://www.bilibili.com/video/BV13y4y1b78L">https://www.bilibili.com/video/BV13y4y1b78L</a></td>
+    </tr>
+    <tr>
+      <td>NMB48 九周年演唱会（2019年10月5日、大阪城ホール）</td>
+      <td>NMB48 9th Anniversary Live</td>
+      <td><a href="http://www.bilibili.com/video/BV1YM4y147zr/">http://www.bilibili.com/video/BV1YM4y147zr/</a></td>
+    </tr>
+    <tr>
+      <td>NMB48 村瀬紗英毕业演唱会 ～Happy Saepy Ending～（2020年12月14日、オリックス劇場）</td>
+      <td>全場  (生肉)</td>
+      <td><a href="http://www.bilibili.com/video/BV1Qi4y157tQ/">http://www.bilibili.com/video/BV1Qi4y157tQ/</a></td>
+    </tr>
+    <tr>
+      <td>NMB48 村瀬紗英毕业演唱会 ～Happy Saepy Ending～（2020年12月14日、オリックス劇場）</td>
+      <td>村瀬紗英單推鏡頭  (生肉)</td>
+      <td><a href="http://www.bilibili.com/video/BV1Ty4y1D7uK/">http://www.bilibili.com/video/BV1Ty4y1D7uK/</a></td>
+    </tr>
+    <tr>
+      <td>NMB48 村瀬紗英毕业演唱会 ～Happy Saepy Ending～（2020年12月14日、オリックス劇場）</td>
+      <td>特典  (生肉)</td>
+      <td><a href="http://www.bilibili.com/video/BV1w5411p7ny/">http://www.bilibili.com/video/BV1w5411p7ny/</a></td>
+    </tr>
+    <tr>
+      <td>NMB48 山本彩加毕业演唱会 ～最后的一色～（2021年3月3日、オリックス劇場）</td>
+      <td>NMB48 山本彩加卒業コンサート ～最後の一色～ 全場：  單推鏡頭：</td>
+      <td><a href="http://www.bilibili.com/video/BV1LM4y1F7Ys/">http://www.bilibili.com/video/BV1LM4y1F7Ys/</a><br><a href="http://www.bilibili.com/video/BV1Cg411Q7gi/">http://www.bilibili.com/video/BV1Cg411Q7gi/</a></td>
+    </tr>
+    <tr>
+      <td>NMB48 難波新鮮組公演（2021年7月10日、Zepp Osaka Bayside）</td>
+      <td>昼公演：太陽の陣、炎天下で走り続けろ!  (生肉)</td>
+      <td><a href="https://www.bilibili.com/video/BV1dq4y1p737/">https://www.bilibili.com/video/BV1dq4y1p737/</a></td>
+    </tr>
+    <tr>
+      <td>NMB48 難波新鮮組公演（2021年7月10日、Zepp Osaka Bayside）</td>
+      <td>夜公演：難波一番隊、御用改めである!</td>
+      <td><a href="https://www.bilibili.com/video/BV1sq4y1X73A/">https://www.bilibili.com/video/BV1sq4y1X73A/</a></td>
+    </tr>
+    <tr>
+      <td>NMB48 天使在这里公演 2021（2021年7月11日、Zepp Osaka Bayside）</td>
+      <td>NMB48 ここにだって天使はいる公演 2021 昼公演：  (生肉) 夜公演：  (生肉)</td>
+      <td><a href="https://www.bilibili.com/video/BV1144y1q7qP/">https://www.bilibili.com/video/BV1144y1q7qP/</a><br><a href="https://www.bilibili.com/video/BV1U44y1q71t/">https://www.bilibili.com/video/BV1U44y1q71t/</a></td>
+    </tr>
+    <tr>
+      <td>NMB48 LIVE 2021 in 初夏（ 5月29日 →8月14日、大阪城ホール）</td>
+      <td>NMB48 LIVE 2021 in 初夏 ～はつなつ!ハツラツ!～</td>
+      <td><a href="https://www.bilibili.com/video/BV1qg41157hC/">https://www.bilibili.com/video/BV1qg41157hC/</a></td>
+    </tr>
+    <tr>
+      <td>NMB48 次世代演唱会 ～将要战斗的次时代～（ 5月29日 →8月14日、大阪城ホール）</td>
+      <td>NMB48 次世代コンサート ～戦わな次世代ちゃうやろっ!～  (生肉)</td>
+      <td><a href="https://www.bilibili.com/video/BV1hL4y1e7Jv/">https://www.bilibili.com/video/BV1hL4y1e7Jv/</a></td>
+    </tr>
+    <tr>
+      <td>NMB48 白間美瑠卒業演唱会 ～Mirurun、Sarurun、谢谢大家♡～（ 5月30日 →8月15日、大阪城ホール）</td>
+      <td>NMB48 白間美瑠卒業コンサート ～みるるん、さるるん、ありがとう♡～ 全場：  單推鏡頭：  (生肉) Making：  (生肉) 特典（1期生の轨迹）：</td>
+      <td><a href="https://www.bilibili.com/video/BV1b44y1C7S8/">https://www.bilibili.com/video/BV1b44y1C7S8/</a><br><a href="https://www.bilibili.com/video/BV1T64y1q7HJ/">https://www.bilibili.com/video/BV1T64y1q7HJ/</a><br><a href="https://www.bilibili.com/video/BV1E54y1f7tr/">https://www.bilibili.com/video/BV1E54y1f7tr/</a><br><a href="https://www.bilibili.com/video/BV1qv4y1w7xs/">https://www.bilibili.com/video/BV1qv4y1w7xs/</a></td>
+    </tr>
+    <tr>
+      <td>@JAM EXPO 2021（2021年8月27日）</td>
+      <td>@JAM EXPO 2021（2021年8月27日）</td>
+      <td><a href="http://www.bilibili.com/video/BV163411B7zy/">http://www.bilibili.com/video/BV163411B7zy/</a></td>
+    </tr>
+    <tr>
+      <td>NMB48 梅山恋和 卒業演唱会 ～在恋爱的魔力解开之前～（2022年3月26日、ロームシアター京都）</td>
+      <td>NMB48 梅山恋和 卒業コンサート ～恋のおまじないが解ける前に～  （生肉）</td>
+      <td><a href="http://www.bilibili.com/video/BV1D3411p78g/">http://www.bilibili.com/video/BV1D3411p78g/</a></td>
+    </tr>
+    <tr>
+      <td>NAMBATTLE2 最終Event（2022年3月27日、ロームシアター京都）</td>
+      <td>NAMBATTLE2 ～がむしゃらにならなNMBちゃうやろっ!～ 最終イベント 昼场（[舞][運][J]FINAL）：  （生肉） 夜场（[愛]開票イベント）：  （生肉）</td>
+      <td><a href="http://www.bilibili.com/video/BV1u3411W7MW/">http://www.bilibili.com/video/BV1u3411W7MW/</a><br><a href="http://www.bilibili.com/video/BV1Uq4y1Y715/">http://www.bilibili.com/video/BV1Uq4y1Y715/</a></td>
+    </tr>
+    <tr>
+      <td>コカ・コーラ SUMMER STATION 音楽 LIVE（2022年8月8日）</td>
+      <td>コカ・コーラ SUMMER STATION 音楽 LIVE（2022年8月8日）</td>
+      <td><a href="http://www.bilibili.com/video/BV1Dg411z7Qm/">http://www.bilibili.com/video/BV1Dg411z7Qm/</a></td>
+    </tr>
+    <tr>
+      <td>NMB48 12th Anniversary LIVE（2022年9月27日-10月15日、グランキューブ大阪&amp;日比谷野外大音楽堂）</td>
+      <td>220928昼 ここにだって天使はいる公演2022</td>
+      <td><a href="http://www.bilibili.com/video/BV1QW4y1n7DB/">http://www.bilibili.com/video/BV1QW4y1n7DB/</a></td>
+    </tr>
+    <tr>
+      <td>NIG FES 2023（2023年3月24日）</td>
+      <td>NIG FES 2023（2023年3月24日）</td>
+      <td><a href="http://www.bilibili.com/video/BV1GX4y1o7Vj/">http://www.bilibili.com/video/BV1GX4y1o7Vj/</a></td>
+    </tr>
+  </tbody>
+</table>

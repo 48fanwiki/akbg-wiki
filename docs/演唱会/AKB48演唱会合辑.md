@@ -1247,3 +1247,44 @@ https://www.bilibili.com/video/BV1tax4ziEPq/?share_source=copy_web&vd_source=55b
 #### AKB48 20th Year Live Tour 2025 〜PARTY开始了唷〜 12月4日-7日（东京公演）
 
 https://www.bilibili.com/video/BV18UmuBtEcK/?p=26&share_source=copy_web&vd_source=55b3f84029a1195e9f792c61fa12ba4c
+
+## 初代存档补遗（Wayback Machine 增量核对）
+
+> 以下条目经自动比对确认存在初代资源站快照中且未收录于上方正文，按“只增不覆盖”原则增量补入，上方原正文保持不变。
+
+<table>
+  <thead>
+    <tr>
+      <th>来源小节</th>
+      <th>节目 / 场次信息</th>
+      <th>初代归档链接</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>AKB48春Con2023（2023年4月29日、神奈川県・ぴあアリーナMM）</td>
+      <td>AKB48 春コンサート2023～好きだ!と叫ぼう～</td>
+      <td><a href="https://www.bilibili.com/video/BV1SQ4y1t7Km/">https://www.bilibili.com/video/BV1SQ4y1t7Km/</a></td>
+    </tr>
+    <tr>
+      <td>AKB48 Team8 春の総决算祭り 9年间のキセキ（2023年4月30日、神奈川県・ぴあアリーナMM）</td>
+      <td>昼の部 9周年記念コンサート</td>
+      <td><a href="http://www.bilibili.com/video/BV1xu4y1V7ND/">http://www.bilibili.com/video/BV1xu4y1V7ND/</a></td>
+    </tr>
+    <tr>
+      <td>AKB48 Team8 春の総决算祭り 9年间のキセキ（2023年4月30日、神奈川県・ぴあアリーナMM）</td>
+      <td>夜の部 活动休止コンサート</td>
+      <td><a href="http://www.bilibili.com/video/BV1de411C7VG/">http://www.bilibili.com/video/BV1de411C7VG/</a></td>
+    </tr>
+    <tr>
+      <td>MX祭 AKB48 62nd Single「如果不是偶像的话」发售纪念演唱会（2023年10月20日-22日、日本武道館）</td>
+      <td>MXまつり AKB48 62ndシングル「アイドルなんかじゃなかったら」発売記念コンサート 231020 古参も新規も大集合！なんでもありのAKBでっせスペシャル  231021 劇場公演曲リクエストアワーセットリストベスト30 收录于 AKBGroup重温时间 最佳曲目(Request Hour)合輯 231022 アイドルになってよかった</td>
+      <td><a href="http://www.bilibili.com/video/BV1mM41197q7/">http://www.bilibili.com/video/BV1mM41197q7/</a><br><a href="http://www.bilibili.com/video/BV1iQ4y1x7Af/">http://www.bilibili.com/video/BV1iQ4y1x7Af/</a></td>
+    </tr>
+    <tr>
+      <td>本田仁美毕业演唱会～满载梦与希望之路～（2024年1月26日、パシフィコ横浜国立大ホール）</td>
+      <td>本田仁美卒業コンサート～夢と希望に満ちた道～</td>
+      <td><a href="http://www.bilibili.com/video/BV1wy421h7XX/">http://www.bilibili.com/video/BV1wy421h7XX/</a></td>
+    </tr>
+  </tbody>
+</table>

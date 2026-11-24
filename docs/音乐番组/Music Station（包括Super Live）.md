@@ -1244,3 +1244,29 @@
   | 日期 | 出演 | 内容 | B站 | 备注 |
   |:---|:---|:---|:---|:---|
   | 240209 | 月足天音 | Happy Chocolate+我最可爱的地方 | http://www.bilibili.com/video/BV132421A7Gq/ |  |
+
+## 初代存档补遗（Wayback Machine 增量核对）
+
+> 以下条目经自动比对确认存在初代资源站快照中且未收录于上方正文，按“只增不覆盖”原则增量补入，上方原正文保持不变。
+
+<table>
+  <thead>
+    <tr>
+      <th>来源小节</th>
+      <th>节目 / 场次信息</th>
+      <th>初代归档链接</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>简介</td>
+      <td>《MUSIC STATION》是朝日电视台的现场直播音乐节目，自1986年10月24日开播至今，于日本时间每周五晚黄金档播出。节目简称为“Mステ”。（ 官网戳这里 ）</td>
+      <td><a href="http://www.tv-asahi.co.jp/music/">http://www.tv-asahi.co.jp/music/</a></td>
+    </tr>
+    <tr>
+      <td>Super Live</td>
+      <td>日文维基</td>
+      <td><a href="http://t.cn/RzVMDZD">http://t.cn/RzVMDZD</a></td>
+    </tr>
+  </tbody>
+</table>

@@ -39,3 +39,24 @@
 | 180421 | 山口真帆 山田野絵 西潟茉莉奈 | 宣传NGT 3单 | http://www.bilibili.com/video/av22538050/ |  |
 | 180825 | 乃木坂46 | 宣传新单 | http://www.bilibili.com/video/av30501269/ |  |
 | 190427 | 北野日奈子 新内真衣 渡边迷离爱 | 番宣 | http://www.bilibili.com/video/av50736348/ |  |
+
+## 初代存档补遗（Wayback Machine 增量核对）
+
+> 以下条目经自动比对确认存在初代资源站快照中且未收录于上方正文，按“只增不覆盖”原则增量补入，上方原正文保持不变。
+
+<table>
+  <thead>
+    <tr>
+      <th>来源小节</th>
+      <th>节目 / 场次信息</th>
+      <th>初代归档链接</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>简介</td>
+      <td>节目官网 （BS-TBS時代）、 节目官网 （TOKYO MX時代）、 日文维基</td>
+      <td><a href="http://www.bs-tbs.co.jp/app/program_details/index/MST1200700">http://www.bs-tbs.co.jp/app/program_details/index/MST1200700</a><br><a href="http://s.mxtv.jp/music/otobokepops/">http://s.mxtv.jp/music/otobokepops/</a><br><a href="https://ja.wikipedia.org/wiki/%E9%9F%B3%E3%83%9C%E3%82%B1POPS">https://ja.wikipedia.org/wiki/%E9%9F%B3%E3%83%9C%E3%82%B1POPS</a></td>
+    </tr>
+  </tbody>
+</table>

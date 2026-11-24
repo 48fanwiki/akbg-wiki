@@ -436,3 +436,99 @@
 | 2018 | 冈部麟 仓野尾成美 | 作为偶像 作为AKB48 | 相同视频收录于 2017入圈・圈外演唱会点我 |  |
 | 190914 191012 191116 | 山本彩 | 时间的三角：现在篇 时间的三角：过去篇 时间的三角：未来篇 | http://www.bilibili.com/video/av67943448/ http://www.bilibili.com/video/av71224261/ http://www.bilibili.com/video/av76114467/ | 生肉 |
 | 201021 | 白石麻衣 | 是时候启程了 | http://www.bilibili.com/video/BV14y4y1r7Cn/ |  |
+
+## 初代存档补遗（Wayback Machine 增量核对）
+
+> 以下条目经自动比对确认存在初代资源站快照中且未收录于上方正文，按“只增不覆盖”原则增量补入，上方原正文保持不变。
+
+<table>
+  <thead>
+    <tr>
+      <th>来源小节</th>
+      <th>节目 / 场次信息</th>
+      <th>初代归档链接</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>乃木坂46</td>
+      <td>2015年 · 悲しみの忘れ方 忘记悲伤的方法 · 本篇</td>
+      <td><a href="http://www.bilibili.com/video/av4005731/">http://www.bilibili.com/video/av4005731/</a></td>
+    </tr>
+    <tr>
+      <td>乃木坂46</td>
+      <td>未公开片段</td>
+      <td><a href="http://www.bilibili.com/video/av3272383/">http://www.bilibili.com/video/av3272383/</a></td>
+    </tr>
+    <tr>
+      <td>乃木坂46</td>
+      <td>舞台見面會</td>
+      <td><a href="http://www.bilibili.com/video/av3815540/">http://www.bilibili.com/video/av3815540/</a></td>
+    </tr>
+    <tr>
+      <td>乃木坂46</td>
+      <td>成员的回想</td>
+      <td><a href="http://www.bilibili.com/video/av3455365/">http://www.bilibili.com/video/av3455365/</a></td>
+    </tr>
+    <tr>
+      <td>乃木坂46</td>
+      <td>2019年 · いつのまにか、ここにいる 不知何时 已在此处 · 本篇</td>
+      <td><a href="https://www.bilibili.com/video/BV18z4y1X7hP/">https://www.bilibili.com/video/BV18z4y1X7hP/</a></td>
+    </tr>
+    <tr>
+      <td>乃木坂46</td>
+      <td>未公开片段</td>
+      <td><a href="http://www.bilibili.com/video/av81760720/">http://www.bilibili.com/video/av81760720/</a></td>
+    </tr>
+    <tr>
+      <td>乃木坂46</td>
+      <td>4期生首次舞台问候</td>
+      <td><a href="http://www.bilibili.com/video/av80667766/">http://www.bilibili.com/video/av80667766/</a></td>
+    </tr>
+    <tr>
+      <td>乃木坂46</td>
+      <td>初日舞台见面会</td>
+      <td><a href="http://www.bilibili.com/video/av81082512/">http://www.bilibili.com/video/av81082512/</a></td>
+    </tr>
+    <tr>
+      <td>乃木坂46</td>
+      <td>2021年 · 僕たちは居场所を探して 我们在寻找容身之地 · 预告</td>
+      <td><a href="https://www.bilibili.com/video/BV1SK4y1p7ZB/">https://www.bilibili.com/video/BV1SK4y1p7ZB/</a></td>
+    </tr>
+    <tr>
+      <td>欅坂46→櫻坂46</td>
+      <td>2020年 · 僕たちの嘘と真実 我们的谎言与真实 · 本篇</td>
+      <td><a href="http://www.bilibili.com/video/BV1q54y1W7i1/">http://www.bilibili.com/video/BV1q54y1W7i1/</a></td>
+    </tr>
+    <tr>
+      <td>欅坂46→櫻坂46</td>
+      <td>預告片</td>
+      <td><a href="http://www.bilibili.com/video/BV1P7411N7D6/">http://www.bilibili.com/video/BV1P7411N7D6/</a></td>
+    </tr>
+    <tr>
+      <td>欅坂46→櫻坂46</td>
+      <td>特典</td>
+      <td><a href="http://www.bilibili.com/video/BV13N411o799/">http://www.bilibili.com/video/BV13N411o799/</a></td>
+    </tr>
+    <tr>
+      <td>欅坂46→櫻坂46</td>
+      <td>OUT TAKE</td>
+      <td><a href="http://www.bilibili.com/video/BV1mN411X7dJ/">http://www.bilibili.com/video/BV1mN411X7dJ/</a></td>
+    </tr>
+    <tr>
+      <td>日向坂46</td>
+      <td>2020年 · 3年目のデビュー 第三年的出道 · 本篇</td>
+      <td><a href="http://www.bilibili.com/video/BV1Hh41127Gb/">http://www.bilibili.com/video/BV1Hh41127Gb/</a></td>
+    </tr>
+    <tr>
+      <td>日向坂46</td>
+      <td>預告片</td>
+      <td><a href="http://www.bilibili.com/video/BV18E411F7X7/">http://www.bilibili.com/video/BV18E411F7X7/</a></td>
+    </tr>
+    <tr>
+      <td>其他个人纪录片</td>
+      <td>2014 · 大岛优子 · 味之素毕业演唱会 特典纪录片 · 相同视频收于 这里</td>
+      <td><a href="http://t.cn/Rwic9Jg">http://t.cn/Rwic9Jg</a></td>
+    </tr>
+  </tbody>
+</table>

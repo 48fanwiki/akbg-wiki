@@ -109,3 +109,24 @@
 - 5月23日、神奈川県横浜市 ぴあアリーナMM
   - 本篇：https://www.bilibili.com/video/BV1py4y137Gd/?p=2
   - 花絮：https://www.bilibili.com/video/BV1UL4y1i7ZE/
+
+## 初代存档补遗（Wayback Machine 增量核对）
+
+> 以下条目经自动比对确认存在初代资源站快照中且未收录于上方正文，按“只增不覆盖”原则增量补入，上方原正文保持不变。
+
+<table>
+  <thead>
+    <tr>
+      <th>来源小节</th>
+      <th>节目 / 场次信息</th>
+      <th>初代归档链接</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2021</td>
+      <td>5月4日、茨城県日立市 日立市民会館  (昼公演)（生肉）  (夜公演)（生肉）</td>
+      <td><a href="https://www.bilibili.com/video/BV1NY41157Ai/?p=2">https://www.bilibili.com/video/BV1NY41157Ai/?p=2</a></td>
+    </tr>
+  </tbody>
+</table>

@@ -19,3 +19,29 @@
 | 200404 | 岩佐美咲 | Hello, Again ~昔からある场所~ | http://www.bilibili.com/video/BV1B64y1u7Vo/ | 生肉 |
 | 201005 | 岩佐美咲 | Diamonds | http://www.bilibili.com/video/BV1wE411Z7XV/ | 生肉 |
 | 210304 | 柏木由纪 | CAN YOU WALK WITH ME?? | http://www.bilibili.com/video/BV1MU4y1p7X8/ |  |
+
+## 初代存档补遗（Wayback Machine 增量核对）
+
+> 以下条目经自动比对确认存在初代资源站快照中且未收录于上方正文，按“只增不覆盖”原则增量补入，上方原正文保持不变。
+
+<table>
+  <thead>
+    <tr>
+      <th>来源小节</th>
+      <th>节目 / 场次信息</th>
+      <th>初代归档链接</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>播放地址</td>
+      <td>211019 · 大盛真步 · あなただけ見つめてる · 生肉</td>
+      <td><a href="http://www.bilibili.com/video/BV1F44y147NS/">http://www.bilibili.com/video/BV1F44y147NS/</a></td>
+    </tr>
+    <tr>
+      <td>播放地址</td>
+      <td>211110 · 岩佐美咲 · アキラ · 生肉</td>
+      <td><a href="http://www.bilibili.com/video/BV1Zh411t7fd/">http://www.bilibili.com/video/BV1Zh411t7fd/</a></td>
+    </tr>
+  </tbody>
+</table>

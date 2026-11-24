@@ -383,3 +383,29 @@
 ### 剪辑版
 
 日期 队伍 公演名称 B站 备注 —— —— ———- —– ——
+
+## 初代存档补遗（Wayback Machine 增量核对）
+
+> 以下条目经自动比对确认存在初代资源站快照中且未收录于上方正文，按“只增不覆盖”原则增量补入，上方原正文保持不变。
+
+<table>
+  <thead>
+    <tr>
+      <th>来源小节</th>
+      <th>节目 / 场次信息</th>
+      <th>初代归档链接</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2015年</td>
+      <td>150204 · Team H · 「最後钟声响起」公演 指原莉乃生誕祭</td>
+      <td><a href="http://www.bilibili.com/video/BV1cJ41157QF?p=14">http://www.bilibili.com/video/BV1cJ41157QF?p=14</a></td>
+    </tr>
+    <tr>
+      <td>2021年</td>
+      <td>210314 · HKT48 · 流星新干线九州10周年特别公演</td>
+      <td><a href="http://www.bilibili.com/video/BV1Gy4y1h7rE/">http://www.bilibili.com/video/BV1Gy4y1h7rE/</a></td>
+    </tr>
+  </tbody>
+</table>

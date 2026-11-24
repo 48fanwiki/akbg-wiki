@@ -403,3 +403,129 @@ https://www.bilibili.com/video/BV1kW411u7Ja/ (生肉)(180210 新潟公演)
 - DAY1 〜2008-2012〜 www.bilibili.com/video/BV1Ck28YUE6D/
 - DAY2〜2013-2017〜 www.bilibili.com/video/BV1wH2BYKExM/
 - DAY3 〜2018-2024〜 www.bilibili.com/video/BV1uLmjY9EJb/
+
+## 初代存档补遗（Wayback Machine 增量核对）
+
+> 以下条目经自动比对确认存在初代资源站快照中且未收录于上方正文，按“只增不覆盖”原则增量补入，上方原正文保持不变。
+
+<table>
+  <thead>
+    <tr>
+      <th>来源小节</th>
+      <th>节目 / 场次信息</th>
+      <th>初代归档链接</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2015 TOKYO IDOL FESTIVAL 2015（2015年8月1日）</td>
+      <td>（生肉）</td>
+      <td><a href="https://www.bilibili.com/video/BV1k5411573f?p=22">https://www.bilibili.com/video/BV1k5411573f?p=22</a></td>
+    </tr>
+    <tr>
+      <td>SKE48 大矢真那毕业演唱会～谢谢大家～（2017年9月24日、名古屋市総合体育馆）</td>
+      <td>SKE48 大矢真那卒業コンサート in 日本ガイシホール～みんなみんなありがとう！～  (生肉)</td>
+      <td><a href="https://www.bilibili.com/video/BV1YQ4y197k3/">https://www.bilibili.com/video/BV1YQ4y197k3/</a></td>
+    </tr>
+    <tr>
+      <td>SKE48 単独演唱会～荣fan入学式～ （2018年3月31日、埼玉超级竞技场）</td>
+      <td>SKE48 単独コンサート～サカエファン入学式～  （生肉）  （making）（生肉）</td>
+      <td><a href="https://www.bilibili.com/video/BV16V411v74F/">https://www.bilibili.com/video/BV16V411v74F/</a></td>
+    </tr>
+    <tr>
+      <td>SKE48 松井珠理奈 毕业演唱会（ 2020年9月26日-27日 →2021年4月11日、名古屋市综合体育馆）</td>
+      <td>卒業だよ!全員集合!～Let’s Sing!～（晝場） 直播版：  (生肉) BD版：</td>
+      <td><a href="https://www.bilibili.com/video/BV1rK4y1K7Ap/">https://www.bilibili.com/video/BV1rK4y1K7Ap/</a></td>
+    </tr>
+    <tr>
+      <td>SKE48 松井珠理奈 毕业演唱会（ 2020年9月26日-27日 →2021年4月11日、名古屋市综合体育馆）</td>
+      <td>松井珠理奈卒業コンサート～珠理奈卒業で何かが起こる!?～（夜場） 直播版：  (生肉) BD版：</td>
+      <td><a href="https://www.bilibili.com/video/BV1a5411A7BG/">https://www.bilibili.com/video/BV1a5411A7BG/</a><br><a href="https://www.bilibili.com/video/BV1aL4y1W7kR/">https://www.bilibili.com/video/BV1aL4y1W7kR/</a></td>
+    </tr>
+    <tr>
+      <td>SKE48 6期生单独live 2nd（2021年5月18日、名古屋 Zepp Nagoya）</td>
+      <td>SKE48 6期生Zepp Nagoya 単独ライブ2nd ～6期が好きだ～ Supported by ゼロポジ  （生肉）</td>
+      <td><a href="https://www.bilibili.com/video/BV13o4y117pG/">https://www.bilibili.com/video/BV13o4y117pG/</a></td>
+    </tr>
+    <tr>
+      <td>SKE48 Summer Zepp Tour 2021（2021年7月11日-10月7日）</td>
+      <td>210711 北海道 Team E 昼公演：  (生肉) 夜公演：  (生肉) 夜公演After talk：  (生肉)</td>
+      <td><a href="https://www.bilibili.com/video/BV1Lg411M71H/">https://www.bilibili.com/video/BV1Lg411M71H/</a></td>
+    </tr>
+    <tr>
+      <td>SKE48 Summer Zepp Tour 2021（2021年7月11日-10月7日）</td>
+      <td>210717 东京 Team KII 昼公演：  (生肉) 夜公演：  (生肉) 夜公演After talk：  (生肉)</td>
+      <td><a href="https://www.bilibili.com/video/BV1G44y127Bz/">https://www.bilibili.com/video/BV1G44y127Bz/</a></td>
+    </tr>
+    <tr>
+      <td>SKE48 Summer Zepp Tour 2021（2021年7月11日-10月7日）</td>
+      <td>210725 大阪 Team S 昼公演：  (生肉) 夜公演：  (生肉) 夜公演After talk：  (生肉)</td>
+      <td><a href="https://www.bilibili.com/video/BV1vh411z763/">https://www.bilibili.com/video/BV1vh411z763/</a></td>
+    </tr>
+    <tr>
+      <td>SKE48 Summer Zepp Tour 2021（2021年7月11日-10月7日）</td>
+      <td>210801 福冈 Team KII 昼公演：  (生肉) 夜公演：  (生肉) 夜公演After talk：  (生肉)</td>
+      <td><a href="https://www.bilibili.com/video/BV1c64y147oi/">https://www.bilibili.com/video/BV1c64y147oi/</a></td>
+    </tr>
+    <tr>
+      <td>SKE48 Summer Zepp Tour 2021（2021年7月11日-10月7日）</td>
+      <td>210811 →211007&amp;1008爱知 Team S 1007公演： 1008公演: 1007After talk：  （生肉）</td>
+      <td><a href="https://www.bilibili.com/video/BV1nU4y1w7gg/">https://www.bilibili.com/video/BV1nU4y1w7gg/</a></td>
+    </tr>
+    <tr>
+      <td>SKE48 新世代演唱会2021（2021年12月19日、中野サンプラザホール）</td>
+      <td>本篇：  （生肉） After Talk：  （生肉）</td>
+      <td><a href="https://www.bilibili.com/video/BV1dZ4y1Q7AG/">https://www.bilibili.com/video/BV1dZ4y1Q7AG/</a><br><a href="https://www.bilibili.com/video/BV1Rq4y127jX/">https://www.bilibili.com/video/BV1Rq4y127jX/</a></td>
+    </tr>
+    <tr>
+      <td>名古屋大感谢祭（2021年12月24日-12月25日）</td>
+      <td>（生肉）</td>
+      <td><a href="https://www.bilibili.com/video/BV1Ei4y1R7yg/">https://www.bilibili.com/video/BV1Ei4y1R7yg/</a></td>
+    </tr>
+    <tr>
+      <td>NIG FES 2022（2022年3月11日）</td>
+      <td>（生肉）</td>
+      <td><a href="http://www.bilibili.com/video/BV1si4y1C7Vw/">http://www.bilibili.com/video/BV1si4y1C7Vw/</a></td>
+    </tr>
+    <tr>
+      <td>大場美奈毕业演唱会（2022年4月1日-4月3日）</td>
+      <td>220401 大場美奈卒業コンサート＠パシフィコ横浜 Day1～卒業してもずっと可愛くてすみません～  (生肉）</td>
+      <td><a href="http://www.bilibili.com/video/BV1qu411i74C/">http://www.bilibili.com/video/BV1qu411i74C/</a></td>
+    </tr>
+    <tr>
+      <td>大場美奈毕业演唱会（2022年4月1日-4月3日）</td>
+      <td>220402 大場美奈卒業コンサート＠KT Zepp Yokohama Day2～明日、晴れたらいいのにな～  (生肉）</td>
+      <td><a href="http://www.bilibili.com/video/BV133411H74r/">http://www.bilibili.com/video/BV133411H74r/</a></td>
+    </tr>
+    <tr>
+      <td>大場美奈毕业演唱会（2022年4月1日-4月3日）</td>
+      <td>220403 大場美奈卒業コンサート＠KT Zepp Yokohama Day3～るんるん、30歳のおたんじょうび会～ 昼场：  (生肉） 夜场：  (生肉）</td>
+      <td><a href="http://www.bilibili.com/video/BV17S4y1K769/">http://www.bilibili.com/video/BV17S4y1K769/</a></td>
+    </tr>
+    <tr>
+      <td>クロフェス 2022（2022年4月29日-4月30日）</td>
+      <td>220429  （生肉）</td>
+      <td><a href="http://www.bilibili.com/video/BV1Ra411Y7ra/">http://www.bilibili.com/video/BV1Ra411Y7ra/</a></td>
+    </tr>
+    <tr>
+      <td>クロフェス 2022（2022年4月29日-4月30日）</td>
+      <td>220430  （生肉）</td>
+      <td><a href="http://www.bilibili.com/video/BV1eF411T7Kt/">http://www.bilibili.com/video/BV1eF411T7Kt/</a></td>
+    </tr>
+    <tr>
+      <td>名古屋大感谢祭（2022年5月13日、大阪）</td>
+      <td>（生肉）</td>
+      <td><a href="http://www.bilibili.com/video/BV1YR4y1c7hn/">http://www.bilibili.com/video/BV1YR4y1c7hn/</a></td>
+    </tr>
+    <tr>
+      <td>SKE48 8期生单独Live ～你还不知道的8期～（2022年6月28日、Zepp Nagoya）</td>
+      <td>SKE48 8期生 Zepp Nagoya 単独ライブ ～ 君はまだ、8期を知らない ～  （生肉）</td>
+      <td><a href="http://www.bilibili.com/video/BV1Dd4y1S7J5/">http://www.bilibili.com/video/BV1Dd4y1S7J5/</a></td>
+    </tr>
+    <tr>
+      <td>SKE48 Summer Zepp Tour 2022（2022年7月18日-8月27日）</td>
+      <td>宣传片</td>
+      <td><a href="http://www.bilibili.com/video/BV1Kr4y1774X/">http://www.bilibili.com/video/BV1Kr4y1774X/</a></td>
+    </tr>
+  </tbody>
+</table>

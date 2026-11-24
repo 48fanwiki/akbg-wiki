@@ -955,3 +955,59 @@
 </tr>
 </tbody>
 </table>
+
+## 初代存档补遗（Wayback Machine 增量核对）
+
+> 以下条目经自动比对确认存在初代资源站快照中且未收录于上方正文，按“只增不覆盖”原则增量补入，上方原正文保持不变。
+
+<table>
+  <thead>
+    <tr>
+      <th>来源小节</th>
+      <th>节目 / 场次信息</th>
+      <th>初代归档链接</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Best Hits</td>
+      <td>读卖电视台（YTV）主办（ 日文维基 ）</td>
+      <td><a href="http://t.cn/RzcJrLy">http://t.cn/RzcJrLy</a></td>
+    </tr>
+    <tr>
+      <td>Best Artist</td>
+      <td>日本电视台（NTV）主办（ 日文维基 ）</td>
+      <td><a href="http://t.cn/RzcIuBo">http://t.cn/RzcIuBo</a></td>
+    </tr>
+    <tr>
+      <td>日本有線大賞</td>
+      <td>TBS电视台（TBS）主办（ 日文维基 ）已停办</td>
+      <td><a href="http://t.cn/RzcSuyP">http://t.cn/RzcSuyP</a></td>
+    </tr>
+    <tr>
+      <td>日本唱片大賞</td>
+      <td>TBS电视台（TBS）主办（ 日文维基 ）</td>
+      <td><a href="http://t.cn/zjC9UUu">http://t.cn/zjC9UUu</a></td>
+    </tr>
+    <tr>
+      <td>音楽之日</td>
+      <td>TBS电视台（TBS）主办（ 日文维基 ）</td>
+      <td><a href="http://t.cn/RzVZIMB">http://t.cn/RzVZIMB</a></td>
+    </tr>
+    <tr>
+      <td>THE MUSIC DAY</td>
+      <td>日本电视台（NTV）主办（ 日文维基 ）</td>
+      <td><a href="http://t.cn/RzVZ6A3">http://t.cn/RzVZ6A3</a></td>
+    </tr>
+    <tr>
+      <td>GIRLS' FACTORY</td>
+      <td>女性歌手的音乐节（ 日文维基 ）</td>
+      <td><a href="http://t.cn/Rt7eMoY">http://t.cn/Rt7eMoY</a></td>
+    </tr>
+    <tr>
+      <td>テレ東 音楽祭</td>
+      <td>东京电视台主办（ 日文维基 ）</td>
+      <td><a href="http://t.cn/Rt7eUZC">http://t.cn/Rt7eUZC</a></td>
+    </tr>
+  </tbody>
+</table>
