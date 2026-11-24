@@ -14,7 +14,7 @@
 
     AKB48、SKE48、NMB48、HKT48、NGT48、STU48 及 Request Hour 历届演唱会索引
 
-    [:octicons-arrow-right-24: 进入演唱会专区](演唱会/演唱会.md)
+    [:octicons-arrow-right-24: 进入演唱会专区](演唱会/AKB48演唱会合辑.md)
 
 -   :material-theater:{ .lg .middle } **剧场公演**
 
@@ -30,7 +30,7 @@
 
     Music Station、CDTV、红白歌合战、FNS 歌谣祭等历年音番现场记录
 
-    [:octicons-arrow-right-24: 进入音乐番组](音乐番组/音乐番组.md)
+    [:octicons-arrow-right-24: 进入音乐番组](音乐番组/Music Station（包括Super Live）.md)
 
 -   :material-television-classic:{ .lg .middle } **娱乐综艺番组**
 
@@ -38,7 +38,7 @@
 
     AKBINGO!、神 TV、毛利桑及各大姐妹团冠名综艺节目汇总
 
-    [:octicons-arrow-right-24: 进入 AKB48 番组](娱乐番组/AKB48/AKB48番组.md)
+    [:octicons-arrow-right-24: 进入 AKB48 番组](娱乐番组/AKB48/AKBINGO.md)
 
 -   :material-trophy:{ .lg .middle } **大型与特殊活动**
 
@@ -46,7 +46,7 @@
 
     选拔总选举、AKB 红白歌合战、猜拳大会、大运动会、组阁与选秀合辑
 
-    [:octicons-arrow-right-24: 查看大型活动](影视与活动/大型_特殊活动.md)
+    [:octicons-arrow-right-24: 查看大型活动](影视与活动/《AKB GROUP选拔总选举合輯》.md)
 
 -   :material-filmstrip:{ .lg .middle } **纪录片 / 影视 / 活动**
 
@@ -54,7 +54,7 @@
 
     AKB GROUP 纪录片、总选举合辑、日剧、舞台剧及动画 AKB0048
 
-    [:octicons-arrow-right-24: 进入影视与活动](影视与活动/纪录片、影视相关、舞台剧、动画.md)
+    [:octicons-arrow-right-24: 进入影视与活动](影视与活动/AKB GROUP纪录片合集.md)
 
 -   :material-star-circle:{ .lg .middle } **MV / PV 与专题**
 
@@ -78,7 +78,7 @@
 
 # 完整分类目录
 
-## **[演唱会](演唱会/演唱会.md "演唱会")**
+## **[演唱会](演唱会/AKB48演唱会合辑.md "演唱会")**
 
 ### 《[AKB48演唱会合辑](演唱会/AKB48演唱会合辑.md "AKB48演唱会合辑")》(本区收录以AKB48系内开催为主)(其他分团则无分系内系外) 注:AKB红白收录于大型活动
 
@@ -102,7 +102,7 @@
 
 ### 《[SDN48演唱会](演唱会/SDN48演唱会.md "SDN48演唱会")》
 
-## **[48系剧场公演](剧场公演/48系剧场公演.md "48系剧场公演")**
+## **[48系剧场公演](剧场公演/AKB48剧场公演合辑.md "48系剧场公演")**
 
 温馨提示:剧场公演熟肉区的收录,只要是有编列于表格内的场次,不论还有无链接,影片皆曾有做过中文字幕,当然还能不能找到字幕源是另一回事了
 
@@ -122,7 +122,7 @@
 
 ### 《[AKB Group特别剧场公演合辑](剧场公演/AKB_Group特别剧场公演合辑.md "AKB Group特别剧场公演合辑")》（献给错过的你们/见逃した君たち～1、2 / 献给追忆的你们/思い出せる君たち～/Theatre G-Rosso公演）
 
-## **[纪录片、影视相关、舞台剧、动画](影视与活动/纪录片、影视相关、舞台剧、动画.md "纪录片、影视相关、舞台剧、动画")**
+## **[纪录片、影视相关、舞台剧、动画](影视与活动/AKB GROUP纪录片合集.md "纪录片、影视相关、舞台剧、动画")**
 
 **[AKB GROUP纪录片合集](影视与活动/AKB GROUP纪录片合集.md "AKB GROUP纪录片合集")**
 
@@ -174,7 +174,7 @@
 - **组阁**
   - **《AKB GROUP组阁合辑》**（AKB48、SKE48、NMB48）
 
-## [音乐番组](音乐番组/音乐番组.md "音乐番组")
+## [音乐番组](音乐番组/Music Station（包括Super Live）.md "音乐番组")
 
 - **音番2018年开始系内成员若小部分出演则不再收录全场(除非没有CUT版视频)**
 
@@ -510,7 +510,7 @@
   - [STU48と行く尾道ぶらり旅](娱乐番组/STU48/STU48と行く尾道ぶらり旅.md "STU48と行く尾道ぶらり旅")
   - [STU48の行ってきまSU！](娱乐番组/STU48/STU48の行ってきまSU！.md "STU48の行ってきまSU！")
   - [STU発⇒东京](STU発⇒东京 "STU発⇒东京")
-  - [STU↗︎でんつ！](娱乐番组/STU48/STU↗︎でんつ！.md "STU↗︎でんつ！")
+  - [STU↗︎でんつ！](娱乐番组/STU48/STUでんつ！.md "STU↗︎でんつ！")
   - [STU48的更多STU!](娱乐番组/STU48/STU48的更多STU!.md "STU48的更多STU!")
   - [虹色濑户之旅](虹色濑户之旅 "虹色濑户之旅")
   - [STU48的LINE LIVE也要加油SU!](娱乐番组/STU48/STU48的LINE LIVE也要加油SU!.md "STU48的LINE LIVE也要加油SU!") （LINE LIVE）

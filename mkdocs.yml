@@ -73,7 +73,6 @@ nav:
   - 🏠 首页: index.md
 
   - 🎤 演唱会:
-      - 📍 演唱会总目录: 演唱会/演唱会.md
       - AKB48 演唱会合辑: 演唱会/AKB48演唱会合辑.md
       - AKB48 Team8 全国巡演: 演唱会/TOYOTA_presents_AKB48_Team8_全国巡演～前往47个美丽城市～.md
       - AKB48 特别演出 (系外): 演唱会/AKB48特别演出合辑.md
@@ -87,7 +86,6 @@ nav:
       - SDN48 演唱会: 演唱会/SDN48演唱会.md
 
   - 🎭 剧场公演:
-      - 📍 剧场公演总览: 剧场公演/48系剧场公演.md
       - AKB48 剧场公演合辑: 剧场公演/AKB48剧场公演合辑.md
       - SKE48 剧场公演合辑: 剧场公演/SKE48剧场公演合辑.md
       - SKE48 日常公演全记录: 剧场公演/SKE48日常公演.md
@@ -99,7 +97,6 @@ nav:
       - 剧场公演生肉区: 剧场公演/剧场公演生肉区.md
 
   - 🎵 音乐番组:
-      - 📍 音乐番组总目录: 音乐番组/音乐番组.md
       - 大型音乐祭与年度特番:
           - NHK 红白歌合战: 音乐番组/NHK红白歌合战（NHK新年红白歌会）.md
           - FNS 歌谣祭: 音乐番组/FNS歌謡祭（年末、春祭、夏祭）.md
@@ -146,7 +143,6 @@ nav:
 
   - 📺 娱乐番组:
       - AKB48 番组:
-          - 📍 AKB48 番组总目录: 娱乐番组/AKB48/AKB48番组.md
           - AKBINGO!: 娱乐番组/AKB48/AKBINGO.md
           - AKB48 神TV: 娱乐番组/AKB48/AKB48神TV.md
           - AKB48 SHOW!: 娱乐番组/AKB48/AKB48 SHOW!.md
@@ -163,9 +159,6 @@ nav:
           - AKB48 特番: 娱乐番组/AKB48/AKB48特番.md
           - AKB48 官方 YouTube 频道: 娱乐番组/AKB48/AKB48官方YOUTUBE頻道.md
           - AKB48Group 映像仓库: 娱乐番组/AKB48/AKB48Group映像仓库.md
-          - AKB48、最近聞いたよね…: 娱乐番组/AKB48/AKB48、最近聞いたよね….md
-          - ネ申テレビ シーズン: 娱乐番组/AKB48/ネ申テレビ シーズン.md
-          - "AKB48、最近聞いたかも?": 娱乐番组/AKB48/AKB48、最近聞いたかも_.md
           - OUT OF 48: 娱乐番组/AKB48/OUT OF 48.md
           - AKB48の17期研究生がロケロケ！！: 娱乐番组/AKB48/AKB48の17期研究生がロケロケ！！.md
           - AKB48が町工場に突撃！お宅で1番のDXはなんですか？: 娱乐番组/AKB48/AKB48が町工場に突撃！お宅で1番のDXはなんですか？.md
@@ -183,7 +176,6 @@ nav:
           - 其他sns相關: 娱乐番组/AKB48/其他sns相關.md
           - "AKB0じ59ふん!": 娱乐番组/AKB48/AKB0じ59ふん!.md
           - "AKB1じ59ふん!": 娱乐番组/AKB48/AKB1じ59ふん!.md
-          - AKB48 サヨナラ毛利さん: 娱乐番组/AKB48/AKB48 サヨナラ毛利さん.md
           - 周刊AKB: 娱乐番组/AKB48/周刊AKB.md
           - AKB子兎道场: 娱乐番组/AKB48/AKB子兎道场.md
           - 周刊AKB特辑: 娱乐番组/AKB48/周刊AKB特辑.md
@@ -203,7 +195,6 @@ nav:
           - AKB48の今夜はお泊まりッ: 娱乐番组/AKB48/AKB48の今夜はお泊まりッ.md
           - AKBでアルバイト: 娱乐番组/AKB48/AKBでアルバイト.md
           - AKB影像Center: 娱乐番组/AKB48/AKB影像Center.md
-          - ※AKB調べ: 娱乐番组/AKB48/※AKB調べ.md
           - 僕らが考える夜: 娱乐番组/AKB48/僕らが考える夜.md
           - 指原カイワイズ: 娱乐番组/AKB48/指原カイワイズ.md
           - さしこく～サシで告白する勇気をあなたに～: 娱乐番组/AKB48/さしこく～サシで告白する勇気をあなたに～.md
@@ -307,7 +298,6 @@ nav:
           - F.Chan TV: 娱乐番组/AKB48/F.Chan TV.md
           - ロッカーに何、入れる？: 娱乐番组/AKB48/ロッカーに何、入れる？.md
       - SKE48 番组:
-          - 📍 SKE48 番组总目录: 娱乐番组/SKE48/SKE48番组.md
           - SKE48 ZERO POSITION: 娱乐番组/SKE48/SKE48 ZERO POSITION（对决类）.md
           - SKE48 学园: 娱乐番组/SKE48/SKE48学园（月番）.md
           - SKE48 魔法广播 (1-3季): 娱乐番组/SKE48/SKE48魔法广播（第一季-第三季）.md
@@ -349,27 +339,11 @@ nav:
           - Fun x Fun Japan! (SKE × BNK): 娱乐番组/SKE48/Fun x Fun Japan！ (SKE48 x BNK48 旅游番).md
           - SKE 特别番组: 娱乐番组/SKE48/SKE特別番組.md
           - SKE48学园: 娱乐番组/SKE48/SKE48学园.md
-          - SKE48のへーきん: 娱乐番组/SKE48/SKE48のへーきん.md
           - SKEびーめん: 娱乐番组/SKE48/SKEびーめん.md
           - SKE48の未完成TV: 娱乐番组/SKE48/SKE48の未完成TV.md
           - SKE48の非公式チャネル: 娱乐番组/SKE48/SKE48の非公式チャネル.md
-          - "SKE48がひとっ風呂浴びさせて頂きます!": 娱乐番组/SKE48/SKE48がひとっ風呂浴びさせて頂きます!.md
-          - Doki Doki！NHK World JAPAN: 娱乐番组/SKE48/Doki Doki！NHK World JAPAN.md
-          - "SKE48 エビショー!": 娱乐番组/SKE48/SKE48 エビショー!.md
-          - SKE48 エビフライデーナイト: 娱乐番组/SKE48/SKE48 エビフライデーナイト.md
-          - "SKE48 エビカルチョ!": 娱乐番组/SKE48/SKE48 エビカルチョ!.md
-          - SKE48 ZERO POSITION: 娱乐番组/SKE48/SKE48 ZERO POSITION.md
-          - SKE48のMagical Radio: 娱乐番组/SKE48/SKE48のMagical Radio.md
           - SKEBINGO！: 娱乐番组/SKE48/SKEBINGO！.md
-          - Ske48的星期二打工剧场: 娱乐番组/SKE48/Ske48的星期二打工剧场.md
-          - SKE初恋饭团: 娱乐番组/SKE48/SKE初恋饭团.md
-          - "SKE48のFUN!FUN!ドライブ": 娱乐番组/SKE48/SKE48のFUN!FUN!ドライブ.md
-          - SKE48ヲ科学セヨ: 娱乐番组/SKE48/SKE48ヲ科学セヨ.md
-          - "SKE48 松村香織&谷真理佳日本列島ヒッチハイクの旅": 娱乐番组/SKE48/SKE48 松村香織&谷真理佳日本列島ヒッチハイクの旅.md
-          - 非常SKE 黎明前的国盗48番胜负: 娱乐番组/SKE48/非常SKE 黎明前的国盗48番胜负.md
           - とれたてキス: 娱乐番组/SKE48/とれたてキス.md
-          - SKE48は君と歌いたい: 娱乐番组/SKE48/SKE48は君と歌いたい.md
-          - "SKE48のあいちテル!": 娱乐番组/SKE48/SKE48のあいちテル!.md
           - イッテ恋48: 娱乐番组/SKE48/イッテ恋48.md
           - 高柳明音の翼をください: 娱乐番组/SKE48/高柳明音の翼をください.md
           - "SKE48のはつのり!": 娱乐番组/SKE48/SKE48のはつのり!.md
@@ -378,7 +352,6 @@ nav:
           - SKE48 ニセアイドル撲滅大作戦！: 娱乐番组/SKE48/SKE48 ニセアイドル撲滅大作戦！.md
           - マギーSKE48のハナタカ: 娱乐番组/SKE48/マギーSKE48のハナタカ.md
           - SKE48 むすびのイチバン！: 娱乐番组/SKE48/SKE48 むすびのイチバン！.md
-          - SKE48のバズらせます！！: 娱乐番组/SKE48/SKE48のバズらせます！！.md
           - 4方8方美人: 娱乐番组/SKE48/4方8方美人.md
           - Fun x Fun Japan！: 娱乐番组/SKE48/Fun x Fun Japan！.md
           - 松井珠理奈のインスタ映え100枚チャレンジ旅: 娱乐番组/SKE48/松井珠理奈のインスタ映え100枚チャレンジ旅.md
@@ -389,8 +362,6 @@ nav:
           - 古畑前田のえにし酒: 娱乐番组/SKE48/古畑前田のえにし酒.md
           - Style of ニッポン～古畑奈和の綺麗・絶景・長崎夜景～: 娱乐番组/SKE48/Style of ニッポン～古畑奈和の綺麗・絶景・長崎夜景～.md
       - NMB48 番组:
-          - 📍 NMB48 番组总目录: 娱乐番组/NMB48/NMB48番组.md
-          - 4方8方美人 (NMB & SKE 双冠名): 娱乐番组/NMB48/4方8方美人 (NMB & SKE雙冠名番組,在NMB分類可見同名編列)(大阪channel).md
           - YNN「NMB48 CHANNEL」: 娱乐番组/NMB48/YNN「NMB48 CHANNEL」.md
           - 新YNN NMB48 CHANNEL: 娱乐番组/NMB48/新YNN NMB48 CHANNEL.md
           - 夕方NMB48+: 娱乐番组/NMB48/夕方NMB48+.md
@@ -447,7 +418,6 @@ nav:
           - 涩谷凪咲の世界で一番热いネコ: 娱乐番组/NMB48/涩谷凪咲の世界で一番热いネコ.md
           - NMB48特番: 娱乐番组/NMB48/NMB48特番.md
       - HKT48 番组:
-          - 📍 HKT48 番组总目录: 娱乐番组/HKT48/HKT48番组.md
           - HKT 青春体育部!: 娱乐番组/HKT48/HKT青春体育部!.md
           - HKT48 Team熊本 よかもん めっけ队: 娱乐番组/HKT48/HKT48 Team熊本 よかもん めっけ队.md
           - マッシュアップガール: 娱乐番组/HKT48/マッシュアップガール.md
@@ -483,7 +453,6 @@ nav:
           - 指原のかわいい祭り: 娱乐番组/HKT48/指原のかわいい祭り.md
           - HKT特番: 娱乐番组/HKT48/HKT特番.md
       - NGT48 番组:
-          - 📍 NGT48 番组总目录: 娱乐番组/NGT48/NGT48番组.md
           - 嗚呼！NGT48らーめん部: 娱乐番组/NGT48/嗚呼！NGT48らーめん部.md
           - "NGT48のにいがったフレンド!": 娱乐番组/NGT48/NGT48のにいがったフレンド!.md
           - NGT48ばかうけ開発プロジェクトTV: 娱乐番组/NGT48/NGT48ばかうけ開発プロジェクトTV.md
@@ -493,8 +462,6 @@ nav:
           - NGT48 特番: 娱乐番组/NGT48/NGT48 特番.md
           - 白昼夢: 娱乐番组/NGT48/白昼夢.md
       - STU48 番组:
-          - 📍 STU48 番组总目录: 娱乐番组/STU48/STU48番组.md
-          - STU↗︎でんつ！: 娱乐番组/STU48/STU↗︎でんつ！.md
           - STU48 伸 TV: 娱乐番组/STU48/STU48伸TV.md
           - 虹色濑户之旅: 娱乐番组/STU48/虹色瀨戶之旅.md
           - 濑户挑战! STU48: 娱乐番组/STU48/濑户挑战! STU48.md
@@ -530,7 +497,6 @@ nav:
           - STU48が行く江田島発見ジャーニー: 娱乐番组/STU48/STU48が行く江田島発見ジャーニー.md
           - STU48的濑户内会: 娱乐番组/STU48/STU48的濑户内会.md
           - STU48のせとライク: 娱乐番组/STU48/STU48のせとライク.md
-          - STU48石田千穂のはたらく石田千穂: 娱乐番组/STU48/STU48石田千穂のはたらく石田千穂.md
       - 广播番组:
           - Akb all night nippon: 娱乐番组/广播番组/Akb all night nippon.md
           - Akb我們的故事: 娱乐番组/广播番组/Akb我們的故事.md
@@ -625,7 +591,6 @@ nav:
           - "ラヴィット!": 娱乐番组/系外常规出演/ラヴィット!.md
           - "この指と〜まれ!": 娱乐番组/系外常规出演/この指と〜まれ!.md
           - ねる、取材行ってきます: 娱乐番组/系外常规出演/ねる、取材行ってきます.md
-          - Tokyo Idol Festival: 娱乐番组/系外常规出演/Tokyo Idol Festival.md
           - PRODUCE 48: 娱乐番组/系外常规出演/PRODUCE 48.md
           - "IZ*ONE": 娱乐番组/系外常规出演/IZ_ONE.md
           - 爆笑 大日本アカン警察: 娱乐番组/系外常规出演/爆笑 大日本アカン警察.md
@@ -741,9 +706,7 @@ nav:
 
   - 🎬 影视与活动:
       - 纪录片与大型活动:
-          - 📍 纪录片 / 影视 / 舞台剧 / 动画总览: 影视与活动/纪录片、影视相关、舞台剧、动画.md
           - AKB GROUP 纪录片合集: 影视与活动/AKB GROUP纪录片合集.md
-          - 📍 大型 / 特殊活动总览 (红白/猜拳/运动会/组阁): 影视与活动/大型_特殊活动.md
           - AKB GROUP 选拔总选举合辑: 影视与活动/《AKB GROUP选拔总选举合輯》.md
           - AKB48 总选举丑闻 秋叶原文书: 影视与活动/AKB48總選舉醜聞 秋葉原文書.md
           - AKB GROUP 红白歌合战合辑: 影视与活动/大型活动/AKB GROUP 红白歌合战合辑.md
@@ -758,7 +721,7 @@ nav:
           - AKB GROUP 夏祭合集: 影视与活动/大型活动/AKB GROUP 夏祭合集.md
           - 组阁合辑: 影视与活动/大型活动/组阁合辑.md
       - 电视剧、舞台剧与动画:
-          - 📍 影视相关总览: 影视与活动/影视相关.md
+          - 影视 / 电影 / 电视剧合辑: 影视与活动/影视相关.md
           - 舞台剧与歌舞剧合辑: 影视与活动/AKB GROUP成员出演舞台劇_歌舞劇合輯.md
           - 豆腐职业摔角: 影视与活动/豆腐職業摔角.md
           - 马路须加 / 真假学园 (マジムリ学园): 影视与活动/マジムリ學園.md
@@ -790,7 +753,6 @@ nav:
           - AKB GROUP 系外合作专区: 影视与活动/PV与特典/AKB GROUP 系外合作专区.md
           - AKB GROUP 系外组合出道专区: 影视与活动/PV与特典/AKB GROUP 系外组合出道专区.md
       - 其它专题与情报节目:
-          - 📍 其它内容汇总: 影视与活动/其它内容.md
           - AKB 成员黑历史合集: 影视与活动/其它专题/AKB 成员黑历史合集.md
           - AKB GROUP 广告 CM 合集: 影视与活动/其它专题/AKB GROUP 广告 CM 合集.md
           - AKB GROUP 新闻合集: 影视与活动/其它专题/AKB GROUP 新闻合集.md

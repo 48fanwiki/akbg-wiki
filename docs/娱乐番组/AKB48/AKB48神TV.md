@@ -4805,3 +4805,56 @@
 </tr>
 </tbody>
 </table>
+
+## 补充归档链接（合并自同节目页面）
+
+<table>
+  <thead>
+    <tr>
+      <th>期数 / 内容说明</th>
+      <th>观看链接</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>02 180513 柏木公演合宿 浅井七海、稲垣香織、梅本和泉、黒須遥香、佐藤美波、庄司なぎさ 鈴木くるみ、田口愛佳、田屋美咲、長友彩海、播磨七海 本間麻衣、前田彩佳、道枝咲、武藤小麟、安田叶 山内瑞葵、山根凉羽、佐藤詩識、古川夏凪、本田そら 岡田梨奈、勝又彩央里、小林蘭、末永祐月、永野恵 矢作萌夏、大竹ひとみ、大盛真歩、神山莉穂、齋藤陽菜 石綿星南、蔵本美結、多田京加、原澤音妃、吉橋柚花</td>
+      <td><a href="https://www.bilibili.com/video/BV1e94y1K7MT?p=2">https://www.bilibili.com/video/BV1e94y1K7MT?p=2</a></td>
+    </tr>
+    <tr>
+      <td>01 230831 解说力比拼 大盛真步 田口爱佳 武藤小麟 茂木忍 小田えりな 佐藤綺星 橋本恵理子 山﨑空 太田有紀 正鋳真優</td>
+      <td><a href="http://www.bilibili.com/video/BV12Q4y1n7AZ">http://www.bilibili.com/video/BV12Q4y1n7AZ</a></td>
+    </tr>
+    <tr>
+      <td>02 230907</td>
+      <td><a href="http://www.bilibili.com/video/BV16M411X7Pb">http://www.bilibili.com/video/BV16M411X7Pb</a></td>
+    </tr>
+    <tr>
+      <td>03 230928 18期披露 神裁判 18期生</td>
+      <td><a href="http://www.bilibili.com/video/BV1PH4y1d7tY">http://www.bilibili.com/video/BV1PH4y1d7tY</a></td>
+    </tr>
+    <tr>
+      <td>04 231005</td>
+      <td><a href="http://www.bilibili.com/video/BV1Ej411x7f1">http://www.bilibili.com/video/BV1Ej411x7f1</a></td>
+    </tr>
+    <tr>
+      <td>05 231026 激发17期生的潜在能力 佐藤绮星的GOGO啦啦队舞 佐藤綺星 橋本恵理子 山﨑空 正鋳真優 水島美結 佐藤妃星</td>
+      <td><a href="http://www.bilibili.com/video/BV1pj411e739">http://www.bilibili.com/video/BV1pj411e739</a></td>
+    </tr>
+    <tr>
+      <td>06 231102</td>
+      <td><a href="http://www.bilibili.com/video/BV16G411X7Yh">http://www.bilibili.com/video/BV16G411X7Yh</a></td>
+    </tr>
+    <tr>
+      <td>07 231123 潜入！18期研究生 ALSOK新人研修 秋山由奈 工藤華純 久保姫菜乃 迫由芽実 八木愛月 山口結愛</td>
+      <td><a href="http://www.bilibili.com/video/BV17w411H7P5">http://www.bilibili.com/video/BV17w411H7P5</a></td>
+    </tr>
+    <tr>
+      <td>08 231130</td>
+      <td><a href="http://www.bilibili.com/video/BV1ua4y1o7Gd">http://www.bilibili.com/video/BV1ua4y1o7Gd</a></td>
+    </tr>
+    <tr>
+      <td>09 231221 17期vs18期 针锋相对运动会 17期生 18期生</td>
+      <td><a href="http://www.bilibili.com/video/BV1xb4y137ek">http://www.bilibili.com/video/BV1xb4y137ek</a><br><a href="http://www.bilibili.com/video/BV18C4y1q7wR">http://www.bilibili.com/video/BV18C4y1q7wR</a></td>
+    </tr>
+  </tbody>
+</table>

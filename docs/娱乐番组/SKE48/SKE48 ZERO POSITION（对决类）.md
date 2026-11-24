@@ -1725,3 +1725,300 @@
 </tr>
 </tbody>
 </table>
+
+## 补充归档链接（合并自同节目页面）
+
+<table>
+  <thead>
+    <tr>
+      <th>期数 / 内容说明</th>
+      <th>观看链接</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01 141004 跳舞 都築里佳、宮前杏実、石田安奈、木下有希子</td>
+      <td><a href="http://www.bilibili.com/video/av1621601">http://www.bilibili.com/video/av1621601</a></td>
+    </tr>
+    <tr>
+      <td>02 141018 卡拉OK 東李苑、佐藤実絵子、竹内舞、内山命 古川愛李、岩永亞美、佐藤すみれ、谷真理佳</td>
+      <td><a href="http://www.bilibili.com/video/av1655410">http://www.bilibili.com/video/av1655410</a></td>
+    </tr>
+    <tr>
+      <td>04 141115 料理 小石公美子、小林亜実、斉藤真木子、高柳明音</td>
+      <td><a href="http://www.bilibili.com/video/av1797739">http://www.bilibili.com/video/av1797739</a></td>
+    </tr>
+    <tr>
+      <td>05 141206 游泳 犬塚あさな、北川綾巴、佐藤実絵子、大場美奈 市野成美、柴田阿弥、須田亜香里、福士奈央 青木詩織、鎌田菜月、松村香織、山田樹奈</td>
+      <td><a href="http://www.bilibili.com/video/av47961039/?p=1">http://www.bilibili.com/video/av47961039/?p=1</a></td>
+    </tr>
+    <tr>
+      <td>SP 150307 松村香織DET46 瘦不下来就MC炒鱿鱼 60分钟生放送SP 生肉</td>
+      <td><a href="http://www.bilibili.com/video/av18298477">http://www.bilibili.com/video/av18298477</a></td>
+    </tr>
+    <tr>
+      <td>SP 150502 总选举前直播SP 須田亜香里、松村香織、谷真理佳、柴田阿弥、大場美奈</td>
+      <td><a href="http://www.bilibili.com/video/av31072534/?p=2">http://www.bilibili.com/video/av31072534/?p=2</a></td>
+    </tr>
+    <tr>
+      <td>17 150620 运动决定战 北川綾巴、二村春香、松本慈子、矢方美紀 山田樹奈、荒井優希、江籠裕奈、髙塚夏生 日高優月、松村香織、市野成美、酒井萌衣 須田亜香里、谷真理佳、福士奈央 生肉</td>
+      <td><a href="http://www.bilibili.com/video/av2464350">http://www.bilibili.com/video/av2464350</a></td>
+    </tr>
+    <tr>
+      <td>18 150707 生肉</td>
+      <td><a href="http://www.bilibili.com/video/av2527159">http://www.bilibili.com/video/av2527159</a></td>
+    </tr>
+    <tr>
+      <td>19 150718 生肉</td>
+      <td><a href="http://www.bilibili.com/video/av2594320">http://www.bilibili.com/video/av2594320</a></td>
+    </tr>
+    <tr>
+      <td>20 150808 生肉</td>
+      <td><a href="http://www.bilibili.com/video/av2705917">http://www.bilibili.com/video/av2705917</a></td>
+    </tr>
+    <tr>
+      <td>22 150905 柴田阿弥的主持能力测试 柴田阿弥、後藤楽々、小畑優奈、川崎成美 野島樺乃、村井純奈、一色嶺奈、上村亜柚香 白井琴望、水野愛理、菅原茉椰</td>
+      <td><a href="http://www.bilibili.com/video/av4264605">http://www.bilibili.com/video/av4264605</a></td>
+    </tr>
+    <tr>
+      <td>SP 150919 NEXT CENTER会是谁？ 60分緊急討論 古畑奈和、松村香織、木本花音 柴田阿弥、須田亜香里、谷真理佳 生肉</td>
+      <td><a href="http://www.bilibili.com/video/av2936284">http://www.bilibili.com/video/av2936284</a></td>
+    </tr>
+    <tr>
+      <td>23 151003 柴田阿弥的主持能力测试 柴田阿弥、後藤楽々、小畑優奈、川崎成美 野島樺乃、村井純奈、一色嶺奈、上村亜柚香 白井琴望、水野愛理、菅原茉椰</td>
+      <td><a href="http://www.bilibili.com/video/av4268766">http://www.bilibili.com/video/av4268766</a></td>
+    </tr>
+    <tr>
+      <td>28 151219 都築里佳、青木詩織、惣田紗莉渚 須田亜香里、川崎成美、後藤楽々 都築里佳、惣田紗莉渚、須田亜香里 生肉</td>
+      <td><a href="http://www.bilibili.com/video/av3417756">http://www.bilibili.com/video/av3417756</a></td>
+    </tr>
+    <tr>
+      <td>SP 160109 中文偶像之路60分SP 須田亜香里 生肉</td>
+      <td><a href="http://www.bilibili.com/video/av3559548">http://www.bilibili.com/video/av3559548</a></td>
+    </tr>
+    <tr>
+      <td>29 160123 誰是笨蛋敗者復活戰 都築里佳、青木詩織、惣田紗莉渚 須田亜香里、川崎成美、後藤楽々 生肉</td>
+      <td><a href="http://www.bilibili.com/video/av3663872">http://www.bilibili.com/video/av3663872</a></td>
+    </tr>
+    <tr>
+      <td>31 160220 生肉</td>
+      <td><a href="http://www.bilibili.com/video/av5307957">http://www.bilibili.com/video/av5307957</a></td>
+    </tr>
+    <tr>
+      <td>32 160305 山内鈴蘭、後藤楽々 生肉</td>
+      <td><a href="http://www.bilibili.com/video/av5309165">http://www.bilibili.com/video/av5309165</a></td>
+    </tr>
+    <tr>
+      <td>33 160319 初代MC退任慰劳会 須田亜香里、松村香織、谷真理佳 生肉</td>
+      <td><a href="http://www.bilibili.com/video/av17549621">http://www.bilibili.com/video/av17549621</a></td>
+    </tr>
+    <tr>
+      <td>SP 160528 总选举前直播SP 高柳明音、古畑奈和、木本花音、斉藤真木子 須田亜香里、北川綾巴、後藤楽々</td>
+      <td><a href="http://www.bilibili.com/video/av4893996">http://www.bilibili.com/video/av4893996</a></td>
+    </tr>
+    <tr>
+      <td>37 160604 新MC名古屋市内PR巡回 高柳明音、北川綾巴、後藤楽々</td>
+      <td><a href="http://www.bilibili.com/video/av4969607">http://www.bilibili.com/video/av4969607</a></td>
+    </tr>
+    <tr>
+      <td>39 160702</td>
+      <td><a href="http://www.bilibili.com/video/av5440226">http://www.bilibili.com/video/av5440226</a></td>
+    </tr>
+    <tr>
+      <td>40 160716 柴田阿弥 毕业纪念 给7期生的特别讲座 柴田阿弥、相川暖花、浅井裕華 太田彩夏、片岡成美、末永桜花 髙畑結希、町音葉、和田愛菜</td>
+      <td><a href="http://www.bilibili.com/video/av5441043">http://www.bilibili.com/video/av5441043</a></td>
+    </tr>
+    <tr>
+      <td>41 160813</td>
+      <td><a href="http://www.bilibili.com/video/av6161526">http://www.bilibili.com/video/av6161526</a></td>
+    </tr>
+    <tr>
+      <td>42 160903 柴田阿弥主持能力测试 跟小孩子聊天 柴田阿弥</td>
+      <td><a href="http://www.bilibili.com/video/av6308846">http://www.bilibili.com/video/av6308846</a></td>
+    </tr>
+    <tr>
+      <td>43 160917 高尔夫对决最终决战 山内鈴蘭、後藤楽々 生肉</td>
+      <td><a href="http://www.bilibili.com/video/av6326429">http://www.bilibili.com/video/av6326429</a></td>
+    </tr>
+    <tr>
+      <td>44 161001 生肉</td>
+      <td><a href="http://www.bilibili.com/video/av6495592">http://www.bilibili.com/video/av6495592</a></td>
+    </tr>
+    <tr>
+      <td>45 161015 生肉</td>
+      <td><a href="http://www.bilibili.com/video/av6695045">http://www.bilibili.com/video/av6695045</a></td>
+    </tr>
+    <tr>
+      <td>46 161105 2~7期分隊对抗運動會 石田安奈、斉藤真木子、高柳明音、松村香織 後藤理沙子、矢方美紀、木本花音、酒井萌衣 竹内舞、江籠裕奈、二村春香、古畑奈和 北川綾巴、熊崎晴香、鎌田菜月 後藤楽々、小畑優奈、浅井裕華</td>
+      <td><a href="http://www.bilibili.com/video/av7494854">http://www.bilibili.com/video/av7494854</a></td>
+    </tr>
+    <tr>
+      <td>47 161119</td>
+      <td><a href="http://www.bilibili.com/video/av7495037">http://www.bilibili.com/video/av7495037</a></td>
+    </tr>
+    <tr>
+      <td>48 161203</td>
+      <td><a href="http://www.bilibili.com/video/av7494914">http://www.bilibili.com/video/av7494914</a></td>
+    </tr>
+    <tr>
+      <td>49 170107 庆祝节目播出两周年慰劳旅行 高柳明音、北川綾巴、後藤楽々 竹内舞、二村春香、矢方美紀、石田安奈 江籠裕奈、小畑優奈、古畑奈和、松村香織 浅井裕華、鎌田菜月、木本花音、熊崎晴香 斉藤真木子、酒井萌衣、後藤理沙子</td>
+      <td><a href="http://www.bilibili.com/video/av8232670">http://www.bilibili.com/video/av8232670</a></td>
+    </tr>
+    <tr>
+      <td>50 170121</td>
+      <td><a href="http://www.bilibili.com/video/av8746440">http://www.bilibili.com/video/av8746440</a></td>
+    </tr>
+    <tr>
+      <td>51 170204 分期運動會優勝 二期生獎賞企劃 高柳明音、石田安奈、斉藤真木子、内山命 生肉</td>
+      <td><a href="http://www.bilibili.com/video/av8409730">http://www.bilibili.com/video/av8409730</a></td>
+    </tr>
+    <tr>
+      <td>52 170218 生肉</td>
+      <td><a href="http://www.bilibili.com/video/av8701678">http://www.bilibili.com/video/av8701678</a></td>
+    </tr>
+    <tr>
+      <td>53 170304 女子力No.1決定戦 二村春香、石田安奈、江籠裕奈 惣田紗莉渚、高柳明音、松村香織 木本花音、斉藤真木子 須田亞香里、髙寺沙菜</td>
+      <td><a href="http://www.bilibili.com/video/av9473528">http://www.bilibili.com/video/av9473528</a></td>
+    </tr>
+    <tr>
+      <td>54 170318</td>
+      <td><a href="http://www.bilibili.com/video/av9834368">http://www.bilibili.com/video/av9834368</a></td>
+    </tr>
+    <tr>
+      <td>55 170408</td>
+      <td><a href="http://www.bilibili.com/video/av10079233">http://www.bilibili.com/video/av10079233</a></td>
+    </tr>
+    <tr>
+      <td>56 170422</td>
+      <td><a href="http://www.bilibili.com/video/av10091320">http://www.bilibili.com/video/av10091320</a></td>
+    </tr>
+    <tr>
+      <td>57 170506 大場美奈 × 8期生 大場美奈、井上瑠夏、岡田美紅、北川愛乃 坂本真凛、佐藤佳穂、白雪希明、仲村和泉 野々垣美希、野村実代</td>
+      <td><a href="http://www.bilibili.com/video/av10425758">http://www.bilibili.com/video/av10425758</a></td>
+    </tr>
+    <tr>
+      <td>58 170520</td>
+      <td><a href="http://www.bilibili.com/video/av10851274">http://www.bilibili.com/video/av10851274</a></td>
+    </tr>
+    <tr>
+      <td>59 170617 选秀生一二期大乱战 荒井優希、惣田紗莉渚、高塚夏生、高寺沙菜 福士奈央、松本慈子 一色嶺奈、上村亜柚香 白井琴望、菅原茉椰、水野愛理 高柳明音</td>
+      <td><a href="http://www.bilibili.com/video/av11436605">http://www.bilibili.com/video/av11436605</a></td>
+    </tr>
+    <tr>
+      <td>60 170701</td>
+      <td><a href="http://www.bilibili.com/video/av12333267">http://www.bilibili.com/video/av12333267</a></td>
+    </tr>
+    <tr>
+      <td>61 170715</td>
+      <td><a href="http://www.bilibili.com/video/av12402030">http://www.bilibili.com/video/av12402030</a></td>
+    </tr>
+    <tr>
+      <td>62 170819 次时代写真女王 市野成美、太田彩夏、井田玲音名 仲村和泉、一色嶺奈、坂本真凛 佐藤佳穂、井上瑠夏、後藤楽々</td>
+      <td><a href="http://www.bilibili.com/video/av13694014">http://www.bilibili.com/video/av13694014</a></td>
+    </tr>
+    <tr>
+      <td>63 170902</td>
+      <td><a href="http://www.bilibili.com/video/av14463115">http://www.bilibili.com/video/av14463115</a></td>
+    </tr>
+    <tr>
+      <td>64 170916</td>
+      <td><a href="http://www.bilibili.com/video/av15034543">http://www.bilibili.com/video/av15034543</a></td>
+    </tr>
+    <tr>
+      <td>66 171104 选秀生一期獎勵企畫:大人品格測試 北川绫巴 高塚夏生 松本慈子 高寺沙菜 福士奈央 荒井優希 惣田紗莉渚</td>
+      <td><a href="http://www.bilibili.com/video/av16813075">http://www.bilibili.com/video/av16813075</a></td>
+    </tr>
+    <tr>
+      <td>67 171118 选秀生一期獎勵企畫後篇 大場美奈×8期生企画</td>
+      <td><a href="http://www.bilibili.com/video/av17360700">http://www.bilibili.com/video/av17360700</a></td>
+    </tr>
+    <tr>
+      <td>68 171202 名城大學學園祭認知度上升大作戰</td>
+      <td><a href="http://www.bilibili.com/video/av17680378">http://www.bilibili.com/video/av17680378</a></td>
+    </tr>
+    <tr>
+      <td>69 171216</td>
+      <td><a href="http://www.bilibili.com/video/av18306428">http://www.bilibili.com/video/av18306428</a></td>
+    </tr>
+    <tr>
+      <td>70 180106 SKE48 ZERO POSITION 慰安旅行 前篇 多人</td>
+      <td><a href="http://www.bilibili.com/video/av19745633">http://www.bilibili.com/video/av19745633</a></td>
+    </tr>
+    <tr>
+      <td>71 180120 SKE48 ZERO POSITION 慰安旅行 中篇 多人</td>
+      <td><a href="http://www.bilibili.com/video/av20710853">http://www.bilibili.com/video/av20710853</a></td>
+    </tr>
+    <tr>
+      <td>72 180203 SKE48 ZERO POSITION 慰安旅行 後編 多人</td>
+      <td><a href="http://www.bilibili.com/video/av21382855">http://www.bilibili.com/video/av21382855</a></td>
+    </tr>
+    <tr>
+      <td>73 180217 SKE48 ZERO POSITION 慰安旅行 完結編 多人</td>
+      <td><a href="http://www.bilibili.com/video/av22189251">http://www.bilibili.com/video/av22189251</a></td>
+    </tr>
+    <tr>
+      <td>77 180421 力之女王 北川爱乃、北川綾巴、町音叶、内山命 高塚夏生、日高优月、熊崎晴香、须田亜香里</td>
+      <td><a href="http://www.bilibili.com/video/av23792461">http://www.bilibili.com/video/av23792461</a></td>
+    </tr>
+    <tr>
+      <td>78 180505</td>
+      <td><a href="http://www.bilibili.com/video/av23828256">http://www.bilibili.com/video/av23828256</a></td>
+    </tr>
+    <tr>
+      <td>84 180825 出其不意6期生ZeroPosi Live 青木詩織、井田玲音名、鎌田菜月、北川綾巴 北野瑠華、熊崎晴香、竹内彩姫、日高優月、山田樹奈</td>
+      <td><a href="http://www.bilibili.com/video/av30661169">http://www.bilibili.com/video/av30661169</a></td>
+    </tr>
+    <tr>
+      <td>85 180908</td>
+      <td><a href="http://www.bilibili.com/video/av31443671">http://www.bilibili.com/video/av31443671</a></td>
+    </tr>
+    <tr>
+      <td>103 190706 18人大集合！9期对决 后藤乐乐、全体9期 生肉</td>
+      <td><a href="http://www.bilibili.com/video/BV1G4411w74e">http://www.bilibili.com/video/BV1G4411w74e</a></td>
+    </tr>
+    <tr>
+      <td>104 190720 生肉</td>
+      <td><a href="http://www.bilibili.com/video/BV18t411E7Lo">http://www.bilibili.com/video/BV18t411E7Lo</a></td>
+    </tr>
+    <tr>
+      <td>105 190803 生肉</td>
+      <td><a href="http://www.bilibili.com/video/BV1wt411g7sn">http://www.bilibili.com/video/BV1wt411g7sn</a></td>
+    </tr>
+    <tr>
+      <td>106 190817 生肉</td>
+      <td><a href="http://www.bilibili.com/video/BV184411f7QH">http://www.bilibili.com/video/BV184411f7QH</a></td>
+    </tr>
+    <tr>
+      <td>107 190907 后藤乐乐毕业企划 北川绫巴、后藤乐乐、野岛桦乃、太田彩夏 高畑结希、藤本东香、浅井裕奈 生肉</td>
+      <td><a href="http://www.bilibili.com/video/BV134411C7Go">http://www.bilibili.com/video/BV134411C7Go</a></td>
+    </tr>
+    <tr>
+      <td>108 190921 北川绫巴、后藤乐乐、野岛桦乃、太田彩夏 高畑结希、藤本东香、水野爱理 生肉</td>
+      <td><a href="http://www.bilibili.com/video/BV13J411g77h">http://www.bilibili.com/video/BV13J411g77h</a></td>
+    </tr>
+    <tr>
+      <td>114 191221 生肉</td>
+      <td><a href="http://www.bilibili.com/video/av83228633">http://www.bilibili.com/video/av83228633</a></td>
+    </tr>
+    <tr>
+      <td>SP 200220 ZP紧急生讨论SP SKE48的未来是！？ 高柳明音、北野瑠华、齐藤真木子、大场美奈 江笼裕奈、井田玲音名、野岛桦乃、松本慈子 井上瑠夏、菅原茉椰、上村亚柚香、藤本东香 白井友纪乃、石川花音 生肉</td>
+      <td><a href="http://www.bilibili.com/video/BV1K7411w7Yb">http://www.bilibili.com/video/BV1K7411w7Yb</a></td>
+    </tr>
+    <tr>
+      <td>135 201205 5期对决 古畑奈和、江笼裕奈、北野瑠华、井上瑠夏、10期 生肉</td>
+      <td><a href="http://www.bilibili.com/video/BV1VK4y1L7iJ">http://www.bilibili.com/video/BV1VK4y1L7iJ</a></td>
+    </tr>
+    <tr>
+      <td>136 201219 生肉</td>
+      <td><a href="http://www.bilibili.com/video/BV1jX4y1u7Z3">http://www.bilibili.com/video/BV1jX4y1u7Z3</a></td>
+    </tr>
+    <tr>
+      <td>137 210109 10期对决 北野瑠华、井上瑠夏、青木莉桦、石塚美月、伊藤实希 鬼头未来、泽田奏音、杉山步南、西井美樱、林美澪 生肉</td>
+      <td><a href="http://www.bilibili.com/video/BV1hh41127aX">http://www.bilibili.com/video/BV1hh41127aX</a></td>
+    </tr>
+    <tr>
+      <td>150 210717 想做这些企划 成员提案zp 北野瑠华、井上瑠夏、福士奈央、熊崎晴香 伊藤实希、中野爱理、相川暖花 石黑友月、齐藤真木子、上村亚柚香 生肉</td>
+      <td><a href="http://www.bilibili.com/video/BV1e54y1n74k">http://www.bilibili.com/video/BV1e54y1n74k</a></td>
+    </tr>
+  </tbody>
+</table>

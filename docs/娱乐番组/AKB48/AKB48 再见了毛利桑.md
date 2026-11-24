@@ -414,3 +414,44 @@
 </tr>
 </tbody>
 </table>
+
+## 补充归档链接（合并自同节目页面）
+
+<table>
+  <thead>
+    <tr>
+      <th>期数 / 内容说明</th>
+      <th>观看链接</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>41 230202 AKB48戀愛預備校 3</td>
+      <td><a href="http://www.bilibili.com/video/BV1je4y1N7ro">http://www.bilibili.com/video/BV1je4y1N7ro</a></td>
+    </tr>
+    <tr>
+      <td>42 230209 17期生烦恼相谈会</td>
+      <td><a href="http://www.bilibili.com/video/BV1Wt4y1Q7Qv/?p=2">http://www.bilibili.com/video/BV1Wt4y1Q7Qv/?p=2</a></td>
+    </tr>
+    <tr>
+      <td>44 230223 AKB48最糟糕的一天</td>
+      <td><a href="http://www.bilibili.com/video/BV11T411i7Xb">http://www.bilibili.com/video/BV11T411i7Xb</a></td>
+    </tr>
+    <tr>
+      <td>45 230302</td>
+      <td><a href="http://www.bilibili.com/video/BV1t24y1G7yU">http://www.bilibili.com/video/BV1t24y1G7yU</a></td>
+    </tr>
+    <tr>
+      <td>46 230309 AKB48非选拔问卷调查</td>
+      <td><a href="http://www.bilibili.com/video/BV1cM4y1r7Wg">http://www.bilibili.com/video/BV1cM4y1r7Wg</a></td>
+    </tr>
+    <tr>
+      <td>47 230316</td>
+      <td><a href="http://www.bilibili.com/video/BV17o4y1q7y5">http://www.bilibili.com/video/BV17o4y1q7y5</a></td>
+    </tr>
+    <tr>
+      <td>48 230323 AKB48想替换的选拔成员 最终回</td>
+      <td><a href="http://www.bilibili.com/video/BV1sY4y1S7YD">http://www.bilibili.com/video/BV1sY4y1S7YD</a></td>
+    </tr>
+  </tbody>
+</table>
