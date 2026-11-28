@@ -1248,6 +1248,22 @@ https://www.bilibili.com/video/BV1tax4ziEPq/?share_source=copy_web&vd_source=55b
 
 https://www.bilibili.com/video/BV18UmuBtEcK/?p=26&share_source=copy_web&vd_source=55b3f84029a1195e9f792c61fa12ba4c
 
+
+### 2026年
+
+#### AKB48 THREE CONCEPTS LIVE in K-Arena Yokohama 新曲「好きish」コンサート
+
+https://www.bilibili.com/video/av117405145629444/?p=2
+
+#### AKB48 THREE CONCEPTS LIVE in K-Arena Yokohama 全員「好きish」コンサート
+
+https://www.bilibili.com/video/av117405145629444/?p=3
+
+#### AKB48 THREE CONCEPTS LIVE in K-Arena Yokohama 推しが「好きish」コンサート
+
+https://www.bilibili.com/video/av117405145629444/?p=4
+
+
 ## 初代存档补遗（Wayback Machine 增量核对）
 
 > 以下条目经自动比对确认存在初代资源站快照中且未收录于上方正文，按“只增不覆盖”原则增量补入，上方原正文保持不变。
