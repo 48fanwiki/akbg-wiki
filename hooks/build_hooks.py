@@ -29,15 +29,34 @@ def on_config(config):
     return config
 
 
+_PRESERVE_TAG_RE = re.compile(
+    r"(<(?:pre|code|script|style|textarea)\b[^>]*>.*?</(?:pre|code|script|style|textarea)>)",
+    re.S | re.I,
+)
+_HTML_COMMENT_RE = re.compile(r"<!--(?!\[if).*?-->", re.S)
+
+
+def _minify_html_whitespace(html: str) -> str:
+    """Safely collapse Jinja/MkDocs indentation whitespace without altering pre/code/script blocks."""
+    parts = _PRESERVE_TAG_RE.split(html)
+    for i in range(0, len(parts), 2):
+        chunk = _HTML_COMMENT_RE.sub("", parts[i])
+        chunk = re.sub(r">\s*\n\s*<", "><", chunk)
+        chunk = re.sub(r"\n[ \t]+", "\n", chunk)
+        chunk = re.sub(r"\n{2,}", "\n", chunk)
+        parts[i] = chunk
+    return "".join(parts)
+
+
 def on_post_page(output, page, config):
-    """Append ?v=<hash> to custom CSS/JS references so HTML and JS never mismatch."""
+    """Append ?v=<hash> to custom CSS/JS references and minify HTML indentation whitespace."""
     for rel, digest in _ASSET_HASHES.items():
         output = re.sub(
             rf'((?:href|src)="[^"]*{re.escape(rel)})(")',
             rf"\1?v={digest}\2",
             output,
         )
-    return output
+    return _minify_html_whitespace(output)
 
 
 def _find_pagefind_cmd():

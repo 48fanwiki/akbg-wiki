@@ -407,10 +407,23 @@
     rafId = window.requestAnimationFrame(tick);
   }
 
+  function scheduleSakuraOnce() {
+    if (window.__akbSakuraScheduled || window.__akbSakuraInitialized) return;
+    window.__akbSakuraScheduled = true;
+    var start = function () {
+      if (typeof window.requestIdleCallback === "function") {
+        window.requestIdleCallback(initSakuraOnce, { timeout: 1200 });
+      } else {
+        initSakuraOnce();
+      }
+    };
+    window.setTimeout(start, 600);
+  }
+
   function onPageReady() {
     closeSearchModal();
     bindSearchEventsOnce();
-    initSakuraOnce();
+    scheduleSakuraOnce();
     enhanceLinks();
     enhanceTables();
   }
